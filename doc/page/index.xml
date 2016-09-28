@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Belgian Network Research Meeting</title>
+    <link>http://be-net.github.io/2016/page/</link>
+    <description>Recent content in Pages on Belgian Network Research Meeting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    <atom:link href="http://be-net.github.io/2016/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Program</title>
+      <link>http://be-net.github.io/2016/program/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>http://be-net.github.io/2016/program/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;9:00&lt;/strong&gt; Welcome&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;17:00&lt;/strong&gt; Goodbye&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>http://be-net.github.io/2016/registration/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>http://be-net.github.io/2016/registration/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
