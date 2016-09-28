@@ -1,0 +1,28 @@
+baseurl = "http://be-net.github.io/2016"
+languageCode = "en-us"
+title = "Belgian Network Research Meeting"
+theme = "lithium"
+googleAnalytics = ""
+disqusShortname = ""
+publishdir = "doc"
+
+[permalinks]
+    post = "/:year/:title/"
+    page = "/:title/"
+
+[[menu.main]]
+    name = "Program"
+    url = "/program/"
+[[menu.main]]
+    name = "Registration"
+    url = "/registration/"
+
+[params]
+    titleshort = "BeNet"
+    description = "Bla bla bla"
+
+    [params.logo]
+      url = "logo.png"
+      width = 50
+      height = 50
+

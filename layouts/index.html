@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  {{ range where .Data.Pages "Title" "Home" }}
+    {{ .Content }}
+  {{ end }}
+
+</main>
+
+{{ partial "footer.html" . }}
