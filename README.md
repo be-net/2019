@@ -9,13 +9,9 @@ It uses the [Lithium](https://github.com/jrutheiser/hugo-lithium-theme) theme.
 
 Clone the repo:
 
-```
-> git clone https://github.com/be-net/2016
-```
+    > git clone https://github.com/be-net/2016
 
 To see locally your changes (after installing hugo):
 
-    ```
     > cd 2016
     > hugo serve
-    ```
