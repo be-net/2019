@@ -14,6 +14,9 @@ publishdir = "docs"
     name = "Program"
     url = "/program/"
 [[menu.main]]
+    name = "Location"
+    url = "/location-and-contact/"
+[[menu.main]]
     name = "Registration"
     url = "/registration/"
 
