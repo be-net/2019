@@ -1,0 +1,67 @@
+.highlight {
+    border-radius: 3px;
+    position: relative;
+    margin: 40px 0;
+    font-size: 14px;
+}
+
+.highlight pre {
+    padding: 10px;
+}
+
+.footer {
+    padding: 25px 0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #ccc;
+    font-size: 14px;
+}
+
+.footer-links li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.footer-links a {
+    color: #888;
+    text-decoration: none;
+    transition: color 150ms ease;
+    margin: 0 15px;
+}
+
+.footer-links a:hover,
+.footer-links a:focus {
+    color: #222;
+}
+
+.footer-links li::before {
+    content: '/';
+    position: relative;
+    left: -2px;
+}
+
+.footer-links li:first-child::before {
+    display: none;
+}
+.footer-links-kudos img {
+    position: relative;
+    top: 6px;
+    margin-left: 2px;
+}
+
+@media (min-width: 600px) {
+    .highlight {
+        font-size: 16px;
+        margin: 40px -20px;
+    }
+    .footer-links {
+        font-size: inherit;
+    }
+}

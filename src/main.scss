@@ -1,0 +1,151 @@
+@import 'old';
+@import 'normalize';
+
+$nav_logo_bg: teal;
+$nav_logo_fg: #FFDC00;
+$nav_color: #e0f0f0;
+$link_color: #CBF8DF;
+$break: 800px;
+
+$padding: 10px;
+
+$basefontsize: 18px;
+$basefontsize_small: 14px;
+
+h1 {font-size: $basefontsize_small * 2.5;};
+h2 {font-size: $basefontsize_small * 2.0;};
+h3 {font-size: $basefontsize_small * 1.7;};
+h4 {font-size: $basefontsize_small * 1.4;};
+h5 {font-size: $basefontsize_small * 1.2;};
+h6 {font-size: $basefontsize_small * 1.1;};
+@media (min-width: $break) {
+    h1 {font-size: $basefontsize * 2.5;};
+    h2 {font-size: $basefontsize * 2.0;};
+    h3 {font-size: $basefontsize * 1.7;};
+    h4 {font-size: $basefontsize * 1.4;};
+    h5 {font-size: $basefontsize * 1.2;};
+    h6 {font-size: $basefontsize * 1.1;};
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', sans-serif;
+  color: #222;
+}
+
+
+.header {
+    background-color: $nav_color;
+    padding: 25px 0;
+    @media screen and (min-width: $break) {
+        padding: 30px 0;
+    }
+}
+
+nav {
+    margin: 0 auto;
+    text-align: right;
+    font-family: 'Lato', sans-serif;
+    width:100%;
+    @media screen and (min-width: $break) {
+        width: $break;
+    }
+    .logo {
+        float: left;
+        padding: 5px;
+
+        margin-left: $padding;
+        margin-top: -15px;
+        font-size: 30px;
+        @media screen and (min-width: $break) {
+            margin-top: -20px;
+            margin-left: 0px;
+            font-size: 40px;
+        }
+
+        font-weight: bold;
+        background-color: $nav_logo_bg;
+        transition: transform 150ms ease-out;
+        a {
+            color: $nav_logo_fg;
+            text-decoration: none;
+            &:hover, &:focus {
+                background-color: transparent;
+            }
+        }
+
+    }
+
+    .logo:hover {
+        transform: scale(1.1);
+    }
+    .nav-links {
+        margin: 0;
+        padding: 0;
+        margin-right: $padding;
+        font-size: $basefontsize_small * 1.1;
+        @media screen and (min-width: $break) {
+            font-size: $basefontsize * 1.1;
+            margin-right: 0px;
+        }
+        list-style: none;
+        li {
+            display: inline-block;
+            margin: 0 0 0 15px;
+
+        }
+        li:first-child {
+            margin-left: 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #111;
+        }
+
+        a:hover {
+            color: #000;
+        }
+    }
+}
+
+.article-content {
+    p {
+        margin: 15px 0 25px;
+    }
+}
+
+
+a {
+    color: darken($link_color, 50%);
+    background: transparent;
+    transition: background 150ms ease;
+    &:hover, &:focus {
+        background-color: $link_color;
+    }
+}
+
+.content {
+    width: 100%;
+    padding-left: $padding;
+    padding-right: $padding;
+
+    font-size: $basefontsize_small;
+
+    @media screen and (min-width: $break) {
+        width: $break;
+        padding: 0px;
+        margin: 100px auto;
+
+        font-size: $basefontsize;
+    }
+    color: #555;
+}
