@@ -110,7 +110,9 @@ nav {
         a {
             padding: 5px;
             text-decoration: none;
-            background-color: darken($nav_color, 5%);
+            border-color: lighten($nav_color, 5%);
+            border-width: 1px;
+            border-style: solid;
             color: $text_gray;
             &:hover, &:focus {
                 color: black;
