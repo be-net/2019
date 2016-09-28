@@ -4,7 +4,7 @@ title = "Belgian Network Research Meeting"
 theme = "lithium"
 googleAnalytics = ""
 disqusShortname = ""
-publishdir = "doc"
+publishdir = "docs"
 
 [permalinks]
     post = "/:year/:title/"
