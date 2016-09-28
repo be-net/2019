@@ -8,3 +8,11 @@ title = "Program"
 - **9:00** Welcome
 - **17:00** Goodbye
 
+# Organizers
+
+- J.-C. Delvenne
+- L. Peel
+- M. Schaub
+- L. Gutierrez
+- M. Faccin
+- ...

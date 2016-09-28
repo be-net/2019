@@ -46,7 +46,3 @@ To receive further information about this meeting and the growing group of Belgi
 
 http://listserv.vub.ac.be/mailman/listinfo/benet
 
-
-SUBPAGES: 
-ORGANIZERS / LOCATION
-

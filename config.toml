@@ -15,13 +15,13 @@ publishdir = "docs"
     url = "/program/"
     weight = -106
 [[menu.main]]
-    name = "Location"
-    url = "/location-and-contact/"
-    weight = -104
-[[menu.main]]
     name = "Registration"
     url = "/registration/"
     weight = -105
+[[menu.main]]
+    name = "Location"
+    url = "/location-and-contact/"
+    weight = -104
 
 [params]
     titleshort = "BeNet"
