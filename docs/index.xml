@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Belgian Network Research Meeting</title>
-    <link>http://be-net.github.io/2016/</link>
+    <link>https://be-net.github.io/2016/</link>
     <description>Recent content on Belgian Network Research Meeting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
-    <atom:link href="http://be-net.github.io/2016/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://be-net.github.io/2016/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Home</title>
-      <link>http://be-net.github.io/2016/</link>
+      <link>https://be-net.github.io/2016/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>http://be-net.github.io/2016/</guid>
+      <guid>https://be-net.github.io/2016/</guid>
       <description>
 
 &lt;h2 id=&#34;benet-what&#34;&gt;BeNet &amp;ndash; What?&lt;/h2&gt;
@@ -65,10 +65,10 @@ register for this event.&lt;/p&gt;
     
     <item>
       <title>Location and Contact</title>
-      <link>http://be-net.github.io/2016/location-and-contact/</link>
+      <link>https://be-net.github.io/2016/location-and-contact/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>http://be-net.github.io/2016/location-and-contact/</guid>
+      <guid>https://be-net.github.io/2016/location-and-contact/</guid>
       <description>
 
 &lt;h1 id=&#34;location&#34;&gt;Location&lt;/h1&gt;
@@ -106,10 +106,10 @@ var popup = L.popup();
     
     <item>
       <title>Program</title>
-      <link>http://be-net.github.io/2016/program/</link>
+      <link>https://be-net.github.io/2016/program/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>http://be-net.github.io/2016/program/</guid>
+      <guid>https://be-net.github.io/2016/program/</guid>
       <description>
 
 &lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
@@ -139,10 +139,10 @@ var popup = L.popup();
     
     <item>
       <title>Registration</title>
-      <link>http://be-net.github.io/2016/registration/</link>
+      <link>https://be-net.github.io/2016/registration/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>http://be-net.github.io/2016/registration/</guid>
+      <guid>https://be-net.github.io/2016/registration/</guid>
       <description>
 
 &lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
