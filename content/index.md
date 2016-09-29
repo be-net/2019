@@ -35,8 +35,8 @@ Registration is **free**: please register by **30. October, 2016**.
 If you submit an abstract for a talk or a poster you will be automatically registered.
 Otherwise you can register by simply sending an 'empty' abstract with the words [REGISTRATION] via easychair.
 
-**Important Dates**
-Registration and Abstract Deadline: XYZ
+**Important Dates**  
+Registration and Abstract Deadline: XYZ  
 Notification of acceptance: XYZ
 
 
