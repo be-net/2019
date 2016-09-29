@@ -464,6 +464,13 @@ h6 {
   font-family: 'Lato', sans-serif;
   color: #222; }
 
+b, strong {
+  font-weight: bold;
+  color: black; }
+
+em {
+  font-style: italic; }
+
 .header {
   background-color: #e0f0f0;
   padding: 25px 0; }
@@ -544,11 +551,11 @@ h6 {
   margin: 15px 0 25px; }
 
 a {
-  color: #17ad5a;
+  color: #448d8d;
   background: transparent;
   transition: background 150ms ease; }
   a:hover, a:focus {
-    background-color: #CBF8DF; }
+    background-color: #e0f0f0; }
 
 .content {
   padding-left: 10px;
