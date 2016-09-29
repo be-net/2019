@@ -4,6 +4,7 @@ title = "Location and Contact"
 
 +++
 
+# Location
 
 - LOCATION
 - Organizers: JC and co..

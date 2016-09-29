@@ -2,7 +2,7 @@
 
 <main class="content" role="main">
 
-    <h1>{{ .Title }}</h1>
+    {{ .TableOfContents }}
 
     {{ if eq .Section "post" }}
     <span class="article-date">{{ .Date.Format "January 1, 2006" }}</span>

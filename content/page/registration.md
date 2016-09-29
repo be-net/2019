@@ -4,4 +4,6 @@ title = "Registration"
 
 +++
 
+# Registration
+
 Lorem ipsum dolor sit amet.

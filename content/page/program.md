@@ -4,11 +4,12 @@ title = "Program"
 
 +++
 
+# Program
 
 - **9:00** Welcome
 - **17:00** Goodbye
 
-# Organizers
+# Organizing Committee
 
 - J.-C. Delvenne
 - L. Peel

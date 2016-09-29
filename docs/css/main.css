@@ -471,15 +471,15 @@ h6 {
     .header {
       padding: 30px 0; } }
 
-nav {
+.nav {
   margin: 0 auto;
   text-align: right;
   font-family: 'Lato', sans-serif;
   width: 100%; }
   @media screen and (min-width: 800px) {
-    nav {
+    .nav {
       width: 800px; } }
-  nav .logo {
+  .nav .logo {
     float: left;
     padding: 5px;
     margin-left: 10px;
@@ -489,42 +489,56 @@ nav {
     background-color: teal;
     transition: transform 150ms ease-out; }
     @media screen and (min-width: 800px) {
-      nav .logo {
+      .nav .logo {
         margin-top: -20px;
         margin-left: 0px;
         font-size: 40px; } }
-    nav .logo a {
+    .nav .logo a {
       color: #FFDC00;
       text-decoration: none; }
-      nav .logo a:hover, nav .logo a:focus {
+      .nav .logo a:hover, .nav .logo a:focus {
         background-color: transparent; }
-  nav .logo:hover {
+  .nav .logo:hover {
     transform: scale(1.1); }
-  nav .nav-links {
+  .nav .nav-links {
     margin: 0;
     padding: 0;
     margin-right: 10px;
     font-size: 15.4px;
     list-style: none; }
     @media screen and (min-width: 800px) {
-      nav .nav-links {
+      .nav .nav-links {
         font-size: 19.8px;
         margin-right: 0px; } }
-    nav .nav-links li {
+    .nav .nav-links li {
       display: inline-block;
       margin: 0 0 0 15px; }
-    nav .nav-links li:first-child {
+    .nav .nav-links li:first-child {
       margin-left: 0; }
-    nav .nav-links a {
+    .nav .nav-links a {
       padding: 5px;
       text-decoration: none;
       border-color: #f1f8f8;
       border-width: 1px;
       border-style: solid;
       color: #505050; }
-      nav .nav-links a:hover, nav .nav-links a:focus {
+      .nav .nav-links a:hover, .nav .nav-links a:focus {
         color: black;
         background-color: transparent; }
+
+#TableOfContents {
+  padding: 5px;
+  background-color: #e0f0f0;
+  float: right; }
+  #TableOfContents:before {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    content: "In This Page:"; }
+  #TableOfContents ul {
+    padding-left: 30px;
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px; }
 
 .article-content p {
   margin: 15px 0 25px; }

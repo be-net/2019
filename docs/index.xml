@@ -68,7 +68,11 @@ Notification of acceptance: XYZ&lt;/p&gt;
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>http://be-net.github.io/2016/location-and-contact/</guid>
-      <description>&lt;ul&gt;
+      <description>
+
+&lt;h1 id=&#34;location&#34;&gt;Location&lt;/h1&gt;
+
+&lt;ul&gt;
 &lt;li&gt;LOCATION&lt;/li&gt;
 &lt;li&gt;Organizers: JC and co..&lt;/li&gt;
 &lt;/ul&gt;
@@ -83,12 +87,14 @@ Notification of acceptance: XYZ&lt;/p&gt;
       <guid>http://be-net.github.io/2016/program/</guid>
       <description>
 
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;9:00&lt;/strong&gt; Welcome&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;17:00&lt;/strong&gt; Goodbye&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;organizers&#34;&gt;Organizers&lt;/h1&gt;
+&lt;h1 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;J.-C. Delvenne&lt;/li&gt;
@@ -107,7 +113,11 @@ Notification of acceptance: XYZ&lt;/p&gt;
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>http://be-net.github.io/2016/registration/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet.&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet.&lt;/p&gt;
 </description>
     </item>
     
