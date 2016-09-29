@@ -30,15 +30,13 @@ Where? -- Registration And Important Dates
 ------------------------------------------
 BE-NET 2016 will take place in Louvain-la-Neuve on the XYZ of December.
 
-Registration is **free**: please register by **30. October, 2016**.
+### Important Dates
 
-If you submit an abstract for a talk or a poster you will be automatically registered.
-Otherwise you can register by simply sending an 'empty' abstract with the words [REGISTRATION] via easychair.
+- Registration and Abstract Deadline: **30 Octobre 2016**
+- Notification of acceptance: **15 Novembre 2016**
 
-**Important Dates**
-Registration and Abstract Deadline: XYZ
-Notification of acceptance: XYZ
-
+See [here](registration) for a more complete information on how to apply and
+register for this event.
 
 Mailing list
 ------------

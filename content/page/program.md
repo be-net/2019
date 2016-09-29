@@ -20,4 +20,5 @@ title = "Program"
 - M. Schaub
 - L. Gutierrez
 - M. Faccin
-- ...
+- Sophie Béreau
+- Yerali Gandica
