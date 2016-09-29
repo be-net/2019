@@ -1,4 +1,4 @@
-baseurl = "https://be-net.github.io/2016"
+baseurl = "https://be-net.github.io/2016/"
 languageCode = "en-us"
 title = "Belgian Network Research Meeting"
 theme = "lithium"
