@@ -91,12 +91,29 @@ var popup = L.popup();
       <guid>https://be-net.github.io/2016/registration/</guid>
       <description>
 
+&lt;h1 id=&#34;important-dates&#34;&gt;Important dates:&lt;/h1&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Abstract submission&lt;/dt&gt;
+&lt;dd&gt;30 October (both oral and poster contributions)&lt;/dd&gt;
+&lt;dt&gt;Registration&lt;/dt&gt;
+&lt;dd&gt;30 October (for those who don&amp;rsquo;t want to submit a paper/poster)&lt;/dd&gt;
+&lt;/dl&gt;
+
 &lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
 
-&lt;p&gt;Oral contributions (20 minutes) and poster are welcome,
-you can apply  for both via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.
-In order to apply
-please, submit your abstract (text only, 2-300 words) via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; for
+submissions.&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Oral contributions:&lt;/dt&gt;
+&lt;dd&gt;short talks abstracts (20 minutes including questions) should be submitted
+to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
+&lt;dt&gt;Poster contributions:&lt;/dt&gt;
+&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; (text only,
+no more than 300 words).
+Please append the word &lt;code&gt;[POSTER]&lt;/code&gt; to the title of your submission.&lt;/dd&gt;
+&lt;/dl&gt;
 
 &lt;p&gt;If you submit an abstract for a talk or a poster you will be automatically
 registered.&lt;/p&gt;
@@ -104,8 +121,9 @@ registered.&lt;/p&gt;
 &lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
 
 &lt;p&gt;Registration is &lt;strong&gt;free&lt;/strong&gt;: please register by &lt;strong&gt;30 October 2016&lt;/strong&gt;.
-You can register by simply sending an &amp;lsquo;empty&amp;rsquo; abstract with the
-words [REGISTRATION] via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+For those who haven&amp;rsquo;t submitted a oral/poster contribution,
+you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
+word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

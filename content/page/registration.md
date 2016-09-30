@@ -4,13 +4,29 @@ title = "Registration"
 
 +++
 
+
+# Important dates:
+
+Abstract submission
+:   30 October (both oral and poster contributions)
+
+Registration
+:   30 October (for those who don't want to submit a paper/poster)
+
+
 # Call for abstracts
 
+Oral and poster contribution are welcome, please refer to [EasyChair][1] for
+submissions.
 
-Oral contributions (20 minutes) and poster are welcome, 
-you can apply  for both via [EasyChair][1].
-In order to apply
-please, submit your abstract (text only, 2-300 words) via [EasyChair][1].
+Oral contributions:
+:   short talks abstracts (20 minutes including questions) should be submitted
+to [EasyChair][1] in text format (no more than 300 words).
+
+Poster contributions:
+:   submit the abstract to [EasyChair][1] (text only,
+no more than 300 words).
+Please append the word `[POSTER]` to the title of your submission.
 
 If you submit an abstract for a talk or a poster you will be automatically
 registered.
@@ -18,8 +34,9 @@ registered.
 # Registration
 
 Registration is **free**: please register by **30 October 2016**.
-You can register by simply sending an 'empty' abstract with the
-words [REGISTRATION] via [EasyChair][1].
+For those who haven't submitted a oral/poster contribution,
+you can register by simply sending an *empty* abstract with the
+word `[REGISTRATION]` via [EasyChair][1].
 
 [1]: https://easychair.org/conferences/?conf=benet2016 "EasyChair"
 

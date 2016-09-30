@@ -464,9 +464,12 @@ h6 {
   font-family: 'Lato', sans-serif;
   color: #222; }
 
-b, strong {
+b, strong, dt {
   font-weight: bold;
   color: black; }
+
+code {
+  background-color: #eee; }
 
 em {
   font-style: italic; }
