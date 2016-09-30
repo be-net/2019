@@ -20,5 +20,5 @@ title = "Program"
 - [Mauro Faccin](http://maurofaccin.bitbucket.org/)
 - [Yerali Gandica](https://sites.google.com/site/ygandica/)
 - [Leonardo Gutierrez](http://www.uclouvain.be/leonardo.gutierrez)
-- [Leto Peel](http://gdriv.es/letopeel)
+- [Leto Peel](https://piratepeel.github.io/)
 - [Michael Schaub](http://michaelschaub.github.io/)
