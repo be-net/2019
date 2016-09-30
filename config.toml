@@ -32,3 +32,6 @@ publishdir = "docs"
       width = 50
       height = 50
 
+[blackfriday]
+   plainIDAnchors = true
+   hrefTargetBlank = true

@@ -15,10 +15,10 @@ title = "Program"
 
 # Organizing Committee
 
-- J.-C. Delvenne
-- L. Peel
-- M. Schaub
-- L. Gutierrez
-- M. Faccin
-- Sophie Béreau
-- Yerali Gandica
+- [Sophie Béreau](http://perso.uclouvain.be/sophie.bereau/presentation.html)
+- [Jean-Charles Delvenne](http://perso.uclouvain.be/jean-charles.delvenne/)
+- [Mauro Faccin](http://maurofaccin.bitbucket.org/)
+- [Yerali Gandica](https://sites.google.com/site/ygandica/)
+- [Leonardo Gutierrez](http://www.uclouvain.be/leonardo.gutierrez)
+- [Leto Peel](http://gdriv.es/letopeel)
+- [Michael Schaub](http://michaelschaub.github.io/)

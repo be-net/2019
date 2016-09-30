@@ -72,13 +72,13 @@ var popup = L.popup();
 &lt;h1 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;J.-C. Delvenne&lt;/li&gt;
-&lt;li&gt;L. Peel&lt;/li&gt;
-&lt;li&gt;M. Schaub&lt;/li&gt;
-&lt;li&gt;L. Gutierrez&lt;/li&gt;
-&lt;li&gt;M. Faccin&lt;/li&gt;
-&lt;li&gt;Sophie Béreau&lt;/li&gt;
-&lt;li&gt;Yerali Gandica&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34; target=&#34;_blank&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34; target=&#34;_blank&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34; target=&#34;_blank&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gdriv.es/letopeel&#34; target=&#34;_blank&#34;&gt;Leto Peel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34; target=&#34;_blank&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -102,15 +102,15 @@ var popup = L.popup();
 
 &lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
 
-&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; for
+&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; for
 submissions.&lt;/p&gt;
 
 &lt;dl&gt;
 &lt;dt&gt;Oral contributions:&lt;/dt&gt;
 &lt;dd&gt;short talks abstracts (20 minutes including questions) should be submitted
-to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
+to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
 &lt;dt&gt;Poster contributions:&lt;/dt&gt;
-&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; (text only,
+&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; (text only,
 no more than 300 words).
 Please append the word &lt;code&gt;[POSTER]&lt;/code&gt; to the title of your submission.&lt;/dd&gt;
 &lt;/dl&gt;
@@ -123,7 +123,7 @@ registered.&lt;/p&gt;
 &lt;p&gt;Registration is &lt;strong&gt;free&lt;/strong&gt;: please register by &lt;strong&gt;30 October 2016&lt;/strong&gt;.
 For those who haven&amp;rsquo;t submitted a oral/poster contribution,
 you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
-word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
