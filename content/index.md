@@ -6,7 +6,7 @@ title = "Home"
 
 BeNet -- What?
 --------------
-The 6th edition of the Belgian Network Research Meeting (BENet) will be held at the Université catholique de Louvain (UCL) on December XYZ, 2016.
+The 6th edition of the Belgian Network Research Meeting (BENet) will be held at the Université catholique de Louvain (UCL) on December 15th, 2016.
 
 The purpose of this annual gathering is to foster communication among Belgian researchers employing a network paradigm in their work, regardless of their discipline: sociology, economics, communication, history, biology, physics, medicine, informatics, etc.  
 
@@ -28,12 +28,12 @@ The scope of the meeting includes but is not restricted to:
 
 Where? -- Registration And Important Dates
 ------------------------------------------
-BE-NET 2016 will take place in Louvain-la-Neuve on the XYZ of December.
+BE-NET 2016 will take place in Louvain-la-Neuve on the 15th of December.
 
 ### Important Dates
 
-- Registration and Abstract Deadline: **30 Octobre 2016**
-- Notification of acceptance: **15 Novembre 2016**
+- Registration and Abstract Deadline: **30. October 2016**
+- Notification of acceptance: **15. November 2016**
 
 See [here](registration) for a more complete information on how to apply and
 register for this event.
