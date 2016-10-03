@@ -76,7 +76,7 @@ var popup = L.popup();
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;9:30&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Invited speaker TBA&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics/about/&#34; title=&#34;Graham home page&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;Invited Speaker&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -121,7 +121,7 @@ var popup = L.popup();
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h1&gt;
+&lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/li&gt;

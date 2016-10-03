@@ -17,11 +17,11 @@
       <guid>https://be-net.github.io/2016/</guid>
       <description>
 
-&lt;h2 id=&#34;benet-what&#34;&gt;BeNet &amp;ndash; What?&lt;/h2&gt;
+&lt;h1 id=&#34;benet-what&#34;&gt;BeNet &amp;ndash; What?&lt;/h1&gt;
 
 &lt;p&gt;The 6th edition of the Belgian Network Research Meeting (BENet) will be held at the Université catholique de Louvain (UCL) on December 15th, 2016.&lt;/p&gt;
 
-&lt;p&gt;The purpose of this annual gathering is to foster communication among Belgian researchers employing a network paradigm in their work, regardless of their discipline: sociology, economics, communication, history, biology, physics, medicine, informatics, etc.&lt;/p&gt;
+&lt;p&gt;The purpose of this annual gathering is to foster communication among Belgian researchers employing a network paradigm in their work, regardless of their discipline: sociology, economics, communication, history, biology, physics, medicine, informatics etc.&lt;/p&gt;
 
 &lt;p&gt;Previous editions were held in Namur (UNamur 2015), Brussels (ULB 2014), Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).&lt;/p&gt;
 
@@ -30,22 +30,30 @@
 &lt;ul&gt;
 &lt;li&gt;Social &amp;amp; organizational theory&lt;/li&gt;
 &lt;li&gt;Economics &amp;amp; Finance&lt;/li&gt;
-&lt;li&gt;Social media &amp;amp; online activities&lt;/li&gt;
+&lt;li&gt;Social media &amp;amp; On-line activities&lt;/li&gt;
 &lt;li&gt;Human communication &amp;amp; mobility&lt;/li&gt;
 &lt;li&gt;Information diffusion &amp;amp; opinion dynamics&lt;/li&gt;
 &lt;li&gt;Political networks &amp;amp; collective action&lt;/li&gt;
-&lt;li&gt;Ecology, ethology, food webs&lt;/li&gt;
-&lt;li&gt;Biology &amp;amp; bioinformatics&lt;/li&gt;
+&lt;li&gt;Ecology, Ethology, food webs&lt;/li&gt;
+&lt;li&gt;Biology &amp;amp; Bioinformatics&lt;/li&gt;
 &lt;li&gt;Epidemiology&lt;/li&gt;
 &lt;li&gt;Physics, Mathematics &amp;amp; Statistics&lt;/li&gt;
 &lt;li&gt;Modelling &amp;amp; Data Analysis&lt;/li&gt;
+&lt;li&gt;Geography &amp;amp; Urban Dynamics&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;where-registration-and-important-dates&#34;&gt;Where? &amp;ndash; Registration And Important Dates&lt;/h2&gt;
+&lt;h1 id=&#34;invited-speaker&#34;&gt;Invited Speaker&lt;/h1&gt;
 
-&lt;p&gt;BE-NET 2016 will take place in Louvain-la-Neuve on the 15th of December.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics/about/&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;,
+Associate Professor of Economics at the University of California.&lt;/p&gt;
 
-&lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
+&lt;h1 id=&#34;where-and-when&#34;&gt;Where and when?&lt;/h1&gt;
+
+&lt;p&gt;BE-NET 2016 will take place at CORE (Centre for Operation Research and
+Econometrics) in Louvain-la-Neuve on the 15th of December
+(see &lt;a href=&#34;location-and-contact&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Registration and Abstract Deadline: &lt;strong&gt;30. October 2016&lt;/strong&gt;&lt;/li&gt;
@@ -55,11 +63,12 @@
 &lt;p&gt;See &lt;a href=&#34;registration&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for a more complete information on how to apply and
 register for this event.&lt;/p&gt;
 
-&lt;h2 id=&#34;mailing-list&#34;&gt;Mailing list&lt;/h2&gt;
+&lt;h1 id=&#34;mailing-list&#34;&gt;Mailing list&lt;/h1&gt;
 
-&lt;p&gt;To receive further information about this meeting and the growing group of Belgian researchers working on networks, please subscribe to this mailing list created and administered by Matteo Gagliolo:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://listserv.vub.ac.be/mailman/listinfo/benet&#34; target=&#34;_blank&#34;&gt;http://listserv.vub.ac.be/mailman/listinfo/benet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To receive further information about this meeting and the growing group of
+Belgian researchers working on networks, please subscribe to this
+&lt;em&gt;&lt;a href=&#34;http://listserv.vub.ac.be/mailman/listinfo/benet&#34; target=&#34;_blank&#34;&gt;mailing list&lt;/a&gt;&lt;/em&gt;
+created and administered by Matteo Gagliolo.&lt;/p&gt;
 </description>
     </item>
     
@@ -130,7 +139,7 @@ var popup = L.popup();
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;9:30&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Invited speaker TBA&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics/about/&#34; title=&#34;Graham home page&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;Invited Speaker&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -175,7 +184,7 @@ var popup = L.popup();
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h1&gt;
+&lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/li&gt;

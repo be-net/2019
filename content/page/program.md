@@ -9,7 +9,7 @@ title = "Program"
 ||
 ---: | :---
 **9:00**  | Welcome
-**9:30**  | Invited speaker TBA
+**9:30**  | **[Bryan S. Graham][1]** *Invited Speaker*
 **10:30** | Coffee Break
 **11:00** | Contributed Talks
 **12:30** | Lunch + Poster Session
@@ -20,7 +20,9 @@ title = "Program"
 **17:00** | Goodbye
 
 
-# Organizing Committee
+[1]: http://bryangraham.github.io/econometrics/about/ "Graham home page"
+
+# Organising Committee
 
 - [Sophie Béreau](http://perso.uclouvain.be/sophie.bereau/presentation.html)
 - [Jean-Charles Delvenne](http://perso.uclouvain.be/jean-charles.delvenne/)
