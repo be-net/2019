@@ -474,6 +474,9 @@ code {
 em {
   font-style: italic; }
 
+td {
+  padding-right: 15px; }
+
 .header {
   background-color: #e0f0f0;
   padding: 25px 0; }

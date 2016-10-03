@@ -6,12 +6,19 @@ title = "Program"
 
 # Program
 
-- **9:00** Welcome
-- **9:30** Invited speaker TBA
-- **10:30** Coffee Break
-- **12:30** Lunch + Poster Session
-- **15:00** Coffee Break
-- **17:00** Goodbye
+||
+---: | :---
+**9:00**  | Welcome
+**9:30**  | Invited speaker TBA
+**10:30** | Coffee Break
+**11:00** | Contributed Talks
+**12:30** | Lunch + Poster Session
+**13:30** | *Mixing Event*
+**14:00** | Contributed Talks
+**15:00** | Coffee Break
+**15:30** | Contributed Talks
+**17:00** | Goodbye
+
 
 # Organizing Committee
 

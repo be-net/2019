@@ -114,14 +114,66 @@ var popup = L.popup();
 
 &lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;9:00&lt;/strong&gt; Welcome&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;9:30&lt;/strong&gt; Invited speaker TBA&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;10:30&lt;/strong&gt; Coffee Break&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;12:30&lt;/strong&gt; Lunch + Poster Session&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;15:00&lt;/strong&gt; Coffee Break&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;17:00&lt;/strong&gt; Goodbye&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;9:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Welcome&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;9:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Invited speaker TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;10:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Coffee Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;11:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Contributed Talks&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;12:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Lunch + Poster Session&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;13:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Mixing Event&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;14:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Contributed Talks&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;15:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Coffee Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;15:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Contributed Talks&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;17:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Goodbye&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h1 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h1&gt;
 
