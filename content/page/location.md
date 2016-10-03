@@ -6,7 +6,7 @@ slug = "location"
 
 # Location
 
-The BeNet2016 meeting will be held at the Université Catholique de Louvain
+The BeNet 2016 meeting will be held at the Université Catholique de Louvain
 (Louvain-la-Neuve), in the CORE building.
 
 <div id="mapid" style="width: 100%; height: 400px; border: solid 1px;"></div>

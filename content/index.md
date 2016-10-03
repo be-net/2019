@@ -6,7 +6,7 @@ title = "Home"
 
 # BeNet -- What?
 
-The 6th edition of the Belgian Network Research Meeting (BENet) will be held at the Université catholique de Louvain (UCL) on December 15th, 2016.
+The 6th edition of the Belgian Network Research Meeting (BeNet) will be held at the Université catholique de Louvain (UCL) on December 15th, 2016.
 
 The purpose of this annual gathering is to foster communication among Belgian researchers employing a network paradigm in their work, regardless of their discipline: sociology, economics, communication, history, biology, physics, medicine, informatics etc.  
 
@@ -34,7 +34,7 @@ Associate Professor of Economics at the University of California.
 
 # Where and when?
 
-BE-NET 2016 will take place at CORE (Centre for Operation Research and
+BeNet 2016 will take place at CORE (Centre for Operation Research and
 Econometrics) in Louvain-la-Neuve on the 15th of December
 (see [here](location-and-contact)).
 
