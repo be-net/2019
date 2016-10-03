@@ -113,23 +113,20 @@ em {
         list-style: none;
         li {
             display: inline-block;
-            margin: 0 0 0 15px;
-
+            margin: -1px 0 0 15px;
+            padding: 5px;
+            border-color: lighten($nav_color, 5%);
+            border-width: 1px;
+            border-style: solid;
         }
         li:first-child {
             margin-left: 0;
         }
 
         a {
-            padding: 5px;
-            text-decoration: none;
-            border-color: lighten($nav_color, 5%);
-            border-width: 1px;
-            border-style: solid;
             color: $text_gray;
             &:hover, &:focus {
                 color: black;
-                background-color: transparent;
             }
         }
     }
@@ -162,8 +159,10 @@ a {
     color: darken($link_color, 50%);
     background: transparent;
     transition: background 150ms ease;
+    text-decoration: none;
     &:hover, &:focus {
         background-color: $link_color;
+        color: black;
     }
 }
 
