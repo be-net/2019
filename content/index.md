@@ -10,9 +10,19 @@ The 6th edition of the Belgian Network Research Meeting (BeNet) will be held at 
 
 This annual meeting is a place for the Belgium-based researchers
 interested in the network paradigm to meet and communicate their
-results, regardless of the discipline: sociology, economics,
-communication, history, biology, physics, medicine, informatics,
-mathematics, statistics, geometry, etc.
+results, regardless of the discipline:
+biology,
+communication,
+economics,
+geometry,
+history,
+informatics,
+mathematics,
+medicine,
+physics,
+sociology,
+statistics,
+etc.
 
 Previous editions were held in Namur (UNamur 2015), Brussels (ULB 2014),
 Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).
