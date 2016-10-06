@@ -421,19 +421,19 @@ th {
   padding: 0; }
 
 h1 {
-  font-size: 35px; }
-
-h2 {
   font-size: 28px; }
 
+h2 {
+  font-size: 18.2px; }
+
 h3 {
-  font-size: 23.8px; }
+  font-size: 16.8px; }
 
 h4 {
-  font-size: 19.6px; }
+  font-size: 15.4px; }
 
 h5 {
-  font-size: 16.8px; }
+  font-size: 15.4px; }
 
 h6 {
   font-size: 15.4px; }
@@ -478,7 +478,7 @@ td {
   padding-right: 15px; }
 
 .header {
-  background-color: #e0f0f0;
+  box-shadow: 0px 5px 5px #e0f0f0;
   padding: 25px 0; }
   @media screen and (min-width: 800px) {
     .header {
@@ -530,12 +530,10 @@ td {
       border-color: #f1f8f8;
       border-width: 1px;
       border-style: solid; }
+      .nav .nav-links li:hover {
+        background-color: #e0f0f0; }
     .nav .nav-links li:first-child {
       margin-left: 0; }
-    .nav .nav-links a {
-      color: #505050; }
-      .nav .nav-links a:hover, .nav .nav-links a:focus {
-        color: black; }
 
 #TableOfContents {
   background-color: #e0f0f0;

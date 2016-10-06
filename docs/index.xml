@@ -23,9 +23,19 @@
 
 &lt;p&gt;This annual meeting is a place for the Belgium-based researchers
 interested in the network paradigm to meet and communicate their
-results, regardless of the discipline: sociology, economics,
-communication, history, biology, physics, medicine, informatics,
-mathematics, statistics, geometry, etc.&lt;/p&gt;
+results, regardless of the discipline:
+biology,
+communication,
+economics,
+geography,
+history,
+informatics,
+mathematics,
+medicine,
+physics,
+sociology,
+statistics,
+etc.&lt;/p&gt;
 
 &lt;p&gt;Previous editions were held in Namur (UNamur 2015), Brussels (ULB 2014),
 Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).
@@ -48,7 +58,7 @@ See &lt;a href=&#34;https://be-net.github.io&#34; target=&#34;_blank&#34;&gt;her
 &lt;li&gt;Geography &amp;amp; Urban Dynamics&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;joint-event&#34;&gt;Joint event&lt;/h2&gt;
+&lt;h3 id=&#34;joint-event&#34;&gt;Joint event&lt;/h3&gt;
 
 &lt;p&gt;From Mon, Dec 12, to Wed, Dec 14, a winter school on the econometrics of
 networks will be held at CORE, with a course by Bryan Graham. More
@@ -65,7 +75,7 @@ Associate Professor of Economics at the University of California, Berkeley.&lt;/
 Econometrics) in Louvain-la-Neuve on the 15th of December
 (see &lt;a href=&#34;location-and-contact&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
-&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Registration and Abstract Deadline: &lt;strong&gt;30 October 2016&lt;/strong&gt;&lt;/li&gt;
@@ -81,6 +91,12 @@ register for this event.&lt;/p&gt;
 Belgium-based researchers working on networks, please subscribe to this
 &lt;em&gt;&lt;a href=&#34;http://listserv.vub.ac.be/mailman/listinfo/benet&#34; target=&#34;_blank&#34;&gt;mailing list&lt;/a&gt;&lt;/em&gt;
 created and administered by Matteo Gagliolo.&lt;/p&gt;
+
+&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
+
+&lt;p&gt;For any question or request please contacti
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -122,6 +138,12 @@ L.marker([50.6693, 4.6153]).addTo(mymap)
 
 var popup = L.popup();
 &lt;/script&gt;
+
+&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
+
+&lt;p&gt;For any question or request please contacti
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -251,6 +273,12 @@ registered.&lt;/p&gt;
 For those who haven&amp;rsquo;t submitted a oral/poster contribution,
 you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
 word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
+
+&lt;p&gt;For any question or request please contacti
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

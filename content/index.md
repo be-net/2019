@@ -14,7 +14,7 @@ results, regardless of the discipline:
 biology,
 communication,
 economics,
-geometry,
+geography,
 history,
 informatics,
 mathematics,
@@ -43,7 +43,7 @@ The scope of the meeting includes but is not restricted to:
 - Modelling & Data Analysis
 - Geography & Urban Dynamics
 
-## Joint event
+### Joint event
 
 From Mon, Dec 12, to Wed, Dec 14, a winter school on the econometrics of
 networks will be held at CORE, with a course by Bryan Graham. More
@@ -61,7 +61,7 @@ Econometrics) in Louvain-la-Neuve on the 15th of December
 (see [here](location-and-contact)).
 
 
-## Important Dates
+### Important Dates
 
 - Registration and Abstract Deadline: **30 October 2016**
 - Notification of acceptance: **15 November 2016**
@@ -76,5 +76,8 @@ Belgium-based researchers working on networks, please subscribe to this
 *[mailing list](http://listserv.vub.ac.be/mailman/listinfo/benet)*
 created and administered by Matteo Gagliolo.
 
-
-
+# Contacts
+ 
+For any question or request please contacti
+[Sophie Béreau](<mailto:sophie.bereau@gmail.com>) or
+[Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)

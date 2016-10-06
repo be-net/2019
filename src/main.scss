@@ -14,11 +14,11 @@ $padding: 10px;
 $basefontsize: 18px;
 $basefontsize_small: 14px;
 
-h1 {font-size: $basefontsize_small * 2.5;};
-h2 {font-size: $basefontsize_small * 2.0;};
-h3 {font-size: $basefontsize_small * 1.7;};
-h4 {font-size: $basefontsize_small * 1.4;};
-h5 {font-size: $basefontsize_small * 1.2;};
+h1 {font-size: $basefontsize_small * 2.0;};
+h2 {font-size: $basefontsize_small * 1.3;};
+h3 {font-size: $basefontsize_small * 1.2;};
+h4 {font-size: $basefontsize_small * 1.1;};
+h5 {font-size: $basefontsize_small * 1.1;};
 h6 {font-size: $basefontsize_small * 1.1;};
 @media (min-width: $break) {
     h1 {font-size: $basefontsize * 2.5;};
@@ -61,7 +61,8 @@ td {
 }
 
 .header {
-    background-color: $nav_color;
+    // background-color: $nav_color;
+    box-shadow: 0px 5px 5px $nav_color;
     padding: 25px 0;
     @media screen and (min-width: $break) {
         padding: 30px 0;
@@ -122,16 +123,12 @@ td {
             border-color: lighten($nav_color, 5%);
             border-width: 1px;
             border-style: solid;
+            &:hover {
+                background-color: $nav_color;
+            }
         }
         li:first-child {
             margin-left: 0;
-        }
-
-        a {
-            color: $text_gray;
-            &:hover, &:focus {
-                color: black;
-            }
         }
     }
 }

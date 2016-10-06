@@ -34,3 +34,9 @@ L.marker([50.6693, 4.6153]).addTo(mymap)
 
 var popup = L.popup();
 </script>
+
+# Contacts
+ 
+For any question or request please contacti
+[Sophie Béreau](<mailto:sophie.bereau@gmail.com>) or
+[Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)

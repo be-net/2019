@@ -47,6 +47,12 @@ L.marker([50.6693, 4.6153]).addTo(mymap)
 
 var popup = L.popup();
 &lt;/script&gt;
+
+&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
+
+&lt;p&gt;For any question or request please contacti
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -176,6 +182,12 @@ registered.&lt;/p&gt;
 For those who haven&amp;rsquo;t submitted a oral/poster contribution,
 you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
 word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
+
+&lt;p&gt;For any question or request please contacti
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
