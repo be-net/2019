@@ -15,3 +15,12 @@ To see locally your changes (after installing hugo):
 
     > cd 2016
     > hugo serve
+
+to build the site in the `docs` folder:
+    
+    > make
+
+## Requirements
+
+- [hugo](https://gohugo.io/)
+- [sassc](https://github.com/sass/sassc)
