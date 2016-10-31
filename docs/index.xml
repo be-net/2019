@@ -245,8 +245,8 @@ var popup = L.popup();
 
 &lt;dl&gt;
 &lt;dt&gt;Abstract submission&lt;/dt&gt;
-&lt;dd&gt;30 October (both oral and poster contributions)
-Notification of acceptance&lt;/dd&gt;
+&lt;dd&gt;30 October (both oral and poster contributions)&lt;/dd&gt;
+&lt;dt&gt;Notification of acceptance&lt;/dt&gt;
 &lt;dd&gt;15 November&lt;/dd&gt;
 &lt;dt&gt;Registration&lt;/dt&gt;
 &lt;dd&gt;30 October (for those who don&amp;rsquo;t want to submit a paper/poster)&lt;/dd&gt;
