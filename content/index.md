@@ -45,10 +45,10 @@ The scope of the meeting includes but is not restricted to:
 
 ### Joint event
 
-From Mon, Dec 12, to Wed, Dec 14, the winter school on thei
-"Networks in economics and finance" will be held at CORE (Louvain-la-Neuve),
+From Mon, Dec 12, to Wed, Dec 14, the winter school on
+**Networks in economics and finance** will be held at CORE (Louvain-la-Neuve),
 with a course by Bryan Graham.
-More informations are available in its [website](http://www.unamur.be/en/eco/winter-school).
+For more informations, please vistit its [website](http://www.unamur.be/en/eco/winter-school).
 
 # Invited Speaker
 
