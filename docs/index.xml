@@ -95,7 +95,7 @@ created and administered by Matteo Gagliolo.&lt;/p&gt;
 
 &lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
 
-&lt;p&gt;For any question or request please contacti
+&lt;p&gt;For any question or request please contact
 &lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
 &lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -245,7 +245,9 @@ var popup = L.popup();
 
 &lt;dl&gt;
 &lt;dt&gt;Abstract submission&lt;/dt&gt;
-&lt;dd&gt;30 October (both oral and poster contributions)&lt;/dd&gt;
+&lt;dd&gt;30 October (both oral and poster contributions)
+Notification of acceptance&lt;/dd&gt;
+&lt;dd&gt;15 November&lt;/dd&gt;
 &lt;dt&gt;Registration&lt;/dt&gt;
 &lt;dd&gt;30 October (for those who don&amp;rsquo;t want to submit a paper/poster)&lt;/dd&gt;
 &lt;/dl&gt;

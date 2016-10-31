@@ -9,6 +9,8 @@ title = "Registration"
 
 Abstract submission
 :   30 October (both oral and poster contributions)
+Notification of acceptance
+:   15 November
 
 Registration
 :   30 October (for those who don't want to submit a paper/poster)

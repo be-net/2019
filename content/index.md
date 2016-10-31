@@ -79,6 +79,6 @@ created and administered by Matteo Gagliolo.
 
 # Contacts
  
-For any question or request please contacti
+For any question or request please contact
 [Sophie Béreau](<mailto:sophie.bereau@gmail.com>) or
 [Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)
