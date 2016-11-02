@@ -153,11 +153,20 @@ var popup = L.popup();
 
 &lt;dl&gt;
 &lt;dt&gt;Abstract submission&lt;/dt&gt;
-&lt;dd&gt;30 October (both oral and poster contributions)&lt;/dd&gt;
+&lt;dd&gt;
+Mon, Oct 31, 2016
+
+ (both oral and poster contributions)&lt;/dd&gt;
 &lt;dt&gt;Notification of acceptance&lt;/dt&gt;
-&lt;dd&gt;15 November&lt;/dd&gt;
-&lt;dt&gt;Registration&lt;/dt&gt;
-&lt;dd&gt;30 October (for those who don&amp;rsquo;t want to submit a paper/poster)&lt;/dd&gt;
+&lt;dd&gt;
+Tue, Nov 15, 2016
+
+&lt;/dd&gt;
+&lt;dt&gt;Registration (extended)&lt;/dt&gt;
+&lt;dd&gt;
+Sun, Nov 20, 2016
+
+ (for those who don&amp;rsquo;t want to submit a paper/poster)&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
@@ -180,7 +189,10 @@ registered.&lt;/p&gt;
 
 &lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
 
-&lt;p&gt;Registration is &lt;strong&gt;free&lt;/strong&gt;: please register by &lt;strong&gt;30 October 2016&lt;/strong&gt;.
+&lt;p&gt;Registration is &lt;strong&gt;free&lt;/strong&gt;: please register by &lt;strong&gt;
+Sun, Nov 20, 2016
+
+&lt;/strong&gt;.
 For those who haven&amp;rsquo;t submitted a oral/poster contribution,
 you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
 word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
