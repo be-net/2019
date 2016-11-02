@@ -7,6 +7,8 @@ $nav_color: #e0f0f0;
 $link_color: #CBF8DF;
 $link_color: $nav_color;
 $text_gray: #505050; 
+$alfg: #eeeeee;
+$albg: #bb4444;
 $break: 800px;
 
 $padding: 10px;
@@ -185,4 +187,14 @@ a {
         line-height: 1.4;
     }
     color: $text_gray;
+}
+
+.alarmbox {
+    background-color: $albg;
+    color: $alfg;
+    padding: 2ex;
+
+    h1, h2, h3 {
+        color: $alfg;
+    }
 }

@@ -1,0 +1,7 @@
+{{ if eq (.Get 0) "reg" }}
+{{ .Site.Params.reg_deadline.Format "Mon, Jan 2, 2006" }}
+{{ else if eq (.Get 0) "abs" }}
+{{ .Site.Params.abs_deadline.Format "Mon, Jan 2, 2006" }}
+{{ else if eq (.Get 0) "not" }}
+{{ .Site.Params.not_deadline.Format "Mon, Jan 2, 2006" }}
+{{ end }}

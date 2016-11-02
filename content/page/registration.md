@@ -8,13 +8,13 @@ title = "Registration"
 # Important dates:
 
 Abstract submission
-:   30 October (both oral and poster contributions)
+:   {{< deadline "abs" >}} (both oral and poster contributions)
 
 Notification of acceptance
-:   15 November
+:   {{< deadline "not" >}}
 
-Registration
-:   30 October (for those who don't want to submit a paper/poster)
+Registration (extended)
+:   {{< deadline "reg" >}} (for those who don't want to submit a paper/poster)
 
 
 # Call for abstracts
@@ -36,7 +36,7 @@ registered.
 
 # Registration
 
-Registration is **free**: please register by **30 October 2016**.
+Registration is **free**: please register by **{{< deadline "reg" >}}**.
 For those who haven't submitted a oral/poster contribution,
 you can register by simply sending an *empty* abstract with the
 word `[REGISTRATION]` via [EasyChair][1].

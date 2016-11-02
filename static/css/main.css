@@ -573,3 +573,10 @@ a {
       margin: 100px auto;
       font-size: 18px;
       line-height: 1.4; } }
+
+.alarmbox {
+  background-color: #bb4444;
+  color: #eeeeee;
+  padding: 2ex; }
+  .alarmbox h1, .alarmbox h2, .alarmbox h3 {
+    color: #eeeeee; }
