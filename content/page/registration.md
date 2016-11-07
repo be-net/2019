@@ -5,7 +5,7 @@ title = "Registration"
 +++
 
 
-# Important dates:
+# Important dates
 
 Abstract submission
 :   {{< deadline "abs" >}} (both oral and poster contributions)
