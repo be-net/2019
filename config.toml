@@ -26,9 +26,9 @@ publishdir = "docs"
 [params]
 titleshort = "BeNet2016"
 description = "Belgian Network Research Meeting"
-abs_deadline = 2016-10-31
-reg_deadline = 2016-11-20
-not_deadline = 2016-11-15
+abs_deadline = "2016-10-31"
+reg_deadline = "2016-11-20"
+not_deadline = "2016-11-15"
 
     [params.logo]
       url = "logo.png"

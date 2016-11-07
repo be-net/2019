@@ -1,7 +1,7 @@
 {{ if eq (.Get 0) "reg" }}
-{{ .Site.Params.reg_deadline.Format "Mon, Jan 2, 2006" }}
-{{ else if eq (.Get 0) "abs" }}
-{{ .Site.Params.abs_deadline.Format "Mon, Jan 2, 2006" }}
-{{ else if eq (.Get 0) "not" }}
-{{ .Site.Params.not_deadline.Format "Mon, Jan 2, 2006" }}
+{{ dateFormat "Mon, Jan 2, 2006" .Site.Params.reg_deadline }}
+{{ else if eq (.Get 0) "abs" }}                            
+{{ dateFormat "Mon, Jan 2, 2006" .Site.Params.abs_deadline }}
+{{ else if eq (.Get 0) "not" }}                            
+{{ dateFormat "Mon, Jan 2, 2006" .Site.Params.not_deadline }}
 {{ end }}

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Belgian Network Research Meeting</title>
-    <link>https://be-net.github.io/2016/</link>
+    <link>https://be-net.github.io/2016/index.xml</link>
     <description>Recent content on Belgian Network Research Meeting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -88,7 +88,7 @@ Econometrics) in Louvain-la-Neuve on the 15th of December
 &lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Abstract Deadline: &lt;strong&gt;
+&lt;li&gt;Abstract Deadline: &lt;strong&gt;                            
 Mon, Oct 31, 2016
 
 &lt;/strong&gt;&lt;/li&gt;
@@ -96,7 +96,7 @@ Mon, Oct 31, 2016
 Sun, Nov 20, 2016
 
 &lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Notification of acceptance: &lt;strong&gt;
+&lt;li&gt;Notification of acceptance: &lt;strong&gt;                            
 Tue, Nov 15, 2016
 
 &lt;/strong&gt;&lt;/li&gt;
@@ -264,12 +264,12 @@ var popup = L.popup();
 
 &lt;dl&gt;
 &lt;dt&gt;Abstract submission&lt;/dt&gt;
-&lt;dd&gt;
+&lt;dd&gt;                            
 Mon, Oct 31, 2016
 
  (both oral and poster contributions)&lt;/dd&gt;
 &lt;dt&gt;Notification of acceptance&lt;/dt&gt;
-&lt;dd&gt;
+&lt;dd&gt;                            
 Tue, Nov 15, 2016
 
 &lt;/dd&gt;
