@@ -1,0 +1,42 @@
+  \begin{tikzpicture}[font=\sffamily,
+      main/.style={%
+        black,
+      },
+      seco/.style={%
+        black!30,
+      },
+      scale=1.0]
+
+     \matrix (m) [matrix of nodes,
+           row sep = 0.15cm,
+           column sep = 0.3cm,
+           dot/.style={circle, fill=black!20,
+             inner sep=0pt,
+             minimum width=0.3cm, minimum height=2pt},
+           column 1/.style={black!50, anchor=east},
+           column 3/.style={anchor=west, text width=13cm},
+           conf/.style={black!50},
+           invited/.style={fill=black!10},
+           contributed/.style={},
+       ] {%
+       [[% set count = [0] %]]
+       [[% set schedule = [0] %]]
+       [[% for event in order %]]
+	[[% if count.append(count.pop() + 1) %]][[% endif %]]
+	[[ schedule | update_time(event, lenght) ]]
+	& |[dot]| &
+	[[% if event.title %]]
+	[[ event.title ]]
+	[[% else %]]
+	[[% set abs = talks[event.abs] %]]
+	\textit{[[ abs.Title ]]}\\[-0.25cm]
+	[[% if count.append(count.pop() + 1) %]][[% endif %]]
+	&& |[ inner ysep=1mm ]| 
+        \small
+        [[% for aut in abs.Authors %]]
+        [[% if aut.shortname %]][[ aut.shortname ]][[% else %]][[ aut.name ]][[% endif%]][[% if not loop.last %]], [[% endif %]]
+        [[% endfor %]]
+	[[% endif %]]\\[[% endfor %]]
+     };
+     \draw[->, black!20, very thick] ($ (m-1-2) + (0, 0.5) $) -- ($(m-[[ count[0] - 1 ]]-2) - (0, 1) $);
+  \end{tikzpicture}

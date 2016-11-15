@@ -1,0 +1,43 @@
+lenght: 20
+
+order:
+  -
+    start: '8:30'
+    title: Welcome
+  -
+    start: '9:00'
+    abs: graham
+  -
+    start: '10:30'
+    title: Coffee Break
+  -
+    start: '11:00'
+    abs: talk02
+  -
+    abs: talk03
+  -
+    abs: talk09
+  -
+    abs: talk10
+  -
+    start: '12:30'
+    title: Lunch + Poster session
+  -
+    start: '13:30'
+    title: Mixing Event
+  -
+    start: '14:00'
+    abs: talk12
+  -
+    abs: talk13
+  -
+    abs: talk16
+  -
+    title: Coffee Break
+  -
+    start: '15:30'
+    abs: talk17
+  -
+    abs: talk21
+  -
+    abs: talk30

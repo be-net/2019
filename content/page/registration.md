@@ -46,5 +46,6 @@ word `[REGISTRATION]` via [EasyChair][1].
 # Contacts
  
 For any question or request please contacti
-[Sophie Béreau](<mailto:sophie.bereau@gmail.com>) or
+[Sophie Béreau](<mailto:sophie.bereau@gmail.com>)
+or
 [Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)

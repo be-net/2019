@@ -1,0 +1,15 @@
+{% set schedule = [0] %}
+<dl>
+{% for event in order %}
+  {% set ll = schedule | update_time(event, lenght) %}
+  <dt>{{ ll }}</dt>
+  {% if event.title %}
+  <dd>{{ event.title }}</dd>
+  {% elif event.abs %}
+  <dd>{{ talks[event.abs].Title }}</dd>
+  {% if talks[event.abs].Submission == 0 %}
+  <dd>{{ talks[event.abs].Authors | join(', ', attribute='name') }}</dd>
+  <dd>{{ talks[event.abs].Authors | join(', ', attribute='name') }}</dd>
+  {% endif %}
+{% endfor %}
+</dl>

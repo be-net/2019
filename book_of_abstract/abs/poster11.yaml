@@ -1,0 +1,31 @@
+Submission: 11
+Title: Stationarity of the inter­event power­law distributions
+Poster: true
+Abstract: |
+  A number of human activities exhibit a bursty pattern, namely periods of very high activity that are followed by rest periods. Records of these processes generate time series of events whose inter­-event times follow a probability distribution that displays a fat tail. The grounds for such phenomenon are not yet clearly understood.
+  In this communication we will present some results concerning the use the freely available Wikipedia’s editing records to unravel some features of this phenomenon. We will show that even though the probability to start editing is conditioned by the circadian 24 hour cycle, the conditional probability for the time interval between successive edits at a given time of the day is independent from the latter. We confirm our findings with the activity of posting on the social network Twitter.
+  Our result suggests there is an intrinsic humankind scheduling pattern: after overcoming the encumbrance to start an activity, there is a robust distribution of new related actions, which does not depend on the time of day.
+Authors:
+  -
+    name: Yerali Gandica
+    email: ygandica@gmail.com
+    affiliation: University of Namur
+    corresponding: true
+  -
+    name: Joao Carvalho
+    email: jcarlos@uc.pt
+    affiliation: Universidade de Coimbra
+    country: Portugal
+  -
+    name: Fernando Sampaio Dos Aidos
+    email: aidos@teor.fis.uc.pt
+    country: Portugal
+    affiliation: Universidade de Coimbra
+  -
+    name: Renaud Lambiotte
+    email: renaud.lambiotte@fundp.ac.be
+    affiliation: University of Namur
+  -
+    name: Timoteo Carletti
+    email: timoteo.carletti@unamur.be
+    affiliatio: Namur Center for Complex Systems, University of Namur

@@ -1,0 +1,24 @@
+Submission: 10
+Title: "Assessing dynamic changes of the US financial market: insights from network science"
+Abstract: |
+  Drawing on the recent and buoyant literature inferring financial interconnectedness from market data by means of various time series techniques [Billio et al. (2012), Diebold and Yilmaz(2015) and Geraci and Gnabo (2016)], we propose in this communication an in-depth analysis of the US financial market and its dynamic, using tools coming from network science. The financial system analyzed consists in a large set of 154 banks, brokers/dealers, insurance and real state companies listed in the Standard \& Poor's 500 index for the period 1993 - 2014.
+  Looking at the individual, sectoral, community and system wide levels, we show that network science’s tools are able to support well-known features of financial markets such as the dramatic fall of connectivity amid Lehmann Brother collapse. In addition, we also unveil several important new patterns within US financial institutions interconnectedness.
+  Overall, our results improve our understanding of the US financial landscape and may have important implications for risk monitoring as well as macroprudential policy design.
+Authors:
+  -
+    name: Yerali Gandica
+    email: ygandica@gmail.com
+    affiliation: CeReFiM and Namur Center for Complex Systems – naXys. University of Namur
+    corresponding: true
+  -
+    name: Marco Geraci
+    email: m.v.geraci@gmail.com
+    affiliation: CeReFiM, University of Namur \& ECARES, Université libre de Bruxelles
+  -
+    name: Sophie Béreau
+    email: sophie.bereau@gmail.com
+    affiliation: CeReFiM, University of Namur \& CORE, Université Catholique de Louvain
+  -
+    name: Jean-Yves Gnabo
+    email: jean-yves.gnabo@unamur.be
+    affiliation: CeReFiM and Namur Center for Complex Systems – naXys. University of Namur

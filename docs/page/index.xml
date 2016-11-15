@@ -51,8 +51,79 @@ var popup = L.popup();
 &lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
 
 &lt;p&gt;For any question or request please contacti
-&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;
+or
 &lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Program</title>
+      <link>https://be-net.github.io/2016/new-program/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://be-net.github.io/2016/new-program/</guid>
+      <description>
+
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;8:30&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Welcome&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;9:00&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;TBA&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;10:30&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Coffee Break&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;11:00&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Interconnectedness as a Source of Uncertainty in Systemic Risk&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Tarik Roukny&lt;/dd&gt;
+&lt;dt&gt;11:20&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;The impact of business location on university contract research: a two-mode ERGM analysis&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;André Spithoven, Jef Vlegels, Walter Ysebaert&lt;/dd&gt;
+&lt;dt&gt;11:40&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Causal Inference Using Multi-Channel Regime Switching Information Transfer Estimation&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Carl-Henrik Dahlqvist&lt;/dd&gt;
+&lt;dt&gt;12:00&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Assessing dynamic changes of the US financial market: insights from network science&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Yerali Gandica, Marco Geraci, Sophie Béreau, Jean-Yves Gnabo&lt;/dd&gt;
+&lt;dt&gt;12:30&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Lunch + Poster session&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;13:30&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Mixing Event&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;14:00&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Shareholding network of financial institutions: a dynamic analysis&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Cyrille Dossougoin, Donald Zountcheme&lt;/dd&gt;
+&lt;dt&gt;14:20&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Sovereign Wealth Funds&amp;rsquo; cross-border investments: assessing the role of country-level drivers and spatial competition&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Malik Kerkour, Jean-Yves Gnabo, Nicolas Debarsy&lt;/dd&gt;
+&lt;dt&gt;14:40&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Stochastic Model for Information Propagation in Complex Networks&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Dimitri Papadimitriou&lt;/dd&gt;
+&lt;dt&gt;15:00&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Coffee Break&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;15:30&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Learning graph-structured dictionaries for sparse representation of diffusive signals on graphs&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Shuyu Dong&lt;/dd&gt;
+&lt;dt&gt;15:50&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Network Effect on Stock Market Participation&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Olga Balakina, Anastasia Parakhonyak&lt;/dd&gt;
+&lt;dt&gt;16:10&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;SIS Epidemics and the Direction of Information Flow in Brain Networks&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;Jil Meier&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34; target=&#34;_blank&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34; target=&#34;_blank&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34; target=&#34;_blank&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://piratepeel.github.io/&#34; target=&#34;_blank&#34;&gt;Leto Peel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34; target=&#34;_blank&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -82,7 +153,7 @@ var popup = L.popup();
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;9:30&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics/about/&#34; title=&#34;Graham home page&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;Invited Speaker&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics/about/&#34; title=&#34;Graham home page&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;  &lt;em&gt;Invited Speaker&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -130,13 +201,13 @@ var popup = L.popup();
 &lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34; target=&#34;_blank&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34; target=&#34;_blank&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34; target=&#34;_blank&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://piratepeel.github.io/&#34; target=&#34;_blank&#34;&gt;Leto Peel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34; target=&#34;_blank&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://piratepeel.github.io/&#34;&gt;Leto Peel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -171,15 +242,15 @@ Sun, Nov 20, 2016
 
 &lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
 
-&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; for
+&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; for
 submissions.&lt;/p&gt;
 
 &lt;dl&gt;
 &lt;dt&gt;Oral contributions:&lt;/dt&gt;
 &lt;dd&gt;short talks abstracts (20 minutes including questions) should be submitted
-to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
+to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
 &lt;dt&gt;Poster contributions:&lt;/dt&gt;
-&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; (text only,
+&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; (text only,
 no more than 300 words).
 Please append the word &lt;code&gt;[POSTER]&lt;/code&gt; to the title of your submission.&lt;/dd&gt;
 &lt;/dl&gt;
@@ -195,13 +266,14 @@ Sun, Nov 20, 2016
 &lt;/strong&gt;.
 For those who haven&amp;rsquo;t submitted a oral/poster contribution,
 you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
-word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
 
 &lt;p&gt;For any question or request please contacti
-&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt; or
-&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34;&gt;Sophie Béreau&lt;/a&gt;
+or
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

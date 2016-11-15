@@ -1,0 +1,11 @@
+Submission: 2
+Title: Interconnectedness as a Source of Uncertainty in Systemic Risk
+Abstract: |
+  Financial networks have shown to be important in understanding systemic events in credit markets. In this paper, we investigate how the structure of those networks can affect the capacity of regulators to assess the level of systemic risk. We introduce a model to compute the individual and systemic probability of default in a system of banks connected in a generic network of credit contracts and exposed to external shocks with a generic correlation structure. Even in the presence of complete knowledge, we identify conditions on the network for the emergence of multiple equilibria. Multiple equilibria give rise to uncertainty in the determination of the default probability. We show how this uncertainty can affect the estimation of systemic risk in terms of expected losses. We further quantify the effects of cyclicality, leverage, volatility and correlations. Our results are relevant to the current policy discussions on new regulatory framework to deal with systemic events of distress as well as on the desirable level of regulatory data disclosure.
+Authors:
+  -
+    name: Tarik Roukny
+    email: tarikroukny@gmail.com
+    affiliation: Université Libre de Bruxelles
+    url: http://www.tarikroukny.com
+    corresponding: true

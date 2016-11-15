@@ -31,7 +31,8 @@ etc.
 
 Previous editions were held in Namur (UNamur 2015), Brussels (ULB 2014),
 Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).
-See [here](https://be-net.github.io) for respective websites.
+See [here](https://be-net.github.io)
+for respective websites.
 
 The scope of the meeting includes but is not restricted to:
 

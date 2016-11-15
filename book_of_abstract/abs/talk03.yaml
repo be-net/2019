@@ -1,0 +1,23 @@
+Submission: 3
+Title: "The impact of business location on university contract research: a two-mode ERGM analysis"
+Abstract: |
+  Conceptually and empirically, relations between university and innovating businesses have been centre stage for some time. The research context focuses on the relationship established as a consequence of business contract research. University-industry linkages come in many shapes and forms. As indicated by the literature on distributed innovation (Coombs et al., 2003) and innovation systems (Godin and Gingras, 2000; Charles, 2006), overall businesses have various relationships with external organisations. Universities, likewise, maintain a multitude of relationships with private companies (see e.g. D’Este and Patel, 2007).
+  There is now a large empirical body of research on university-company linkages based on large surveys, patent (citation) analyses, bibliometric research and case study material (Fontana et al., 2006). Notwithstanding the large attention in empirical studies on university-company knowledge transfer, the practice of R\&D contract research to universities remains understudied as a particular source of knowledge. Hence the paper meets the call from D'Este and Patel (2007) to do further research on the variety of relationships between universities and companies.
+  This research focussed on the market-mediated contract research by businesses in order to acquire university research. This type of knowledge transfer is considered one of the less formal linkages involving monetary flows. Within this context the research brings out the business characteristics in their location choice and at the same time account for the university quality in terms of bibliometric data from universities. Although it has become an accepted premises that location is vital for knowledge exchange; an inquiry into this issue between universities and business is currently lacking. Because existing literature posits that location is a key facilitator for knowledge transfer activities, it is considered extensively in this paper.
+  Based on a panel of three consecutive waves of R\&D surveys conducted in 2006, 2008 and 2010, the linkages of universities with R\&D active businesses are empirically examined by merging two separate databases – one on university R\&D investments and one on business R\&D investments. We use this database to construct a two-mode network of firms and universities and we use bipartite Exponential Random Graph models to predict university industry linkages based on network characteristics, node attributes and location.
+  The preliminary findings , because of the explorative nature of the research, highlight at present three main findings. First, the R\&D intensity of a business has a positive impact on contract research. Second, the size (and quality?) of the university is important in the selection for business contract out. Third, the continuous measure of geographical distance showed a nonlinear U-shaped relation to the value of contract research: on the one hand universities located nearby can be seen to be part of the technology cluster of the company, on the other hand when the desired knowledge is located at far away universities these are also eligible partners for contract research.
+  The results in this paper will provide some insights on how science policy may reinforce regional innovation systems by acknowledging the role played by universities without enforcing universities to sell out the family silver and become ‘entrepreneurial’ organisations.
+Authors:
+  -
+    name: André Spithoven
+    email: aspitje@yahoo.com
+    affiliation: Vrije Universiteit Brussel
+  -
+    name: Jef Vlegels
+    email: jef.vlegels@vub.ac.be
+    affiliation: Vrije Universiteit Brussel
+    corresponding: true
+  -
+    name: Walter Ysebaert
+    email: walter.ysebaert@vub.ac.be
+    affiliation: Vrije Universiteit Brussel

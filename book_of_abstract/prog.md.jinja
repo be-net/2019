@@ -1,26 +1,28 @@
 +++
 date = "2016-05-05T21:48:51-07:00"
-title = "Program"
-
+title = "New Program"
 +++
 
 # Program
 
-||
----: | :---
-**9:00**  | Welcome
-**9:30**  | **[Bryan S. Graham][1]**  *Invited Speaker*
-**10:30** | Coffee Break
-**11:00** | Contributed Talks
-**12:30** | Lunch + Poster Session
-**13:30** | *Mixing Event*
-**14:00** | Contributed Talks
-**15:00** | Coffee Break
-**15:30** | Contributed Talks
-**17:00** | Goodbye
+{% set schedule = [0] %}
+{% for event in order %}
+  {% set ll = schedule | update_time(event, lenght) %}
+{{ ll }}
+  {% if event.title %}
+:   **{{ event.title }}**
+  {% elif event.abs %}
+    {% set talk = talks[event.abs] %}
+:   **{{ talk.Title }}**
+    {% if talk.Submission == 0 %}
+:   [{{ talk.Authors[0].name }}]({{ talk.Authors[0].url }})
+    {% else %}
+:   {{ talk.Authors | join(', ', attribute='name') }}
+    {% endif %}
+  {% endif %}
 
+{% endfor %}
 
-[1]: http://bryangraham.github.io/econometrics/about/ "Graham home page"
 
 # Organising Committee
 

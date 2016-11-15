@@ -1,0 +1,16 @@
+Submission: 21
+Title: Network Effect on Stock Market Participation
+Abstract: |
+  This paper investigates the effect of social networks on stock market participation in the economy. We study how stock market participation depends on number of informed agents and the intensity of social interactions, while controlling for the wealth distribution. We proceed to compare the performance of different models to estimate the significance of these effects. The impact of social networks on stock market participation is prominent in the empirical evidence of peer effects in the financial literature. We therefore introduce a model of social interaction of agents embedded in a social network and study diffusion of information about an entrance and operating on the stock market. In the model each agent faces fixed participation costs depending on agent type, professional and non-professional. We assume that non-professional agent has high participation cost due to lack of information about the stock market. The cost for non-professional agent is decreasing in the number of informed neighbors who provide information to their friends. We provide an algorithm for finding an equilibrium stock market participation for a particular network structure and use Danish registry data for the period 2010--2013 to test our hypothesis of the connectivity affecting the stock market participation.
+Authors:
+  -
+    name: Olga Balakina
+    email: olga.balakina@phd.unibocconi.it
+    country: Italy
+    affiliation: Bocconi University
+    corresponding: true
+  -
+    name: Anastasia Parakhonyak
+    email: aparakhonyak@gmail.com
+    country: France
+    affiliation: Toulouse School of Economics
