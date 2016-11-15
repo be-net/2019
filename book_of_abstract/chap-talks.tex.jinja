@@ -1,6 +1,7 @@
 
 
-[[% for kt, talk in talks.items() if talk.Submission != 0 %]]
+[[% for kt, talk in talks|dictsort(by='key') %]]
+[[% if talk.Submission != 0 %]]
 
 \newpage
 
@@ -15,4 +16,5 @@
 
 [[ talk.Abstract ]]
 
+[[% endif %]]
 [[% endfor %]]

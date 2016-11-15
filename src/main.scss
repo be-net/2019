@@ -198,3 +198,12 @@ a {
         color: $alfg;
     }
 }
+
+dd {
+    a {
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}

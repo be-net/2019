@@ -13,9 +13,10 @@ title = "New Program"
 :   **{{ event.title }}**
   {% elif event.abs %}
     {% set talk = talks[event.abs] %}
-:   **{{ talk.Title }}**
+:   [{{ talk.Title }}](../abs/{{ event.abs }})
     {% if talk.Submission == 0 %}
-:   [{{ talk.Authors[0].name }}]({{ talk.Authors[0].url }})
+:   **[{{ talk.Authors[0].name }}]({{ talk.Authors[0].url }})**
+:   *Invited Speaker*
     {% else %}
 :   {{ talk.Authors | join(', ', attribute='name') }}
     {% endif %}
@@ -24,12 +25,40 @@ title = "New Program"
 {% endfor %}
 
 
+# Poster contributions
+
+{% for ip, poster in posters.items() %}
+  
+[{{ poster.Title }}](../abs/{{ ip }})
+:   {{ poster.Authors | join(', ', attribute='name') }}
+
+{% endfor %}
+
+
+
+
+
 # Organising Committee
 
-- [Sophie Béreau](http://perso.uclouvain.be/sophie.bereau/presentation.html)
-- [Jean-Charles Delvenne](http://perso.uclouvain.be/jean-charles.delvenne/)
-- [Mauro Faccin](http://maurofaccin.bitbucket.org/)
-- [Yerali Gandica](https://sites.google.com/site/ygandica/)
-- [Leonardo Gutierrez](http://www.uclouvain.be/leonardo.gutierrez)
-- [Leto Peel](https://piratepeel.github.io/)
-- [Michael Schaub](http://michaelschaub.github.io/)
+[Sophie Béreau](http://perso.uclouvain.be/sophie.bereau/presentation.html)
+:   CORE
+:   ICTEAM
+
+[Jean-Charles Delvenne](http://perso.uclouvain.be/jean-charles.delvenne/)
+:   CORE
+:   ICTEAM
+
+[Mauro Faccin](http://maurofaccin.bitbucket.org/)
+:   ICTEAM
+
+[Yerali Gandica](https://sites.google.com/site/ygandica/)
+:   CORE
+
+[Leonardo Gutierrez](http://www.uclouvain.be/leonardo.gutierrez)
+:   ICTEAM
+
+[Leto Peel](https://piratepeel.github.io/)
+:   ICTEAM
+
+[Michael Schaub](http://michaelschaub.github.io/)
+:   MIT

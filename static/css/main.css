@@ -580,3 +580,9 @@ a {
   padding: 2ex; }
   .alarmbox h1, .alarmbox h2, .alarmbox h3 {
     color: #eeeeee; }
+
+dd a {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }

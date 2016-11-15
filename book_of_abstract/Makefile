@@ -1,7 +1,8 @@
 CHAPS_TMP=$(wildcard chap-*.jinja)
 CHAPS_CMP=$(patsubst chap-%.jinja, chap-%, $(CHAPS_TMP))
+POSTDEST=../content/abs
 
-.PHONY: all clean abs
+.PHONY: all clean abs topost
 
 all: program.pdf prog.md boa.pdf
 
@@ -15,7 +16,7 @@ $(CHAPS_CMP): render_jinja.py prog.yaml $(CHAPS_TMP) abs/*.yaml
 program.pdf: prog.tex program.tex $(CHAPS_CMP)
 	latexmk -lualatex program.tex
 
-boa.pdf: prog.tex $(CHAPS_CMP)
+boa.pdf: prog.tex $(CHAPS_CMP) boa.tex
 	latexmk -lualatex boa.tex
 
 
@@ -30,3 +31,19 @@ prog.html: render_jinja.py prog.html.jinja prog.yaml abs
 
 clean:
 	latexmk -C
+
+
+topost:
+	mkdir -p $(POSTDEST)
+	rm -f $(POSTDEST)/*
+	for f in abs/*.yaml; \
+	do \
+	  echo $${f}; \
+	  fname=`basename $${f}`;\
+	  newf=$${fname/yaml/md};\
+	  echo '---' >  $(POSTDEST)/$${newf};\
+	  echo "title: $${fname/.yaml/}" >>  $(POSTDEST)/$${newf};\
+	  sed 's/Title/truetitle/' $$f    >> $(POSTDEST)/$${newf};\
+	  echo '---' >> $(POSTDEST)/$${newf};\
+	done;
+	
