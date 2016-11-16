@@ -2,10 +2,9 @@
 
 <main class="content" role="main">
 
-    {{ .TableOfContents }}
 
-    {{ if eq .Section "post" }}
-    <span class="article-date">{{ .Date.Format "January 1, 2006" }}</span>
+    {{ if ne .Section "abs" }}
+    {{ .TableOfContents }}
     {{ end }}
 
     <div class="article-content">

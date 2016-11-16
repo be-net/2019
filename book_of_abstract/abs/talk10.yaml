@@ -8,17 +8,31 @@ Authors:
   -
     name: Yerali Gandica
     email: ygandica@gmail.com
-    affiliation: CeReFiM and Namur Center for Complex Systems – naXys. University of Namur
+    affiliation:
+        - nam
+        - crf
+        - nax
     corresponding: true
   -
     name: Marco Geraci
     email: m.v.geraci@gmail.com
-    affiliation: CeReFiM, University of Namur \& ECARES, Université libre de Bruxelles
+    affiliation:
+        - nax
+        - nam
+        - eca
+        - ulb
   -
     name: Sophie Béreau
     email: sophie.bereau@gmail.com
-    affiliation: CeReFiM, University of Namur \& CORE, Université Catholique de Louvain
+    affiliation:
+        - crf
+        - nam
+        - cor
+        - ucl
   -
     name: Jean-Yves Gnabo
     email: jean-yves.gnabo@unamur.be
-    affiliation: CeReFiM and Namur Center for Complex Systems – naXys. University of Namur
+    affiliation:
+        - crf
+        - nax
+        - nam

@@ -6,4 +6,5 @@ Authors:
   -
     name: Dimitri Papadimitriou
     email: dimitri.papadimitriou@alcatel-lucent.com
-    affiliation: Alcatel Lucent
+    affiliation:
+        - alc

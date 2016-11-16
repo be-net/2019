@@ -6,5 +6,6 @@ Authors:
   -
     name: Shuyu Dong
     email: shuyu.dong@uclouvain.be
-    affiliation: Université Catholique de Louvain
+    affiliation:
+        - ucl
     corresponding: true

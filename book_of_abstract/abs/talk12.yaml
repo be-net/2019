@@ -31,9 +31,11 @@ Authors:
   -
     name: Cyrille Dossougoin
     email: cyrille.dossougoin@uclouvain.be
-    affiliation: Université Catholique de Louvain
+    affiliation:
+        - ucl
     corresponding: true
   -
     name: Donald Zountcheme
     email: donald.zountcheme@uclouvain.be
-    affiliation: Université Catholique de Louvain
+    affiliation:
+        - ucl

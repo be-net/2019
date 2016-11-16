@@ -9,9 +9,11 @@ Authors:
   -
     name: Pietro Coletti
     email: pietro.coletti@gmail.com
-    affiliation: University of Hasselt
+    affiliation:
+            - has
     corresponding: true
   -
     name: Niel Hens
     email: niel.hens@uhasselt.be
-    affiliation: University of Hasselt
+    affiliation:
+            - has

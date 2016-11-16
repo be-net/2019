@@ -9,23 +9,27 @@ Authors:
   -
     name: Yerali Gandica
     email: ygandica@gmail.com
-    affiliation: University of Namur
+    affiliation:
+      - nam
     corresponding: true
   -
     name: Joao Carvalho
     email: jcarlos@uc.pt
-    affiliation: Universidade de Coimbra
-    country: Portugal
+    affiliation:
+      - coi
   -
     name: Fernando Sampaio Dos Aidos
     email: aidos@teor.fis.uc.pt
-    country: Portugal
-    affiliation: Universidade de Coimbra
+    affiliation:
+      - coi
   -
     name: Renaud Lambiotte
     email: renaud.lambiotte@fundp.ac.be
-    affiliation: University of Namur
+    affiliation:
+      - nam
   -
     name: Timoteo Carletti
     email: timoteo.carletti@unamur.be
-    affiliatio: Namur Center for Complex Systems, University of Namur
+    affiliatio:
+      - nax
+      - nam

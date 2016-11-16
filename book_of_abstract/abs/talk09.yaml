@@ -6,5 +6,7 @@ Authors:
   -
     name: Carl-Henrik Dahlqvist
     email: carl-henrik.dahlqvist@unamur.be
-    affiliation: University of Namur- Université Catholique de Louvain
+    affiliation:
+        - nam
+        - ucl
     corresponding: true

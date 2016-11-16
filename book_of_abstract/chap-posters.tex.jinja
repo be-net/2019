@@ -4,12 +4,15 @@
 
 \newpage
 
+[[% set affsmap = {} %]]
 \section*{[[ talk.Title ]]}
 \begin{center}
   [[% for a in talk.Authors %]]
-  [[ a.name ]]\\
-  [[% if a.affiliation %]] \textit{[[ a.affiliation ]]}
-  [[% if a.country %]], [[ a.country ]][[% endif %]]\\ [[% endif %]]
+  [[ a.name ]] $^{[[ affsmap | aff_filter(a.affiliation) | join(',') ]]}$\\
+  [[% endfor %]]
+  \medskip%
+  [[% for aff, ind in affsmap|dictsort(by='value') %]]
+  $^{[[ ind ]]}$ [[ affs[aff] ]]\\
   [[% endfor %]]
 \end{center}
 

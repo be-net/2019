@@ -1,0 +1,18 @@
+---
+title: "{{ Title }}"
+---
+
+# {{ Title }}
+
+{% set affsmap = {} %}
+{% for a in Authors %}
+{{ a.name }}<sup>{{ affsmap | aff_filter(a.affiliation) | join(',') }}</sup>
+{%- if not loop.last %}, {% endif %}
+{% endfor %}
+
+
+{% for aff, ind in affsmap|dictsort(by='value') %}
+- <sup>{{ ind }}</sup> {{ affs[aff] }}
+{% endfor %}
+
+{{ Abstract }}

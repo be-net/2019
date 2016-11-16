@@ -6,14 +6,16 @@ Authors:
   -
     name: Malik Kerkour
     email: malik.kerkour@unamur.be
-    affiliation: University of Namur
+    affiliation:
+        - nam
     corresponding: true
   -
     name: Jean-Yves Gnabo
     email: jean-yves.gnabo@unamur.be
-    affiliation: University of Namur
+    affiliation:
+        - nam
   -
     name: Nicolas Debarsy
     email: Nicolas.DEBARSY@cnrs.fr
-    country: France
-    affiliation: CNRS
+    affiliation:
+        - cnr

@@ -7,6 +7,8 @@ Authors:
     name: Bryan S. Graham
     email: bgraham@econ.berkeley.edu
     country: Berkeley, US
-    affiliation: University of California
+    aff: University of California
+    affiliation:
+      - cal
     url: http://bryangraham.github.io/econometrics
     corresponding: true

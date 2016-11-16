@@ -6,6 +6,7 @@ Authors:
   -
     name: Tarik Roukny
     email: tarikroukny@gmail.com
-    affiliation: Université Libre de Bruxelles
+    affiliation:
+        - ulb
     url: http://www.tarikroukny.com
     corresponding: true

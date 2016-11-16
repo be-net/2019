@@ -22,15 +22,16 @@ Authors:
   -
     name: Leto Peel
     email: leto.peel@uclouvain.be
-    affiliation: Université Catholique de Louvain
+    affiliation:
+      - ucl
     corresponding: true
   -
     name: Daniel B. Larremore
     email: larremore@santafe.edu
-    affiliation: Santa Fe Institute
-    country: New Mexico, US
+    affiliation:
+        - sfe
   -
     name: Aaron Clauset
     email: aaron.clauset@colorado.edu
-    affiliation: University of Colorado at Boulder
-    country: Colorado, US
+    affiliation:
+        - col

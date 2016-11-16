@@ -9,14 +9,17 @@ Authors:
   -
     name: Julia Eberlen
     email: jc.eberlen@gmail.com
-    affiliation: Université Libre de Bruxelles
+    affiliation:
+      - ulb
     corresponding: true
   -
     name: Olivier Klein
     email: oklein@ulb.ac.be
-    affiliation: Université Libre de Bruxelles
     corresponding: true
+    affiliation:
+      - ulb
   -
     name: Matteo Gagliolo
     email: matteo.gagliolo@ulb.ac.be
-    affiliation: Université Libre de Bruxelles
+    affiliation:
+      - ulb

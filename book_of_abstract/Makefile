@@ -31,9 +31,8 @@ prog.html: render_jinja.py prog.html.jinja prog.yaml abs
 
 clean:
 	latexmk -C
-
-
-topost:
+	
+toposts:
 	mkdir -p $(POSTDEST)
 	rm -f $(POSTDEST)/*
 	for f in abs/*.yaml; \
@@ -41,9 +40,6 @@ topost:
 	  echo $${f}; \
 	  fname=`basename $${f}`;\
 	  newf=$${fname/yaml/md};\
-	  echo '---' >  $(POSTDEST)/$${newf};\
-	  echo "title: $${fname/.yaml/}" >>  $(POSTDEST)/$${newf};\
-	  sed 's/Title/truetitle/' $$f    >> $(POSTDEST)/$${newf};\
-	  echo '---' >> $(POSTDEST)/$${newf};\
+	  python render_jinja.py $${f} post.md.jinja > $(POSTDEST)/$${newf}; \
 	done;
 	

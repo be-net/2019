@@ -6,11 +6,11 @@ Authors:
   -
     name: Olga Balakina
     email: olga.balakina@phd.unibocconi.it
-    country: Italy
-    affiliation: Bocconi University
+    affiliation:
+        - boc
     corresponding: true
   -
     name: Anastasia Parakhonyak
     email: aparakhonyak@gmail.com
-    country: France
-    affiliation: Toulouse School of Economics
+    affiliation:
+        - tou

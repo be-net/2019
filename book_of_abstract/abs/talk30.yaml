@@ -30,6 +30,6 @@ Authors:
   -
     name: Jil Meier 
     email: jil.mona.meier@gmail.com
-    country: Netherlands
-    affiliation: Delft University
+    affiliation:
+        - def
     corresponding: true

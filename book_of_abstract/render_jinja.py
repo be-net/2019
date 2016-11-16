@@ -21,6 +21,8 @@ for f in glob.glob('abs/*.yaml'):
         data['talks'][name] = _data
     elif 'poster' in name:
         data['posters'][name] = _data
+    elif 'affs' in name:
+        data['affs'] = _data
     else:
         data['talks'][name] = _data
 
@@ -69,7 +71,19 @@ def update_time(times, event, lenghts, quiet=False):
         return ''
     return timeformat(now)
 
+
+def aff_filter(allaffs, affs):
+    ind = []
+    for aff in affs:
+        if aff not in allaffs:
+            allaffs[aff] = len(allaffs) + 1
+            ind.append(allaffs[aff])
+        else:
+            ind.append(allaffs[aff])
+    return sorted(ind)
+
 env.filters['update_time'] = update_time
+env.filters['aff_filter'] = aff_filter
 
 render = env.from_string(template)
 print(render.render(data))

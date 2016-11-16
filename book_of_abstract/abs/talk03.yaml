@@ -11,13 +11,16 @@ Authors:
   -
     name: André Spithoven
     email: aspitje@yahoo.com
-    affiliation: Vrije Universiteit Brussel
+    affiliation:
+        - vub
   -
     name: Jef Vlegels
     email: jef.vlegels@vub.ac.be
-    affiliation: Vrije Universiteit Brussel
+    affiliation:
+        - vub
     corresponding: true
   -
     name: Walter Ysebaert
     email: walter.ysebaert@vub.ac.be
-    affiliation: Vrije Universiteit Brussel
+    affiliation:
+        - vub
