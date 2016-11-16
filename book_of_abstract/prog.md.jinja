@@ -3,6 +3,9 @@ date = "2016-05-05T21:48:51-07:00"
 title = "New Program"
 +++
 
+{% set affiliations = {} %}
+{% for aff in affs %} {{ affiliations | update_dict(aff, 0) }} {% endfor %}
+
 # Program
 
 {% set schedule = [0] %}
@@ -20,6 +23,7 @@ title = "New Program"
     {% else %}
 :   {{ talk.Authors | join(', ', attribute='name') }}
     {% endif %}
+    {{ affiliations|update_dict(talk.Authors[0].affiliation) }}
   {% endif %}
 
 {% endfor %}
@@ -31,10 +35,15 @@ title = "New Program"
   
 [{{ poster.Title }}](../abs/{{ ip }})
 :   {{ poster.Authors | join(', ', attribute='name') }}
+    {{ affiliations|update_dict(poster.Authors[0].affiliation) }}
 
 {% endfor %}
 
+# Representation
 
+{% for ia, aff in affiliations|dictsort(by='value')|reverse if aff > 0 %}
+  {{ aff }} {{ affs[ia] }}
+{% endfor %}
 
 
 

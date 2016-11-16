@@ -82,8 +82,25 @@ def aff_filter(allaffs, affs):
             ind.append(allaffs[aff])
     return sorted(ind)
 
+
+def update_dict(dictionary, key, value=None):
+    if value is None:
+        if isinstance(key, list):
+            for k in key:
+                dictionary[k] += 1
+        else:
+            dictionary[key] += 1
+    else:
+        if isinstance(key, list):
+            for k in key:
+                dictionary[k] = int(value)
+        else:
+            dictionary[key] = int(value)
+    return ""
+
 env.filters['update_time'] = update_time
 env.filters['aff_filter'] = aff_filter
+env.filters['update_dict'] = update_dict
 
 render = env.from_string(template)
 print(render.render(data))
