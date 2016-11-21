@@ -154,9 +154,9 @@ var popup = L.popup();
 &lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
 
 &lt;p&gt;For any question or request please contacti
-&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34;&gt;Sophie Béreau&lt;/a&gt;
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;
 or
-&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -175,7 +175,7 @@ or
 &lt;dd&gt;&lt;strong&gt;Welcome&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;9:00&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/graham&#34;&gt;TBA&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;&lt;/dd&gt;
 &lt;dd&gt;&lt;em&gt;Invited Speaker&lt;/em&gt;
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;10:00&lt;/dt&gt;
@@ -237,23 +237,23 @@ or
 &lt;h1 id=&#34;poster-contributions&#34;&gt;Poster contributions&lt;/h1&gt;
 
 &lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical household contact networks and their implication for infectious disease spread&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;Pietro Coletti, Niel Hens
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster05&#34;&gt;Do you believe what you know?  Stereotype learning in the context of social networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Julia Eberlen, Olivier Klein, Matteo Gagliolo
+&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
+&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+&lt;br /&gt;
+
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;../abs/poster05&#34;&gt;Do you believe what you know?  Stereotype learning in the context of social networks&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Julia Eberlen, Olivier Klein, Matteo Gagliolo
 &lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
@@ -262,52 +262,52 @@ or
 &lt;p&gt;4 University of Namur
   4 Université Catholique de Louvain
   2 Université Libre de Bruxelles
-  1 Namur Center for Complex Systems
-  1 University of Hasselt
-  1 Bocconi University, Italy
-  1 University of California, Berkeley
-  1 Delft University, The Netherlands
-  1 Vrije Universiteit Brussel
   1 CeReFiM
+  1 Vrije Universiteit Brussel
   1 University of Ghent
+  1 Namur Center for Complex Systems
+  1 Bocconi University, Italy
+  1 Delft University, The Netherlands
+  1 University of Hasselt
+  1 University of California, Berkeley
   1 Alcatel Lucent&lt;/p&gt;
 
 &lt;p&gt;14 Université Catholique de Louvain
   7 University of Namur
-  3 Université Libre de Bruxelles
   3 CORE
+  3 Université Libre de Bruxelles
   2 Namur Center for Complex Systems
-  2 University of Hasselt
   2 Katholieke Universiteit Leuven
-  1 Antwerp Universiteit
+  2 University of Hasselt
   1 ILSM
-  1 Laboratoire d&amp;rsquo;economie d&amp;rsquo;Orléans, France
-  1 Bocconi University, Italy
-  1 University of California, Berkeley
-  1 Delft University, The Netherlands
-  1 Vrije Universiteit Brussel
   1 CeReFiM
+  1 Vrije Universiteit Brussel
   1 University of Ghent
+  1 Bocconi University, Italy
+  1 Delft University, The Netherlands
+  1 University of California, Berkeley
+  1 Laboratoire d&amp;rsquo;economie d&amp;rsquo;Orléans, France
+  1 Antwerp Universiteit
   1 Alcatel Lucent&lt;/p&gt;
 
 &lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
 
 &lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;CORE&lt;/dd&gt;
-&lt;dd&gt;ICTEAM&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;CORE&lt;/dd&gt;
-&lt;dd&gt;ICTEAM&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;ICTEAM&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;CORE&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;ICTEAM&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://piratepeel.github.io/&#34;&gt;Leto Peel&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;ICTEAM&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/dt&gt;
+&lt;dt&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;CORE, UCLouvain&lt;/dd&gt;
+&lt;dd&gt;School of Management, UCLouvain&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;CORE, UCLouvain&lt;/dd&gt;
+&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34; target=&#34;_blank&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34; target=&#34;_blank&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;CORE, UCLouvain&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34; target=&#34;_blank&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://piratepeel.github.io/&#34; target=&#34;_blank&#34;&gt;Leto Peel&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34; target=&#34;_blank&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;MIT&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
@@ -343,15 +343,15 @@ Sun, Nov 20, 2016
 
 &lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
 
-&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; for
+&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; for
 submissions.&lt;/p&gt;
 
 &lt;dl&gt;
 &lt;dt&gt;Oral contributions:&lt;/dt&gt;
 &lt;dd&gt;short talks abstracts (20 minutes including questions) should be submitted
-to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
+to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
 &lt;dt&gt;Poster contributions:&lt;/dt&gt;
-&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt; (text only,
+&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; (text only,
 no more than 300 words).
 Please append the word &lt;code&gt;[POSTER]&lt;/code&gt; to the title of your submission.&lt;/dd&gt;
 &lt;/dl&gt;
@@ -367,14 +367,14 @@ Sun, Nov 20, 2016
 &lt;/strong&gt;.
 For those who haven&amp;rsquo;t submitted a oral/poster contribution,
 you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
-word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
+word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
 
 &lt;p&gt;For any question or request please contacti
-&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34;&gt;Sophie Béreau&lt;/a&gt;
+&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;
 or
-&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

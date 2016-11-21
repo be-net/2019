@@ -90,23 +90,23 @@ title = "Program"
 # Poster contributions
 
   
-[Stationarity of the inter­event power­law distributions](../abs/poster11)
-:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
-    
-
-  
 [Empirical household contact networks and their implication for infectious disease spread](../abs/poster08)
 :   Pietro Coletti, Niel Hens
     
 
   
-[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
-:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
+[The ground truth about metadata and community detection in networks](../abs/poster31)
+:   Leto Peel, Daniel B. Larremore, Aaron Clauset
     
 
   
-[The ground truth about metadata and community detection in networks](../abs/poster31)
-:   Leto Peel, Daniel B. Larremore, Aaron Clauset
+[Stationarity of the inter­event power­law distributions](../abs/poster11)
+:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+    
+
+  
+[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
+:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
     
 
 
@@ -115,56 +115,56 @@ title = "Program"
   4 University of Namur
   4 Université Catholique de Louvain
   2 Université Libre de Bruxelles
-  1 Namur Center for Complex Systems
-  1 University of Hasselt
-  1 Bocconi University, Italy
-  1 University of California, Berkeley
-  1 Delft University, The Netherlands
-  1 Vrije Universiteit Brussel
   1 CeReFiM
+  1 Vrije Universiteit Brussel
   1 University of Ghent
+  1 Namur Center for Complex Systems
+  1 Bocconi University, Italy
+  1 Delft University, The Netherlands
+  1 University of Hasselt
+  1 University of California, Berkeley
   1 Alcatel Lucent
 
                   
   14 Université Catholique de Louvain
   7 University of Namur
-  3 Université Libre de Bruxelles
   3 CORE
+  3 Université Libre de Bruxelles
   2 Namur Center for Complex Systems
-  2 University of Hasselt
   2 Katholieke Universiteit Leuven
-  1 Antwerp Universiteit
+  2 University of Hasselt
   1 ILSM
-  1 Laboratoire d'economie d'Orléans, France
-  1 Bocconi University, Italy
-  1 University of California, Berkeley
-  1 Delft University, The Netherlands
-  1 Vrije Universiteit Brussel
   1 CeReFiM
+  1 Vrije Universiteit Brussel
   1 University of Ghent
+  1 Bocconi University, Italy
+  1 Delft University, The Netherlands
+  1 University of California, Berkeley
+  1 Laboratoire d'economie d'Orléans, France
+  1 Antwerp Universiteit
   1 Alcatel Lucent
 
 # Organising Committee
 
 [Sophie Béreau](http://perso.uclouvain.be/sophie.bereau/presentation.html)
-:   CORE
-:   ICTEAM
+:   CORE, UCLouvain
+:   School of Management, UCLouvain
 
 [Jean-Charles Delvenne](http://perso.uclouvain.be/jean-charles.delvenne/)
-:   CORE
-:   ICTEAM
+:   CORE, UCLouvain
+:   ICTEAM, UCLouvain
 
 [Mauro Faccin](http://maurofaccin.bitbucket.org/)
-:   ICTEAM
+:   ICTEAM, UCLouvain
 
 [Yerali Gandica](https://sites.google.com/site/ygandica/)
-:   CORE
+:   CORE, UCLouvain
 
 [Leonardo Gutierrez](http://www.uclouvain.be/leonardo.gutierrez)
-:   ICTEAM
+:   ICTEAM, UCLouvain
 
 [Leto Peel](https://piratepeel.github.io/)
-:   ICTEAM
+:   ICTEAM, UCLouvain
 
 [Michael Schaub](http://michaelschaub.github.io/)
 :   MIT
