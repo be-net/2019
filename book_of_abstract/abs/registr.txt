@@ -1,0 +1,18 @@
+Pierre-Antoine	Absil	absil@inma.ucl.ac.be	ucl		✔
+Sarah	Marent	sarah.marent@kuleuven.be	kul		✔
+Matteo	Gagliolo	mgagliol@ulb.ac.be	ulb	http://homepages.ulb.ac.be/~mgagliol/	✔
+Andrea	Torneri	andrea.torneri@gmail.com	ant		✔
+Alexandre	Leroux	alex.lleroux1@gmail.com	kul		✔
+Vsevolod	Salnikov	vs.salnikov@gmail.com	nam		✔
+Dries	Maes	dries.maes@uhasselt.be	has	http://www.uhasselt.be	✔
+Nicolas	Debarsy	nicolas.debarsy@univ-orleans.fr	orl		✔
+Martin	Gueuning	martin.gueuning@unamur.be	nam,ucl		✔
+Hassan	Haidar	hassan.haidar@uclouvain.be	ucl,ils		✔
+Robert	Somogyi	robert.somogyi@gmail.com	ucl,cor		✔
+Timoteo	Carletti	timoteo.carletti@unamur.be	nax,nam	http://directory.unamur.be/staff/tcarlett	✔
+Adeline	Decuyper	adeline.decuyper@uclouvain.be	ucl		✔
+Edward	De Brouwer	edward.debrouwer@gmail.com	ucl		✔
+Mauro	Faccin	mauro.faccin@uclouvain.be	ucl		x
+Leonardo	Gutierrez	leonardo.gutierrez@uclouvain.be	ucl		x
+Jean-Charles	Delvenne	jean-charles.delvenne@uclouvain.be	ucl,cor		x
+Sophie	Béreau	sophie.bereau@uclouvain.be	ucl,cor		x

@@ -35,7 +35,7 @@ clean:
 toposts:
 	mkdir -p $(POSTDEST)
 	rm -f $(POSTDEST)/*
-	for f in abs/*.yaml; \
+	for f in abs/{talk,graham,poster}*.yaml; \
 	do \
 	  echo $${f}; \
 	  fname=`basename $${f}`;\

@@ -8,17 +8,20 @@ order:
     start: '9:00'
     abs: graham
   -
-    start: '10:30'
+    start: '10:00'
     title: Coffee Break
   -
-    start: '11:00'
     abs: talk02
   -
-    abs: talk03
+    abs: talk21
   -
-    abs: talk09
+    title: Coffee Break
+  -
+    abs: talk12
   -
     abs: talk10
+  -
+    abs: talk13
   -
     start: '12:30'
     title: Lunch + Poster session
@@ -27,17 +30,17 @@ order:
     title: Mixing Event
   -
     start: '14:00'
-    abs: talk12
+    abs: talk09
   -
-    abs: talk13
+    abs: talk17
   -
     abs: talk16
   -
     title: Coffee Break
   -
     start: '15:30'
-    abs: talk17
+    abs: talk03
   -
-    abs: talk21
+    abs: talk28
   -
     abs: talk30

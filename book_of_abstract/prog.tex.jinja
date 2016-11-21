@@ -5,10 +5,11 @@
       seco/.style={%
         black!30,
       },
-      scale=1.0]
+      scale=0.8]
 
      \matrix (m) [matrix of nodes,
-           row sep = 0.15cm,
+           font = \footnotesize\sffamily,
+           row sep = 0.10cm,
            column sep = 0.3cm,
            dot/.style={circle, fill=black!20,
              inner sep=0pt,
@@ -29,10 +30,11 @@
 	[[ event.title ]]
 	[[% else %]]
 	[[% set abs = talks[event.abs] %]]
+	[[% if abs.Submission == 0 %]]|[invited]|[[% endif %]]
 	\textit{[[ abs.Title ]]}\\[-0.25cm]
 	[[% if count.append(count.pop() + 1) %]][[% endif %]]
-	&& |[ inner ysep=1mm ]| 
-        \small
+	&& %|[ inner ysep=1mm ]| 
+	[[% if abs.Submission == 0 %]]|[invited]|[[% endif %]]
         [[% for aut in abs.Authors %]]
         [[% if aut.shortname %]][[ aut.shortname ]][[% else %]][[ aut.name ]][[% endif%]][[% if not loop.last %]], [[% endif %]]
         [[% endfor %]]

@@ -4,11 +4,6 @@ title = "Home"
 
 +++
 
-{{% class alarmbox %}}
-# Registration deadline extension
-The deadline for BeNet registration has been extended until {{% deadline "reg" %}}
-{{% /class %}}
-
 # BeNet -- What?
 
 The 6th edition of the Belgian Network Research Meeting (BeNet) will be held at the Université catholique de Louvain (UCL) on December 15th, 2016.

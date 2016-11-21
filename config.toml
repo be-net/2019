@@ -5,6 +5,7 @@ theme = "lithium"
 googleAnalytics = ""
 disqusShortname = ""
 publishdir = "docs"
+ignoreFiles = [ "\\.bak$" ]
 
 [blackfriday]
    plainIDAnchors = true

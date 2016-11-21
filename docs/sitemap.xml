@@ -17,11 +17,6 @@
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2016/new-program/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://be-net.github.io/2016/program/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
@@ -32,31 +27,7 @@
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2016/abs/graham/</loc>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2016/abs/poster05/</loc>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2016/abs/poster08/</loc>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2016/abs/poster11/</loc>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2016/abs/poster31/</loc>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2016/abs/talk02/</loc>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2016/abs/talk03/</loc>
+    <loc>https://be-net.github.io/2016/abs/talk10/</loc>
   </url>
   
   <url>
@@ -64,19 +35,19 @@
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2016/abs/talk10/</loc>
+    <loc>https://be-net.github.io/2016/abs/talk02/</loc>
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2016/abs/talk12/</loc>
+    <loc>https://be-net.github.io/2016/abs/poster05/</loc>
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2016/abs/talk13/</loc>
+    <loc>https://be-net.github.io/2016/abs/talk28/</loc>
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2016/abs/talk16/</loc>
+    <loc>https://be-net.github.io/2016/abs/poster08/</loc>
   </url>
   
   <url>
@@ -89,6 +60,34 @@
   
   <url>
     <loc>https://be-net.github.io/2016/abs/talk30/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/talk12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/talk13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/poster11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/talk16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/graham/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/poster31/</loc>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2016/abs/talk03/</loc>
   </url>
   
 </urlset>

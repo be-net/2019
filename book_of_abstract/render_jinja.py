@@ -6,12 +6,14 @@ import glob
 import os
 
 
+
 # get program file from command line
 yam = argv[1]
 with open(yam) as fd:
     data = load(fd.read())
 data['talks'] = {}
 data['posters'] = {}
+participants = []
 for f in glob.glob('abs/*.yaml'):
     with open(f, 'r') as fd:
         _data = load(fd.read())
@@ -19,13 +21,21 @@ for f in glob.glob('abs/*.yaml'):
 
     if 'talk' in name:
         data['talks'][name] = _data
+        # participants.extend(_data['Authors'])
+        participants.append(_data['Authors'][0])
     elif 'poster' in name:
         data['posters'][name] = _data
+        participants.append(_data['Authors'][0])
     elif 'affs' in name:
         data['affs'] = _data
+    elif 'regi' in name:
+        data['reg'] = _data
+        participants.extend(_data)
     else:
         data['talks'][name] = _data
+        participants.append(_data['Authors'][0])
 
+data['participants'] = participants
 
 # get template from command line
 tmp = argv[2]
@@ -72,7 +82,7 @@ def update_time(times, event, lenghts, quiet=False):
     return timeformat(now)
 
 
-def aff_filter(allaffs, affs):
+def aff_filter(allaffs, affs, quiet=False):
     ind = []
     for aff in affs:
         if aff not in allaffs:
@@ -80,7 +90,13 @@ def aff_filter(allaffs, affs):
             ind.append(allaffs[aff])
         else:
             ind.append(allaffs[aff])
+    if quiet:
+        return ""
     return sorted(ind)
+
+
+def filter_bykey(allaffs, keylist):
+    return [allaffs[k] for k in keylist]
 
 
 def update_dict(dictionary, key, value=None):
@@ -89,6 +105,7 @@ def update_dict(dictionary, key, value=None):
             for k in key:
                 dictionary[k] += 1
         else:
+            print(key)
             dictionary[key] += 1
     else:
         if isinstance(key, list):
@@ -100,6 +117,7 @@ def update_dict(dictionary, key, value=None):
 
 env.filters['update_time'] = update_time
 env.filters['aff_filter'] = aff_filter
+env.filters['filter_bykey'] = filter_bykey
 env.filters['update_dict'] = update_dict
 
 render = env.from_string(template)

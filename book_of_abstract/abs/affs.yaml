@@ -2,13 +2,17 @@
 cal: University of California, Berkeley
 has: University of Hasselt
 nam: University of Namur
-coi: Universidade de Coimbra, Portugal
-nax: Namur Center for Complex Systems
-ulb: Université Libre de Bruxelles
 ucl: Université Catholique de Louvain
+ulb: Université Libre de Bruxelles
+kul: Katholieke Universiteit Leuven
+ant: Antwerp Universiteit
+vub: Vrije Universiteit Brussel
+ghe: University of Ghent 
+coi: Universidade de Coimbra, Portugal
+def: Delft University, The Netherlands
 sfe: Santa Fe Institute, New Mexico
 col: University of Colorado, Colorado
-vub: Vrije Universiteit Brussel
+nax: Namur Center for Complex Systems
 crf: CeReFiM
 eca: ECARES
 cor: CORE
@@ -16,4 +20,5 @@ cnr: CNRS, France
 alc: Alcatel Lucent
 boc: Bocconi University, Italy
 tou: Toulouse School of Economics, France
-def: Delft University, The Netherlands
+orl: Laboratoire d'economie d'Orléans, France
+ils: ILSM
