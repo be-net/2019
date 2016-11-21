@@ -32,16 +32,11 @@ title = "Program"
 :   **Coffee Break**
 
 11:20
-:   [Shareholding network of financial institutions: a dynamic analysis](../abs/talk12)
-:   Cyrille Dossougoin, Donald Zountcheme
-    
-
-11:40
 :   [Assessing dynamic changes of the US financial market: insights from network science](../abs/talk10)
 :   Yerali Gandica, Marco Geraci, Sophie Béreau, Jean-Yves Gnabo
     
 
-12:00
+11:40
 :   [Sovereign Wealth Funds' cross-border investments: assessing the role of country-level drivers and spatial competition](../abs/talk13)
 :   Malik Kerkour, Jean-Yves Gnabo, Nicolas Debarsy
     
@@ -90,13 +85,13 @@ title = "Program"
 # Poster contributions
 
   
-[Empirical household contact networks and their implication for infectious disease spread](../abs/poster08)
-:   Pietro Coletti, Niel Hens
+[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
+:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
     
 
   
-[The ground truth about metadata and community detection in networks](../abs/poster31)
-:   Leto Peel, Daniel B. Larremore, Aaron Clauset
+[Empirical household contact networks and their implication for infectious disease spread](../abs/poster08)
+:   Pietro Coletti, Niel Hens
     
 
   
@@ -105,44 +100,44 @@ title = "Program"
     
 
   
-[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
-:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
+[The ground truth about metadata and community detection in networks](../abs/poster31)
+:   Leto Peel, Daniel B. Larremore, Aaron Clauset
     
 
 
 # Representation
 
   4 University of Namur
-  4 Université Catholique de Louvain
+  3 Université Catholique de Louvain
   2 Université Libre de Bruxelles
-  1 CeReFiM
-  1 Vrije Universiteit Brussel
-  1 University of Ghent
-  1 Namur Center for Complex Systems
-  1 Bocconi University, Italy
-  1 Delft University, The Netherlands
   1 University of Hasselt
+  1 CeReFiM
+  1 Delft University, The Netherlands
+  1 University of Ghent
   1 University of California, Berkeley
+  1 Namur Center for Complex Systems
+  1 Vrije Universiteit Brussel
   1 Alcatel Lucent
+  1 Bocconi University, Italy
 
                   
-  14 Université Catholique de Louvain
+  13 Université Catholique de Louvain
   7 University of Namur
-  3 CORE
   3 Université Libre de Bruxelles
+  3 CORE
+  2 University of Hasselt
   2 Namur Center for Complex Systems
   2 Katholieke Universiteit Leuven
-  2 University of Hasselt
-  1 ILSM
   1 CeReFiM
-  1 Vrije Universiteit Brussel
-  1 University of Ghent
-  1 Bocconi University, Italy
-  1 Delft University, The Netherlands
-  1 University of California, Berkeley
   1 Laboratoire d'economie d'Orléans, France
+  1 Delft University, The Netherlands
+  1 University of Ghent
+  1 University of California, Berkeley
   1 Antwerp Universiteit
+  1 Vrije Universiteit Brussel
+  1 ILSM
   1 Alcatel Lucent
+  1 Bocconi University, Italy
 
 # Organising Committee
 
