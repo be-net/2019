@@ -41,7 +41,7 @@ title = "Program"
 :   Malik Kerkour, Jean-Yves Gnabo, Nicolas Debarsy
     
 
-12:30
+12:00
 :   **Lunch + Poster session**
 
 13:30
@@ -85,23 +85,23 @@ title = "Program"
 # Poster contributions
 
   
-[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
-:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
-    
-
-  
 [Empirical household contact networks and their implication for infectious disease spread](../abs/poster08)
 :   Pietro Coletti, Niel Hens
     
 
   
-[Stationarity of the inter­event power­law distributions](../abs/poster11)
-:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+[The ground truth about metadata and community detection in networks](../abs/poster31)
+:   Leto Peel, Daniel B. Larremore, Aaron Clauset
     
 
   
-[The ground truth about metadata and community detection in networks](../abs/poster31)
-:   Leto Peel, Daniel B. Larremore, Aaron Clauset
+[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
+:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
+    
+
+  
+[Stationarity of the inter­event power­law distributions](../abs/poster11)
+:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
     
 
 
@@ -111,33 +111,33 @@ title = "Program"
   3 Université Catholique de Louvain
   2 Université Libre de Bruxelles
   1 University of Hasselt
-  1 CeReFiM
-  1 Delft University, The Netherlands
   1 University of Ghent
   1 University of California, Berkeley
-  1 Namur Center for Complex Systems
-  1 Vrije Universiteit Brussel
-  1 Alcatel Lucent
   1 Bocconi University, Italy
+  1 CeReFiM
+  1 Vrije Universiteit Brussel
+  1 Delft University, The Netherlands
+  1 Namur Center for Complex Systems
+  1 Alcatel Lucent
 
                   
   13 Université Catholique de Louvain
   7 University of Namur
-  3 Université Libre de Bruxelles
   3 CORE
+  3 Université Libre de Bruxelles
   2 University of Hasselt
-  2 Namur Center for Complex Systems
   2 Katholieke Universiteit Leuven
-  1 CeReFiM
-  1 Laboratoire d'economie d'Orléans, France
-  1 Delft University, The Netherlands
-  1 University of Ghent
-  1 University of California, Berkeley
-  1 Antwerp Universiteit
-  1 Vrije Universiteit Brussel
+  2 Namur Center for Complex Systems
   1 ILSM
-  1 Alcatel Lucent
+  1 Antwerp Universiteit
+  1 University of Ghent
+  1 Laboratoire d'economie d'Orléans, France
+  1 University of California, Berkeley
   1 Bocconi University, Italy
+  1 CeReFiM
+  1 Vrije Universiteit Brussel
+  1 Delft University, The Netherlands
+  1 Alcatel Lucent
 
 # Organising Committee
 

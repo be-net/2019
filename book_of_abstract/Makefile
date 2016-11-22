@@ -32,7 +32,7 @@ prog.html: render_jinja.py prog.html.jinja prog.yaml abs
 clean:
 	latexmk -C
 	
-toposts:
+toposts: abs/*.yaml render_jinja.py post.md.jinja
 	mkdir -p $(POSTDEST)
 	rm -f $(POSTDEST)/*
 	for f in abs/{talk,graham,poster}*.yaml; \
