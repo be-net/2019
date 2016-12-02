@@ -1,7 +1,7 @@
 
 #!/usr/bin/env bash
 
-class=./registr.txt
+class=$1
 
 OLD_IFS=$IFS
 IFS=$'\n'

@@ -115,10 +115,25 @@ def update_dict(dictionary, key, value=None):
             dictionary[key] = int(value)
     return ""
 
+
+def unique(thelist, key=None):
+    if key is None:
+        return list(set(thelist))
+    else:
+        s = set()
+        res = []
+        for elem in thelist:
+            if elem[key] not in s:
+                s.add(elem[key])
+                res.append(elem)
+        return res
+
+
 env.filters['update_time'] = update_time
 env.filters['aff_filter'] = aff_filter
 env.filters['filter_bykey'] = filter_bykey
 env.filters['update_dict'] = update_dict
+env.filters['unique'] = unique
 
 render = env.from_string(template)
 print(render.render(data))

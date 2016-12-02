@@ -12,6 +12,10 @@ Robert	Somogyi	robert.somogyi@gmail.com	ucl,cor		✔
 Timoteo	Carletti	timoteo.carletti@unamur.be	nax,nam	http://directory.unamur.be/staff/tcarlett	✔
 Adeline	Decuyper	adeline.decuyper@uclouvain.be	ucl		✔
 Edward	De Brouwer	edward.debrouwer@gmail.com	ucl		✔
+Benjamin	Vandermarliere	bvandermarliere@gmail.com	gen		✔
+Jérôme	Dollinger	j.dollinger@hotmail.fr	ucl		✔
+Arnaud	Adam	a.adam@uclouvain.be	ucl,cor		✔
+Andres	M. Belaza	andres.belaza@ugent.be	ghe		
 Mauro	Faccin	mauro.faccin@uclouvain.be	ucl		x
 Leonardo	Gutierrez	leonardo.gutierrez@uclouvain.be	ucl		x
 Jean-Charles	Delvenne	jean-charles.delvenne@uclouvain.be	ucl,cor		x

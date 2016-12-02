@@ -3,7 +3,7 @@ date = "2016-05-05T21:48:51-07:00"
 title = "Program"
 +++
 
-                                              
+                                                
 #  Tentative Program
 
 8:30
@@ -85,11 +85,6 @@ title = "Program"
 # Poster contributions
 
   
-[Empirical household contact networks and their implication for infectious disease spread](../abs/poster08)
-:   Pietro Coletti, Niel Hens
-    
-
-  
 [The ground truth about metadata and community detection in networks](../abs/poster31)
 :   Leto Peel, Daniel B. Larremore, Aaron Clauset
     
@@ -100,44 +95,16 @@ title = "Program"
     
 
   
+[Empirical household contact networks and their implication for infectious disease spread](../abs/poster08)
+:   Pietro Coletti, Niel Hens
+    
+
+  
 [Stationarity of the inter­event power­law distributions](../abs/poster11)
 :   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
     
 
 
-# Representation
-
-  4 University of Namur
-  3 Université Catholique de Louvain
-  2 Université Libre de Bruxelles
-  1 University of Hasselt
-  1 University of Ghent
-  1 University of California, Berkeley
-  1 Bocconi University, Italy
-  1 CeReFiM
-  1 Vrije Universiteit Brussel
-  1 Delft University, The Netherlands
-  1 Namur Center for Complex Systems
-  1 Alcatel Lucent
-
-                  
-  13 Université Catholique de Louvain
-  7 University of Namur
-  3 CORE
-  3 Université Libre de Bruxelles
-  2 University of Hasselt
-  2 Katholieke Universiteit Leuven
-  2 Namur Center for Complex Systems
-  1 ILSM
-  1 Antwerp Universiteit
-  1 University of Ghent
-  1 Laboratoire d'economie d'Orléans, France
-  1 University of California, Berkeley
-  1 Bocconi University, Italy
-  1 CeReFiM
-  1 Vrije Universiteit Brussel
-  1 Delft University, The Netherlands
-  1 Alcatel Lucent
 
 # Organising Committee
 

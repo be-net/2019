@@ -39,6 +39,7 @@ title = "Program"
 
 {% endfor %}
 
+{#
 # Representation
 
 {% for ia, aff in affiliations|dictsort(by='value')|reverse if aff > 0 %}
@@ -50,6 +51,7 @@ title = "Program"
 {% for ia, aff in affiliations|dictsort(by='value')|reverse if aff > 0 %}
   {{ aff }} {{ affs[ia] }}
 {% endfor %}
+#}
 
 # Organising Committee
 
