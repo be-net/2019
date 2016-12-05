@@ -16,6 +16,7 @@ Benjamin	Vandermarliere	bvandermarliere@gmail.com	gen		✔
 Jérôme	Dollinger	j.dollinger@hotmail.fr	ucl		✔
 Arnaud	Adam	a.adam@uclouvain.be	ucl,cor		✔
 Andres	M. Belaza	andres.belaza@ugent.be	ghe		
+Michael	Fanuel	michael.fanuel@esat.kuleuven.be	kul		✔
 Mauro	Faccin	mauro.faccin@uclouvain.be	ucl		x
 Leonardo	Gutierrez	leonardo.gutierrez@uclouvain.be	ucl		x
 Jean-Charles	Delvenne	jean-charles.delvenne@uclouvain.be	ucl,cor		x
