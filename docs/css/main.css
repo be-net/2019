@@ -581,6 +581,14 @@ a {
   .alarmbox h1, .alarmbox h2, .alarmbox h3 {
     color: #eeeeee; }
 
+.invited {
+  background-color: #bb4444;
+  padding: 0 1ex;
+  color: #eeeeee; }
+  .invited a {
+    color: #eeeeee;
+    text-decoration: underline; }
+
 dd a {
   display: block;
   white-space: nowrap;

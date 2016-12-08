@@ -16,11 +16,12 @@ title = "Program"
 :   **{{ event.title }}**
   {% elif event.abs %}
     {% set talk = talks[event.abs] %}
-:   [{{ talk.Title }}](../abs/{{ event.abs }})
     {% if talk.Submission == 0 %}
-:   **[{{ talk.Authors[0].name }}]({{ talk.Authors[0].url }})**
+:   {{ '{{% class invited %}}' }}[{{ talk.Title }}](../abs/{{ event.abs }}){{ '{{% /class %}}' }}
+:   {{ '{{% class invited %}}' }}**[{{ talk.Authors[0].name }}]({{ talk.Authors[0].url }})**{{ '{{% /class %}}' }}
 :   *Invited Speaker*
     {% else %}
+:   [{{ talk.Title }}](../abs/{{ event.abs }})
 :   {{ talk.Authors | join(', ', attribute='name') }}
     {% endif %}
     {{ affiliations|update_dict(talk.Authors[0].affiliation) }}

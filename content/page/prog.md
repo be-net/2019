@@ -10,8 +10,8 @@ title = "Program"
 :   **Welcome and Registration**
 
 9:00
-:   [TBA](../abs/graham)
-:   **[Bryan S. Graham](http://bryangraham.github.io/econometrics)**
+:   {{% class invited %}}[TBA](../abs/graham){{% /class %}}
+:   {{% class invited %}}**[Bryan S. Graham](http://bryangraham.github.io/econometrics)**{{% /class %}}
 :   *Invited Speaker*
     
 
@@ -95,13 +95,13 @@ title = "Program"
 # Poster contributions
 
   
-[Stationarity of the inter­event power­law distributions](../abs/poster11)
-:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
+:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
     
 
   
-[Do you believe what you know?  Stereotype learning in the context of social networks](../abs/poster05)
-:   Julia Eberlen, Olivier Klein, Matteo Gagliolo
+[The ground truth about metadata and community detection in networks](../abs/poster31)
+:   Leto Peel, Daniel B. Larremore, Aaron Clauset
     
 
   
@@ -110,8 +110,8 @@ title = "Program"
     
 
   
-[The ground truth about metadata and community detection in networks](../abs/poster31)
-:   Leto Peel, Daniel B. Larremore, Aaron Clauset
+[Stationarity of the inter­event power­law distributions](../abs/poster11)
+:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
     
 
 

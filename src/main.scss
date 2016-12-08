@@ -199,6 +199,16 @@ a {
     }
 }
 
+.invited {
+    background-color: $albg;
+    padding: 0.3ex 1ex;
+    a {
+        color: $alfg;
+        text-decoration: underline;
+    }
+    color: $alfg;
+}
+
 dd {
     a {
         display: block;

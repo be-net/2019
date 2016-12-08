@@ -174,8 +174,14 @@ or
 &lt;dt&gt;8:30&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Welcome and Registration&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;9:00&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/graham&#34;&gt;TBA&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;div class=&#34;invited&#34;&gt;
+    &lt;a href=&#34;../abs/graham&#34;&gt;TBA&lt;/a&gt;
+&lt;/div&gt;
+&lt;/dd&gt;
+&lt;dd&gt;&lt;div class=&#34;invited&#34;&gt;
+    &lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+&lt;/dd&gt;
 &lt;dd&gt;&lt;em&gt;Invited Speaker&lt;/em&gt;
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;10:00&lt;/dt&gt;
@@ -246,6 +252,11 @@ or
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
+&lt;br /&gt;
+
+&lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;../abs/poster05&#34;&gt;Do you believe what you know?  Stereotype learning in the context of social networks&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;Julia Eberlen, Olivier Klein, Matteo Gagliolo
 &lt;br /&gt;
@@ -253,11 +264,6 @@ or
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical household contact networks and their implication for infectious disease spread&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;Pietro Coletti, Niel Hens
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
 &lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
