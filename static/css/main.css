@@ -588,6 +588,8 @@ a {
   .invited a {
     color: #eeeeee;
     text-decoration: underline; }
+    .invited a:hover {
+      background-color: #963636; }
 
 dd a {
   display: block;

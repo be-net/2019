@@ -205,6 +205,9 @@ a {
     a {
         color: $alfg;
         text-decoration: underline;
+        &:hover {
+            background-color: darken($albg, 10%);
+        }
     }
     color: $alfg;
 }
