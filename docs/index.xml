@@ -172,7 +172,7 @@ or
 
 &lt;dl&gt;
 &lt;dt&gt;8:30&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Welcome&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;strong&gt;Welcome and Registration&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;9:00&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/graham&#34;&gt;TBA&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;&lt;/dd&gt;
@@ -199,6 +199,10 @@ or
 &lt;dd&gt;Malik Kerkour, Jean-Yves Gnabo, Nicolas Debarsy
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;12:00&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;../abs/talk31&#34;&gt;The Belgian Production Network&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;Glenn Magerman, Emmanuel Dhyne
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;12:30&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Lunch + Poster session&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;13:30&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Mixing Event&lt;/strong&gt;&lt;/dd&gt;
@@ -215,16 +219,20 @@ or
 &lt;dd&gt;Dimitri Papadimitriou
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;15:00&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;../abs/talk32&#34;&gt;Deformed Laplacians on graphs and networks with applications to ranking, visualization and community detection&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;Michael Fanuel
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;15:20&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Coffee Break&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;15:30&lt;/dt&gt;
+&lt;dt&gt;15:50&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk03&#34;&gt;The impact of business location on university contract research: a two-mode ERGM analysis&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;André Spithoven, Jef Vlegels, Walter Ysebaert
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;15:50&lt;/dt&gt;
+&lt;dt&gt;16:10&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk28&#34;&gt;Emergent features of triadic relations in political networks&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;Jan Ryckebusch, Andres M. Belaza, Kevin Hoefman, Koen Schoors
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;16:10&lt;/dt&gt;
+&lt;dt&gt;16:30&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk30&#34;&gt;SIS Epidemics and the Direction of Information Flow in Brain Networks&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;Jil Meier
 &lt;br /&gt;&lt;/dd&gt;
@@ -233,8 +241,8 @@ or
 &lt;h1 id=&#34;poster-contributions&#34;&gt;Poster contributions&lt;/h1&gt;
 
 &lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
+&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
@@ -248,8 +256,8 @@ or
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
 &lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
@@ -408,6 +416,51 @@ Overall, our results improve our understanding of the US financial landscape and
 
 &lt;p&gt;In this paper, we show that the networked nature of decentralized markets where trading takes place over-the-counter generates excess of notional, i.e., a positive difference between the aggregate gross notional of the market and the minimum aggregate amount satisfying every participants’ net position in the market.
 In turn, the existence of this excess makes those markets “compressible”, i.e., the web of outstanding trades can be modified in order to reduce notional excess. We proceed by identifying the different classes of compression and analysing the conditions under which each approach can be applied. We show that a trade-off exists between the amount of excess that can be removed from the market and the conservation of trading relationships. Furthermore, our results highlight the fact that dealers are the prime beneficiaries of compression as their intermediary role is key to the generation of excess. We then show how different initial market structures are affected by compression under different scenarios and discuss the implications. Finally, we apply our theoretical framework to a unique and comprehensive transaction-level dataset on OTC derivatives. First, we find important levels of excess across all references. Second, we show that compression when applied at the global level can reduce a large fraction of these levels of excess. Our results are of interest for both policymakers and market participants as they highlight the mechanics of trades compression and discuss the externatilities at the systemic level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deformed Laplacians on graphs and networks with applications to ranking, visualization and community detection</title>
+      <link>https://be-net.github.io/2016/abs/talk32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://be-net.github.io/2016/abs/talk32/</guid>
+      <description>
+
+&lt;h1 id=&#34;deformed-laplacians-on-graphs-and-networks-with-applications-to-ranking-visualization-and-community-detection&#34;&gt;Deformed Laplacians on graphs and networks with applications to ranking, visualization and community detection&lt;/h1&gt;
+
+&lt;p&gt;Michael Fanuel&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; Katholieke Universiteit Leuven&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many problems related to graphs and networks, like for instance
+multiscale community detection or visualization, can be solved by using
+the so-called combinatorial Laplacian. Various diffusion processes on
+networks are generated by a series of normalized combinatorial
+Laplacians, providing efficient tools in many applications. Recently,
+several deformations of this discrete Laplacian have been used for
+solving a variety of problems in applied mathematics; some important
+examples are the signed Laplacian and the connection Laplacian.
+Within this context, we propose a class of deformed Laplacians and
+discuss their properties in view of applications. Among all the options,
+a possible deformation is the dilation Laplacian whose least eigenvector
+(i.e., the one of the smallest eigenvalue) can be used to rank objects
+from &amp;ldquo;noisy&amp;rdquo; pairwise comparisons; in this problem, the objects are the
+nodes of a graph and the comparisons are the directed edges. The nodes
+may for instance represent currencies and the edges may be associated to
+exchange rates. While still using the dilation Laplacian, we can compute
+a ranking of players in sport tournaments, where cyclic inconsistencies
+in the comparisons may arise.
+Another type of deformed Laplacian is the magnetic Laplacian, which is
+complex valued and Hermitian. The least eigenvectors of the magnetic
+Laplacian, called the magnetic eigenmaps, can be used in order to
+visualize directed networks and to uncover certain types of community
+structures in directed graphs.
+In this talk, an overview of the construction of such deformed
+Laplacians will be given in the light of certain analogies with physical
+systems. Several illustrations of potential applications will be outlined.&lt;/p&gt;
 </description>
     </item>
     
@@ -603,27 +656,6 @@ keep their levels of integration and diversification stable while for others
 those factors decrease mainly after the financial crisis in 2008. These
 findings offer new insights on the systemical importance of financial
 institutions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sovereign Wealth Funds&#39; cross-border investments: assessing the role of country-level drivers and spatial competition</title>
-      <link>https://be-net.github.io/2016/abs/talk13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://be-net.github.io/2016/abs/talk13/</guid>
-      <description>
-
-&lt;h1 id=&#34;sovereign-wealth-funds-cross-border-investments-assessing-the-role-of-country-level-drivers-and-spatial-competition&#34;&gt;Sovereign Wealth Funds&amp;rsquo; cross-border investments: assessing the role of country-level drivers and spatial competition&lt;/h1&gt;
-
-&lt;p&gt;Malik Kerkour&lt;sup&gt;1&lt;/sup&gt;, Jean-Yves Gnabo&lt;sup&gt;1&lt;/sup&gt;, Nicolas Debarsy&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; University of Namur&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;2&lt;/sup&gt; CNRS, France&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The aim of this paper is to identify the driving forces of cross-border investments emanating from Sovereign wealth funds and to test the existence of spatial competition among recipient countries. For this, we develop an original econometric framework that quantifies the role of spatial dependence in the location of investments, and that uses a modified version of the standard estimation procedure of spatial panel model, which accommodates the Inverse Hyperbolic Sine transformation of the dependent variable. This transformation copes with two critical features of net capital flows, namely an highly skewed distribution and the presence of zero and negative values. Using a large-scale database, we provide evidence of negative spatial dependence, investments in one country being on average at the expense of its neighbors.&lt;/p&gt;
 </description>
     </item>
     

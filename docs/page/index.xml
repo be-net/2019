@@ -69,7 +69,7 @@ or
 
 &lt;dl&gt;
 &lt;dt&gt;8:30&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Welcome&lt;/strong&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;strong&gt;Welcome and Registration&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;9:00&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/graham&#34;&gt;TBA&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;&lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;&lt;/dd&gt;
@@ -96,6 +96,10 @@ or
 &lt;dd&gt;Malik Kerkour, Jean-Yves Gnabo, Nicolas Debarsy
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;12:00&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;../abs/talk31&#34;&gt;The Belgian Production Network&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;Glenn Magerman, Emmanuel Dhyne
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;12:30&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Lunch + Poster session&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;13:30&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Mixing Event&lt;/strong&gt;&lt;/dd&gt;
@@ -112,16 +116,20 @@ or
 &lt;dd&gt;Dimitri Papadimitriou
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;15:00&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;../abs/talk32&#34;&gt;Deformed Laplacians on graphs and networks with applications to ranking, visualization and community detection&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;Michael Fanuel
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;15:20&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Coffee Break&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;15:30&lt;/dt&gt;
+&lt;dt&gt;15:50&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk03&#34;&gt;The impact of business location on university contract research: a two-mode ERGM analysis&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;André Spithoven, Jef Vlegels, Walter Ysebaert
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;15:50&lt;/dt&gt;
+&lt;dt&gt;16:10&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk28&#34;&gt;Emergent features of triadic relations in political networks&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;Jan Ryckebusch, Andres M. Belaza, Kevin Hoefman, Koen Schoors
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;16:10&lt;/dt&gt;
+&lt;dt&gt;16:30&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk30&#34;&gt;SIS Epidemics and the Direction of Information Flow in Brain Networks&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;Jil Meier
 &lt;br /&gt;&lt;/dd&gt;
@@ -130,8 +138,8 @@ or
 &lt;h1 id=&#34;poster-contributions&#34;&gt;Poster contributions&lt;/h1&gt;
 
 &lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
+&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
@@ -145,8 +153,8 @@ or
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
 &lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
