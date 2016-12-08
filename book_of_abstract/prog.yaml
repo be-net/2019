@@ -10,12 +10,11 @@ order:
     lenght: '60'
   -
     title: Coffee Break
+    lenght: '30'
   -
     abs: talk02
   -
     abs: talk21
-  -
-    title: Coffee Break
   -
     abs: talk10
   -
@@ -23,7 +22,7 @@ order:
   -
     abs: talk31
   -
-    start: '12:30'
+    start: '12:10'
     title: Lunch + Poster session
   -
     start: '13:30'
