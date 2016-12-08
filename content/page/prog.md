@@ -3,11 +3,11 @@ date = "2016-05-05T21:48:51-07:00"
 title = "Program"
 +++
 
-                                                
+                                                    
 #  Tentative Program
 
 8:30
-:   **Welcome**
+:   **Welcome and Registration**
 
 9:00
 :   [TBA](../abs/graham)
@@ -42,6 +42,11 @@ title = "Program"
     
 
 12:00
+:   [The Belgian Production Network](../abs/talk31)
+:   Glenn Magerman, Emmanuel Dhyne
+    
+
+12:30
 :   **Lunch + Poster session**
 
 13:30
@@ -63,19 +68,24 @@ title = "Program"
     
 
 15:00
+:   [Deformed Laplacians on graphs and networks with applications to ranking, visualization and community detection](../abs/talk32)
+:   Michael Fanuel
+    
+
+15:20
 :   **Coffee Break**
 
-15:30
+15:50
 :   [The impact of business location on university contract research: a two-mode ERGM analysis](../abs/talk03)
 :   André Spithoven, Jef Vlegels, Walter Ysebaert
     
 
-15:50
+16:10
 :   [Emergent features of triadic relations in political networks](../abs/talk28)
 :   Jan Ryckebusch, Andres M. Belaza, Kevin Hoefman, Koen Schoors
     
 
-16:10
+16:30
 :   [SIS Epidemics and the Direction of Information Flow in Brain Networks](../abs/talk30)
 :   Jil Meier
     
@@ -85,8 +95,8 @@ title = "Program"
 # Poster contributions
 
   
-[The ground truth about metadata and community detection in networks](../abs/poster31)
-:   Leto Peel, Daniel B. Larremore, Aaron Clauset
+[Stationarity of the inter­event power­law distributions](../abs/poster11)
+:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
     
 
   
@@ -100,8 +110,8 @@ title = "Program"
     
 
   
-[Stationarity of the inter­event power­law distributions](../abs/poster11)
-:   Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+[The ground truth about metadata and community detection in networks](../abs/poster31)
+:   Leto Peel, Daniel B. Larremore, Aaron Clauset
     
 
 

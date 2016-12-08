@@ -3,12 +3,12 @@ lenght: 20
 order:
   -
     start: '8:30'
-    title: Welcome
+    title: Welcome and Registration
   -
     start: '9:00'
     abs: graham
+    lenght: '60'
   -
-    start: '10:00'
     title: Coffee Break
   -
     abs: talk02
@@ -21,22 +21,26 @@ order:
   -
     abs: talk13
   -
-    start: '12:00'
+    abs: talk31
+  -
+    start: '12:30'
     title: Lunch + Poster session
   -
     start: '13:30'
     title: Mixing Event
+    lenght: '30'
   -
-    start: '14:00'
     abs: talk09
   -
     abs: talk17
   -
     abs: talk16
   -
-    title: Coffee Break
+    abs: talk32
   -
-    start: '15:30'
+    title: Coffee Break
+    lenght: '30'
+  -
     abs: talk03
   -
     abs: talk28

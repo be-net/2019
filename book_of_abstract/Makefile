@@ -20,8 +20,8 @@ boa.pdf: prog.tex $(CHAPS_CMP) boa.tex
 	latexmk -lualatex boa.tex
 
 
-abs/registr.yaml: abs/registr.sh abs/registr.txt
-	bash abs/registr.sh abs/registr.txt > abs/registr.yaml
+# abs/registr.yaml: abs/registr.sh abs/registr.txt
+# 	bash abs/registr.sh abs/registr.txt > abs/registr.yaml
 
 
 prog.md: render_jinja.py prog.yaml prog.md.jinja
