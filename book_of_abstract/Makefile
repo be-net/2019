@@ -1,10 +1,17 @@
 CHAPS_TMP=$(wildcard chap-*.jinja)
 CHAPS_CMP=$(patsubst chap-%.jinja, chap-%, $(CHAPS_TMP))
-POSTDEST=../content/abs
+POSTDEST=../content
 
-.PHONY: all clean abs topost
+ALLABS=$(wildcard abs/*.yaml)
+NOABS=abs/affs.yaml abs/registr.yaml
+ABS=$(filter-out $(NOABS),$(ALLABS))
+WEBABS=$(patsubst %.yaml,$(POSTDEST)/%.md,$(ABS))
 
-all: program.pdf prog.md boa.pdf
+PROG=$(POSTDEST)/page/prog.md
+
+.PHONY: all clean abs
+
+all: program.pdf $(PROG) boa.pdf $(WEBABS)
 
 prog.tex: render_jinja.py prog.tex.jinja prog.yaml abs/*.yaml
 	rm -f prog.tex
@@ -24,10 +31,8 @@ boa.pdf: prog.tex $(CHAPS_CMP) boa.tex
 # 	bash abs/registr.sh abs/registr.txt > abs/registr.yaml
 
 
-prog.md: render_jinja.py prog.yaml prog.md.jinja
-	rm -f prog.md
-	python render_jinja.py prog.yaml prog.md.jinja > prog.md
-	cp -f prog.md ../content/page/prog.md
+$(PROG): render_jinja.py prog.yaml prog.md.jinja
+	python render_jinja.py prog.yaml prog.md.jinja > $@
 
 prog.html: render_jinja.py prog.html.jinja prog.yaml abs
 	rm -f prog.html
@@ -35,15 +40,9 @@ prog.html: render_jinja.py prog.html.jinja prog.yaml abs
 
 clean:
 	latexmk -C
-	
-toposts: abs/*.yaml render_jinja.py post.md.jinja
-	mkdir -p $(POSTDEST)
-	rm -f $(POSTDEST)/*
-	for f in abs/{talk,graham,poster}*.yaml; \
-	do \
-	  echo $${f}; \
-	  fname=`basename $${f}`;\
-	  newf=$${fname/yaml/md};\
-	  python render_jinja.py $${f} post.md.jinja > $(POSTDEST)/$${newf}; \
-	done;
-	
+	rm -r $(POSTDEST)/abs
+	rm -r $(PROG)
+
+$(POSTDEST)/abs/%.md: abs/%.yaml render_jinja.py post.md.jinja
+	mkdir -p $(POSTDEST)/abs
+	python render_jinja.py $< post.md.jinja > $@
