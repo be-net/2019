@@ -146,6 +146,31 @@ The model is currently being tested in a number of configurations, differing in 
     </item>
     
     <item>
+      <title>Econometric Models of Network Formation</title>
+      <link>https://be-net.github.io/2016/abs/graham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://be-net.github.io/2016/abs/graham/</guid>
+      <description>
+
+&lt;h1 id=&#34;econometric-models-of-network-formation&#34;&gt;Econometric Models of Network Formation&lt;/h1&gt;
+
+&lt;p&gt;Bryan S. Graham&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; University of California, Berkeley&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This talk will survey some of my recent work on the econometrics of
+network formation. Particular attention will be given to methods which
+admit unobserved agent-level heterogeneity and/or allow for
+interdependencies in preferences for link formation. Issues of
+identification, as well as methods of large network inference, will be
+emphasized.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Emergent features of triadic relations in political networks</title>
       <link>https://be-net.github.io/2016/abs/talk28/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -379,26 +404,6 @@ Our result suggests there is an intrinsic humankind scheduling pattern: after ov
 &lt;/ul&gt;
 
 &lt;p&gt;Most information propagation models in complex networks are probabilistic as they rely on the probability that vertices interact only locally with their neighbors. In this paper, we propose a stochastic propagation model that takes into account uncertainty in drift and diffusion. For this purpose, we consider the motion of information as being driven by an uncontrolled state process {X(t): t &amp;gt; 0}. The probability density function u(x,t) associated to this state process represented by the random variable X(t) satisfies the so-called Fokker-Planck (a.k.a. Kolmogorov forward) equation. The equation governing the information propagation model by combining drift and diffusion collectively defines thus a convective propagation phenomena. Our computational method makes use of polynomial chaos expansions (PCE) that enable to compactly represent the variable of interest as a linear combination of orthogonal polynomials which depend on another continuous random variable z (with known distribution). The latter characterizes uncertainty in model parameters (the drift and diffusion coefficients), input and output variables. The solution u(x,t,z) can thus be represented as a truncated series of orthogonal polynomials multiplied by deterministic coefficients. The dimension of the resulting system of coupled non-linear partial differential equations grows with the order of the polynomial chaos expansion and the dimension of the stochastic input. The resolution of this system of partial differential equations, realized using Matlab produces a propagation pattern that accounts for the convective effects induced by medium- and long-distance interactions (thus, beyond local interactions). Moreover, since various interactions between information yield delays which may alter the propagation dynamics due to the so-called memory effect (future behavior of the state process depends not only on the present but also on former states), we further explore propagation models where the governing equation is formulated by the nonlinear stochastic delay-differential equation (SDDE) also referred to as Stochastic Differential Equations with Memory.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TBA</title>
-      <link>https://be-net.github.io/2016/abs/graham/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://be-net.github.io/2016/abs/graham/</guid>
-      <description>
-
-&lt;h1 id=&#34;tba&#34;&gt;TBA&lt;/h1&gt;
-
-&lt;p&gt;Bryan S. Graham&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; University of California, Berkeley&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;TBA&lt;/p&gt;
 </description>
     </item>
     

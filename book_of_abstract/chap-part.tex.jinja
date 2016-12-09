@@ -1,6 +1,18 @@
 
-\begin{longtable}{rlr}
+
+{\scriptsize
+\begin{longtable}{lrl}
 [[% for part in participants | sort(attribute='name') | unique('name') %]]
-[[ loop.index ]] & [[ part.name ]] & [[ part.email ]] \\
+%	[[ loop.index ]] &
+  [[ part.name ]]
+  &
+  \href{mailto:[[ part.email ]]}{[[ part.email ]]}
+  &
+  [[ affs_short | filter_bykey(part.affiliation) | join(', ') ]]
+  \\
+% & \multicolumn{2}{r}{%
+% [[ affs | filter_bykey(part.affiliation) | join(', ') ]]
+% }\\
 [[% endfor %]]
 \end{longtable}
+}

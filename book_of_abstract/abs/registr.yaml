@@ -63,6 +63,11 @@
     - ucl
     - cor
 -
+  name: Ken Bastiaensen
+  email:  ken.bastiaensen@ugent.be
+  affiliation:
+    - ghe
+-
   name: Timoteo Carletti
   email: timoteo.carletti@unamur.be
   affiliation:
@@ -82,7 +87,7 @@
   name: Benjamin Vandermarliere
   email: bvandermarliere@gmail.com
   affiliation:
-    - gen
+    - ghe
 -
   name: Jérôme Dollinger
   email: j.dollinger@hotmail.fr
@@ -131,3 +136,20 @@
   affiliation:
     - ucl
     - cor
+-
+  name: Alexey Medvedev
+  email: an\_medvedev@yahoo.com
+  affiliation:
+    - nam
+    - ucl
+-
+  name: Leïla Van Keirsbilck
+  email: leila.vankeirsbilck@gmail.com
+  affiliation:
+    - ucl
+- 
+  name: Daniel Cassese
+  email: daniet.cas@gmail.com
+  affiliation:
+    - nam
+    - ucl

@@ -491,6 +491,31 @@ The model is currently being tested in a number of configurations, differing in 
     </item>
     
     <item>
+      <title>Econometric Models of Network Formation</title>
+      <link>https://be-net.github.io/2016/abs/graham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://be-net.github.io/2016/abs/graham/</guid>
+      <description>
+
+&lt;h1 id=&#34;econometric-models-of-network-formation&#34;&gt;Econometric Models of Network Formation&lt;/h1&gt;
+
+&lt;p&gt;Bryan S. Graham&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; University of California, Berkeley&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This talk will survey some of my recent work on the econometrics of
+network formation. Particular attention will be given to methods which
+admit unobserved agent-level heterogeneity and/or allow for
+interdependencies in preferences for link formation. Issues of
+identification, as well as methods of large network inference, will be
+emphasized.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Emergent features of triadic relations in political networks</title>
       <link>https://be-net.github.io/2016/abs/talk28/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -615,51 +640,6 @@ the opposite  direction  when  they are  strong  receivers.  Our  analysis
 suggests that these  global patterns of  directional information flow  are
 the result of  an unequal  spatial distribution of  the structural  degree
 between posterior and anterior regions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shareholding network of financial institutions: a dynamic analysis</title>
-      <link>https://be-net.github.io/2016/abs/talk12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://be-net.github.io/2016/abs/talk12/</guid>
-      <description>
-
-&lt;h1 id=&#34;shareholding-network-of-financial-institutions-a-dynamic-analysis&#34;&gt;Shareholding network of financial institutions: a dynamic analysis&lt;/h1&gt;
-
-&lt;p&gt;Cyrille Dossougoin&lt;sup&gt;1&lt;/sup&gt;, Donald Zountcheme&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; Université Catholique de Louvain&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Over the last decade interconnectedness has become key to characterize the
-financial system and to analyze phenomena that can jeopardize its stability.
-Financial institutions are involved in many transactions like lending and
-borrowing contracts, syndicated loans, international capital flows and
-cross-holdings to list a few. All these transactions create complex linkages
-among them
-which, in case of downfall of an institution, can result in bad
-outcomes for the real economy as materialized in the recent financial crisis.
-Therefore to strengthen policy interventions, tools from the network
-literature are used to study the architecture of financial systems. We
-contribute to this ongoing debate by analyzing the topology of
-cross-shareholding network of financial institutions (banks, insurance
-companies, broker-dealers etc.). For this we exploit portfolio holdings data
-of 82 large financial institutions located in United States and Europe over
-the period 2006-2012. We are able to study the changes in the network
-structure through time and thus complement common works on static interbank
-networks. Furthermore we use network based measures to quantify the level of
-integration and diversification of each financial institutions. Integration
-refer to the level of exposure of financial institutions to each other and the
-diversification captures how the cross-shareholding is spread out. Our results
-show that as time passes the cross-shareholding network becomes dense and
-exhibit a scale free property. In addition some financial institutions tend to
-keep their levels of integration and diversification stable while for others
-those factors decrease mainly after the financial crisis in 2008. These
-findings offer new insights on the systemical importance of financial
-institutions.&lt;/p&gt;
 </description>
     </item>
     

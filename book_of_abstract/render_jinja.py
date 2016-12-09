@@ -27,7 +27,17 @@ for f in glob.glob('abs/*.yaml'):
         data['posters'][name] = _data
         participants.append(_data['Authors'][0])
     elif 'affs' in name:
-        data['affs'] = _data
+        data['affs'] = {}
+        data['affs_short'] = {}
+        for k, v in _data.items():
+            if type(v) == list:
+                data['affs'][k] = v[0]
+                data['affs_short'][k] = v[1]
+            elif type(v) == str:
+                data['affs'][k] = v
+                data['affs_short'][k] = v
+            else:
+                raise ValueError('Error in Affs')
     elif 'regi' in name:
         data['reg'] = _data
         participants.extend(_data)

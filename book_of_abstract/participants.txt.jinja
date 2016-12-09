@@ -1,0 +1,7 @@
+
+{% for part in participants | sort(attribute='name') | unique('name') %}
+  {{ loop.index }} -- {{ part.name }} .. {{ part.email }}
+  {% for aff in part.affiliation %}
+                      {{ affs[aff] }}
+  {% endfor %}
+{% endfor %}
