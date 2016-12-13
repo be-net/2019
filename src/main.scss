@@ -220,3 +220,13 @@ dd {
         text-overflow: ellipsis;
     }
 }
+
+.affiliations {
+    font-style: italic;
+    sup {
+        font-style: normal;
+    }
+    ul {
+        list-style-type: none;
+    }
+}

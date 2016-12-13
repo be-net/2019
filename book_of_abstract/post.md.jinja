@@ -11,8 +11,10 @@ title: "{{ Title }}"
 {% endfor %}
 
 
+{{ '{{% class affiliations %}}' }}
 {% for aff, ind in affsmap|dictsort(by='value') %}
 - <sup>{{ ind }}</sup> {{ affs[aff] }}
 {% endfor %}
+{{ '{{% /class %}}' }}
 
 {{ Abstract }}

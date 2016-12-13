@@ -596,3 +596,10 @@ dd a {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
+
+.affiliations {
+  font-style: italic; }
+  .affiliations sup {
+    font-style: normal; }
+  .affiliations ul {
+    list-style-type: none; }
