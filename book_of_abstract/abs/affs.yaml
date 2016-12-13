@@ -20,12 +20,12 @@ ghe:
   - UGent
 kul:
   - Katholieke Universiteit Leuven
-  - KULouven
+  - KULeuven
 ant: Antwerp Universiteit
 vub:
   - Vrije Universiteit Brussel
   - VUB
-fra: Goethe University Frankfurt
+fra: Goethe University, Frankfurt
 coi: Universidade de Coimbra, Portugal
 def: Delft University, The Netherlands
 sfe: Santa Fe Institute, New Mexico
@@ -43,3 +43,5 @@ tou: Toulouse School of Economics, France
 orl: Laboratoire d'economie d'Orléans, France
 ils: ILSM
 nbb: National Bank of Belgium
+ukl: University of Koblenz-Landau
+ali: University of Alicante

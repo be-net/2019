@@ -29,7 +29,8 @@
   linkcolor=nicegreendark,
 ]{hyperref}
 
-\usepackage{longtable}
+\usepackage{colortbl}
+\arrayrulecolor{black!10}
 
 \usepackage{tikz}
 \usetikzlibrary{calc, matrix}
@@ -152,6 +153,6 @@ The scope of the meeting includes but is not restricted to:
 
 \chapter*{Participants}
 
-\input{chap-part}
+\makebox[\textwidth][r]{\scriptsize \input{chap-part}}
 
 \end{document}

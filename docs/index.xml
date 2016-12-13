@@ -240,13 +240,25 @@ or
 &lt;dd&gt;&lt;a href=&#34;../abs/talk30&#34;&gt;SIS Epidemics and the Direction of Information Flow in Brain Networks&lt;/a&gt;&lt;/dd&gt;
 &lt;dd&gt;Jil Meier
 &lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;16:50&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;h1 id=&#34;poster-contributions&#34;&gt;Poster contributions&lt;/h1&gt;
 
 &lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;../abs/poster41&#34;&gt;Power Networks &amp;mdash; A network approach to voting theory&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Ádám Telek
+&lt;br /&gt;
+
+&lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the inter­event power­law distributions&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+&lt;br /&gt;
+
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical household contact networks and their implication for infectious disease spread&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Pietro Coletti, Niel Hens
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
@@ -262,11 +274,6 @@ or
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The ground truth about metadata and community detection in networks&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical household contact networks and their implication for infectious disease spread&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Pietro Coletti, Niel Hens
 &lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
@@ -605,46 +612,37 @@ Epidemic simulations from a discrete-time chain binomial model assuming random m
     </item>
     
     <item>
-      <title>SIS Epidemics and the Direction of Information Flow in Brain Networks</title>
-      <link>https://be-net.github.io/2016/abs/talk30/</link>
+      <title>Power Networks --- A network approach to voting theory</title>
+      <link>https://be-net.github.io/2016/abs/poster41/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://be-net.github.io/2016/abs/talk30/</guid>
+      <guid>https://be-net.github.io/2016/abs/poster41/</guid>
       <description>
 
-&lt;h1 id=&#34;sis-epidemics-and-the-direction-of-information-flow-in-brain-networks&#34;&gt;SIS Epidemics and the Direction of Information Flow in Brain Networks&lt;/h1&gt;
+&lt;h1 id=&#34;power-networks-a-network-approach-to-voting-theory&#34;&gt;Power Networks &amp;mdash; A network approach to voting theory&lt;/h1&gt;
 
-&lt;p&gt;Jil Meier&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Ádám Telek&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; Delft University, The Netherlands&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt; University of Alicante&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The  interplay  between  structural  connections  and  emerging
-information flow in the  human brain remains an  open research problem.  A
-recent study observed global patterns  of directional information flow  in
-empirical data using the measure of transfer entropy. For higher frequency
-bands, the overall  direction of  information flow was  from posterior  to
-anterior regions whereas an anterior-to-posterior pattern was observed  in
-lower frequency bands.  In this study,  we applied a  simple SIS  epidemic
-spreading model  on  the human  connectome  with  the aim  to  reveal  the
-topological properties of the structural  network that give rise to  these
-global patterns.
-In order to quantify the information flow between regions, we computed the
-transfer entropy  values  for all  node  pairs evaluating  different  time
-windows. We  found  that  direct  structural  connections  induced  higher
-transfer entropy  between  two brain  regions  and that  transfer  entropy
-decreased with increasing distance between nodes (in terms of hops in  the
-structural network). Applying the SIS model,  we were able to confirm  the
-empirically observed opposite information flow patterns, which seem to  be
-linked to different time scales  of the spreading process. Posterior  hubs
-in the structural network  appear to play a  dominant role in the  network
-dynamics  since  the  global  pattern  of  information  flow  is  in   the
-posterior-to-anterior direction when these hubs are strong senders, and in
-the opposite  direction  when  they are  strong  receivers.  Our  analysis
-suggests that these  global patterns of  directional information flow  are
-the result of  an unequal  spatial distribution of  the structural  degree
-between posterior and anterior regions.&lt;/p&gt;
+&lt;p&gt;In this paper I study elections where the preferences of the voters are
+derived from their position in the social network. I argue that in some
+cases studying the ideology of the electorate is not the right way to
+understand the result of an election. In small electorates or in
+committees the personal connections can be much more important than
+political ideology. I develop a voting model where these personal
+connections add up to a social network and I study what network properties
+and the social structures lead to a voting equilibrium. I show that single
+peaked preferences on chain and tree networks are inherent in my model,
+then I define a set of networks where the equilibrium is robust to changes
+in the intensity of a connection. Finally I provide a method to locate
+potential Condorcet winners in the network. In the discussion I relate my
+approach to the practice of using centrality measures (betweenness or
+eigenvector centrality) in the analysis and in an illustrative example I
+calibrate my model to predict the victory of the Medici family in a
+medieval power struggle.&lt;/p&gt;
 </description>
     </item>
     

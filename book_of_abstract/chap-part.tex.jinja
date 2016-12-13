@@ -1,7 +1,6 @@
 
 
-{\scriptsize
-\begin{longtable}{lrl}
+\begin{tabular}{lrl}
 [[% for part in participants | sort(attribute='name') | unique('name') %]]
 %	[[ loop.index ]] &
   [[ part.name ]]
@@ -10,9 +9,6 @@
   &
   [[ affs_short | filter_bykey(part.affiliation) | join(', ') ]]
   \\
-% & \multicolumn{2}{r}{%
-% [[ affs | filter_bykey(part.affiliation) | join(', ') ]]
-% }\\
+\hline
 [[% endfor %]]
-\end{longtable}
-}
+\end{tabular}

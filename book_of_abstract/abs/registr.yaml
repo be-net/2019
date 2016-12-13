@@ -153,3 +153,14 @@
   affiliation:
     - nam
     - ucl
+-
+  name: Jérôme Kunegis
+  email: kunegis@gmail.com
+  affiliation:
+    - nam
+    - ukl
+-
+  name: Julien Petit
+  email: julien.petit@unamur.be
+  affiliation:
+    - nam

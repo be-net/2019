@@ -1,0 +1,26 @@
+Submission: 40
+Title: Power Networks --- A network approach to voting theory
+Abstract: |
+     In this paper I study elections where the preferences of the voters are
+     derived from their position in the social network. I argue that in some
+     cases studying the ideology of the electorate is not the right way to
+     understand the result of an election. In small electorates or in
+     committees the personal connections can be much more important than
+     political ideology. I develop a voting model where these personal
+     connections add up to a social network and I study what network properties
+     and the social structures lead to a voting equilibrium. I show that single
+     peaked preferences on chain and tree networks are inherent in my model,
+     then I define a set of networks where the equilibrium is robust to changes
+     in the intensity of a connection. Finally I provide a method to locate
+     potential Condorcet winners in the network. In the discussion I relate my
+     approach to the practice of using centrality measures (betweenness or
+     eigenvector centrality) in the analysis and in an illustrative example I
+     calibrate my model to predict the victory of the Medici family in a
+     medieval power struggle.
+Authors:
+  -
+    name: Ádám Telek
+    email: telek@ua.es
+    affiliation:
+      - ali
+    corresponding: true
