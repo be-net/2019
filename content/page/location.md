@@ -6,7 +6,9 @@ title = "Location and Contact"
 # Location
 
 The BeNet 2016 meeting will be held at the Université Catholique de Louvain
-(Louvain-la-Neuve), in the CORE building.
+(Louvain-la-Neuve), in the [CORE](http://www.uclouvain.be/en-core.html) building.
+
+Address: Voie du Roman Pays, 34, 1348 Louvain-la-Neuve.
 
 <div id="mapid" style="width: 100%; height: 400px; border: solid 1px;"></div>
 
@@ -28,8 +30,8 @@ L.tileLayer(mburl, {
 }).addTo(mymap);
 
 
-L.marker([50.6693, 4.6153]).addTo(mymap)
-	.bindPopup("<b>CORE</b><br />BeNet2016").openPopup();
+L.marker([50.66885, 4.61535]).addTo(mymap)
+	.bindPopup("<b>CORE</b><br />BeNet 2016<br/>Voie du Roman Pays, 34").openPopup();
 
 var popup = L.popup();
 </script>

@@ -123,7 +123,9 @@ created and administered by Matteo Gagliolo.&lt;/p&gt;
 &lt;h1 id=&#34;location&#34;&gt;Location&lt;/h1&gt;
 
 &lt;p&gt;The BeNet 2016 meeting will be held at the Université Catholique de Louvain
-(Louvain-la-Neuve), in the CORE building.&lt;/p&gt;
+(Louvain-la-Neuve), in the &lt;a href=&#34;http://www.uclouvain.be/en-core.html&#34; target=&#34;_blank&#34;&gt;CORE&lt;/a&gt; building.&lt;/p&gt;
+
+&lt;p&gt;Address: Voie du Roman Pays, 34, 1348 Louvain-la-Neuve.&lt;/p&gt;
 
 &lt;div id=&#34;mapid&#34; style=&#34;width: 100%; height: 400px; border: solid 1px;&#34;&gt;&lt;/div&gt;
 
@@ -145,8 +147,8 @@ L.tileLayer(mburl, {
 }).addTo(mymap);
 
 
-L.marker([50.6693, 4.6153]).addTo(mymap)
-    .bindPopup(&#34;&lt;b&gt;CORE&lt;/b&gt;&lt;br /&gt;BeNet2016&#34;).openPopup();
+L.marker([50.66885, 4.61535]).addTo(mymap)
+    .bindPopup(&#34;&lt;b&gt;CORE&lt;/b&gt;&lt;br /&gt;BeNet 2016&lt;br/&gt;Voie du Roman Pays, 34&#34;).openPopup();
 
 var popup = L.popup();
 &lt;/script&gt;
@@ -210,7 +212,7 @@ or
 &lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;12:10&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Lunch + Poster session&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;13:30&lt;/dt&gt;
+&lt;dt&gt;13:10&lt;/dt&gt;
 &lt;dd&gt;&lt;strong&gt;Mixing Event&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;14:00&lt;/dt&gt;
 &lt;dd&gt;&lt;a href=&#34;../abs/talk09&#34;&gt;Causal Inference Using Multi-Channel Regime Switching Information Transfer Estimation&lt;/a&gt;&lt;/dd&gt;
@@ -249,8 +251,13 @@ or
 &lt;h1 id=&#34;poster-contributions&#34;&gt;Poster contributions&lt;/h1&gt;
 
 &lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster05&#34;&gt;Do You Believe What You Know? Stereotype Learning in the Context of Social Networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Julia Eberlen, Olivier Klein, Matteo Gagliolo
+&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the Inter­Event Power­Law Distributions&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
+&lt;br /&gt;
+
+&lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical Household Contact Networks and their Implication for Infectious Disease Spread&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Pietro Coletti, Niel Hens
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
@@ -259,18 +266,13 @@ or
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;../abs/poster05&#34;&gt;Do You Believe What You Know? Stereotype Learning in the Context of Social Networks&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Julia Eberlen, Olivier Klein, Matteo Gagliolo
+&lt;br /&gt;
+
+&lt;br /&gt;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;../abs/poster40&#34;&gt;The Evolution of Networks During the Development Process: Evidence from Rural Gambia&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;Simon Heß, Dany Jaimovich, Matthias Schündeln
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the Inter­Event Power­Law Distributions&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical Household Contact Networks and their Implication for Infectious Disease Spread&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Pietro Coletti, Niel Hens
 &lt;br /&gt;
 
 &lt;br /&gt;&lt;/dd&gt;

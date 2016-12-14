@@ -25,9 +25,9 @@ order:
     start: '12:10'
     title: Lunch + Poster session
   -
-    start: '13:30'
+    start: '13:10'
     title: Mixing Event
-    lenght: '30'
+    lenght: '50'
   -
     abs: talk09
   -
