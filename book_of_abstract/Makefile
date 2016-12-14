@@ -25,6 +25,8 @@ program.pdf: prog.tex program.tex $(CHAPS_CMP)
 
 boa.pdf: prog.tex $(CHAPS_CMP) boa.tex
 	latexmk -lualatex boa.tex
+	mkdir -p ../static/files
+	cp boa.pdf ../static/files/boa-benet-2016.pdf
 
 
 # abs/registr.yaml: abs/registr.sh abs/registr.txt

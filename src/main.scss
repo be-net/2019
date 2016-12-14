@@ -136,6 +136,8 @@ td {
 }
 
 #TableOfContents {
+    margin-left: 1ex;
+    margin-bottom: 1ex;
     &:before{
         font-family: 'Lato', sans-serif;
         font-weight: bold;
@@ -200,13 +202,13 @@ a {
 }
 
 .invited {
-    background-color: $albg;
+    background-color: $nav_logo_bg;
     padding: 0.3ex 1ex;
     a {
-        color: $alfg;
+        color: $nav_logo_fg;
         text-decoration: underline;
         &:hover {
-            background-color: darken($albg, 10%);
+            background-color: darken($nav_logo_bg, 5%);
         }
     }
     color: $alfg;

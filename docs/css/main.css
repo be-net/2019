@@ -536,6 +536,8 @@ td {
       margin-left: 0; }
 
 #TableOfContents {
+  margin-left: 1ex;
+  margin-bottom: 1ex;
   background-color: #e0f0f0;
   float: right; }
   #TableOfContents:before {
@@ -582,14 +584,14 @@ a {
     color: #eeeeee; }
 
 .invited {
-  background-color: #bb4444;
+  background-color: teal;
   padding: 0.3ex 1ex;
   color: #eeeeee; }
   .invited a {
-    color: #eeeeee;
+    color: #FFDC00;
     text-decoration: underline; }
     .invited a:hover {
-      background-color: #963636; }
+      background-color: #006767; }
 
 dd a {
   display: block;

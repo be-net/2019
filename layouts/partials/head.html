@@ -3,12 +3,12 @@
 {{ .Hugo.Generator }}
 
 {{ if eq .URL "/" }}
-<title>{{ .Title }}</title>
-<meta property="og:title" content="{{ .Title }}">
+<title>{{ .Site.Params.titleshort }} - {{ .Title }}</title>
+<meta property="og:title" content="{{ .Site.Params.titleshort }} - {{ .Title }}">
 <meta property="og:type" content="website">
 {{ else }}
-<title>{{ .Title }} - {{ .Site.Title }}</title>
-<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+<title>{{ .Title }} - {{ .Site.Params.titleshort }}</title>
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Params.titleshort }}">
 {{ end }}
 
 {{ if eq .URL "/" }}
