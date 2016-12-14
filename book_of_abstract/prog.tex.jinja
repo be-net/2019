@@ -16,8 +16,8 @@
              minimum width=0.3cm, minimum height=2pt},
            column 1/.style={black!50, anchor=east},
            column 3/.style={anchor=west, text width=13cm},
-           conf/.style={black!50},
-           invited/.style={fill=black!10},
+           conf/.style={fill=black!10},
+           invited/.style={white, fill=black!50},
            contributed/.style={},
        ] {%
        [[% set count = [0] %]]
@@ -26,7 +26,7 @@
 	[[% if count.append(count.pop() + 1) %]][[% endif %]]
 	[[ schedule | update_time(event, lenght) ]]
 	& |[dot]| &
-	[[% if event.title %]]
+	[[% if event.title %]]|[conf]|
 	[[ event.title ]]
 	[[% else %]]
 	[[% set abs = talks[event.abs] %]]

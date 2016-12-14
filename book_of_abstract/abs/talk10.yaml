@@ -1,5 +1,5 @@
 Submission: 10
-Title: "Assessing dynamic changes of the US financial market: insights from network science"
+Title: "Assessing Dynamic Changes of the US Financial Market: Insights from Network Science"
 Abstract: |
   Drawing on the recent and buoyant literature inferring financial interconnectedness from market data by means of various time series techniques [Billio et al. (2012), Diebold and Yilmaz(2015) and Geraci and Gnabo (2016)], we propose in this communication an in-depth analysis of the US financial market and its dynamic, using tools coming from network science. The financial system analyzed consists in a large set of 154 banks, brokers/dealers, insurance and real estate companies listed in the Standard \& Poor's 500 index for the period 1993 - 2014.
   Looking at the individual, sectoral, community and system wide levels, we show that network science’s tools are able to support well-known features of financial markets such as the dramatic fall of connectivity amid Lehmann Brother collapse. In addition, we also unveil several important new patterns within US financial institutions interconnectedness.
