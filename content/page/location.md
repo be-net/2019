@@ -5,6 +5,7 @@ title = "Location and Contact"
 
 # Location
 
+
 The BeNet 2016 meeting will be held at the Université Catholique de Louvain
 (Louvain-la-Neuve), in the [CORE](http://www.uclouvain.be/en-core.html) building.
 
@@ -42,3 +43,5 @@ For any question or request please contacti
 [Sophie Béreau](<mailto:sophie.bereau@gmail.com>)
 or
 [Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)
+
+{{< figure src="../images/mush.jpg" caption="Wild life at the location entrance" width="100%">}}

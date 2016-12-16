@@ -56,6 +56,24 @@ var popup = L.popup();
 &lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;
 or
 &lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../images/mush.jpg&#34; alt=&#34;Wild life at the location entrance&#34; width=&#34;100%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Wild life at the location entrance
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 </description>
     </item>
     
