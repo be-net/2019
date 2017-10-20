@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://be-net.github.io/2017/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://be-net.github.io/2017/location-and-contact/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
@@ -14,6 +9,12 @@
   <url>
     <loc>https://be-net.github.io/2017/registration/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://be-net.github.io/2017/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
