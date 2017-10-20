@@ -12,9 +12,8 @@ Abstract submission
 Notification of acceptance
 :   {{< deadline "not" >}}
 
-Registration (extended)
-:   {{< deadline "reg" >}} (for those who don't want to submit a paper/poster)
-
+Registration 
+:   {{< deadline "reg" >}} 
 
 # Call for abstracts
 
@@ -45,6 +44,6 @@ word `[REGISTRATION]` via [EasyChair][1].
 # Contacts
  
 For any question or request please contacti
-[Sophie Béreau](<mailto:sophie.bereau@gmail.com>)
+[Daniele Marinazzo](<mailto:daniele.marinazzo@gmail.com>)
 or
-[Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)
+[Julie Birkholz](<mailto:Julie.Birkholz@ugent.be >)

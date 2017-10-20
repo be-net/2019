@@ -6,7 +6,7 @@ title = "Home"
 
 # BeNet -- What?
 
-The 6th edition of the Belgian Network Research Meeting (BeNet) will be held at the Université catholique de Louvain (UCL) on December 15th, 2016.
+The 6th edition of the Belgian Network Research Meeting (BeNet) will be held at the University of Ghent (UGent) on December 6th, 2017.
 
 This annual meeting is a place for the Belgium-based researchers
 interested in the network paradigm to meet and communicate their
@@ -24,7 +24,7 @@ sociology,
 statistics,
 etc.
 
-Previous editions were held in Namur (UNamur 2015), Brussels (ULB 2014),
+Previous editions were held in Louvain-La-Neuve (UCL 2016), Namur (UNamur 2015), Brussels (ULB 2014),
 Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).
 See [here](https://be-net.github.io)
 for respective websites.
@@ -44,22 +44,15 @@ The scope of the meeting includes but is not restricted to:
 - Modelling & Data Analysis
 - Geography & Urban Dynamics
 
-### Joint event
-
-From Mon, Dec 12, to Wed, Dec 14, the winter school on
-**Networks in economics and finance** will be held at CORE (Louvain-la-Neuve),
-with a course by Bryan Graham.
-For more informations, please vistit its [website](http://www.unamur.be/en/eco/winter-school).
 
 # Invited Speaker
 
-[Bryan S. Graham](http://bryangraham.github.io/econometrics/about/),
-Associate Professor of Economics at the University of California, Berkeley.
+[TBA](TBA),
+TBA.
 
 # Where and when?
 
-BeNet 2016 will take place at CORE (Centre for Operation Research and
-Econometrics) in Louvain-la-Neuve on the 15th of December
+BeNet 2017 will take place in the Aula Complex of Ghent University in the city center of Ghent on the 6th of December
 (see [here](location-and-contact)).
 
 
@@ -82,5 +75,5 @@ created and administered by Matteo Gagliolo.
 # Contacts
  
 For any question or request please contact
-[Sophie Béreau](<mailto:sophie.bereau@gmail.com>) or
-[Jean-Charles Delvenne](<mailto:jean-charles.delvenne@uclouvain.be>)
+[Daniele Marinazzo](<mailto:daniele.marinazzo@gmail.com>) or
+[Julie Birkholz](<mailto:Julie.Birkholz@ugent.be >)

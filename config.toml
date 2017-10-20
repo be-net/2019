@@ -1,4 +1,4 @@
-baseurl = "https://be-net.github.io/2016/"
+baseurl = "https://be-net.github.io/2017/"
 languageCode = "en-us"
 title = "Belgian Network Research Meeting"
 theme = "lithium"
@@ -29,11 +29,11 @@ ignoreFiles = [ "\\.bak$" ]
     weight = -104
 
 [params]
-  titleshort = "BeNet2016"
+  titleshort = "BeNet2017"
   description = "Belgian Network Research Meeting"
-  abs_deadline = "2016-10-31"
-  reg_deadline = "2016-11-20"
-  not_deadline = "2016-11-15"
+  abs_deadline = "2017-11-21"
+  reg_deadline = "2017-12-01"
+  not_deadline = "2017-11-25"
 
   [params.logo]
     url = "logo.png"
