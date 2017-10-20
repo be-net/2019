@@ -1,288 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page-rsses on Belgian Network Research Meeting</title>
-    <link>https://be-net.github.io/2016/page/index.xml</link>
-    <description>Recent content in Page-rsses on Belgian Network Research Meeting</description>
+    <title>Pages on Belgian Network Research Meeting</title>
+    <link>https://be-net.github.io/2017/page/</link>
+    <description>Recent content in Pages on Belgian Network Research Meeting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
-    <atom:link href="https://be-net.github.io/2016/page/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://be-net.github.io/2017/page/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Location and Contact</title>
-      <link>https://be-net.github.io/2016/location-and-contact/</link>
+      <link>https://be-net.github.io/2017/location-and-contact/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://be-net.github.io/2016/location-and-contact/</guid>
-      <description>
+      <guid>https://be-net.github.io/2017/location-and-contact/</guid>
+      <description>Location The BeNet 2017 meeting will be held at Ghent University, in leslokaal Paddenhoek 1.0, Aula Complex (https://soleway.ugent.be/routes/2114l).
+Address: Paddenhoek 1-3, 9000 Ghent.
 
-&lt;h1 id=&#34;location&#34;&gt;Location&lt;/h1&gt;
-
-&lt;p&gt;The BeNet 2016 meeting will be held at the Université Catholique de Louvain
-(Louvain-la-Neuve), in the &lt;a href=&#34;http://www.uclouvain.be/en-core.html&#34; target=&#34;_blank&#34;&gt;CORE&lt;/a&gt; building.&lt;/p&gt;
-
-&lt;p&gt;Address: Voie du Roman Pays, 34, 1348 Louvain-la-Neuve.&lt;/p&gt;
-
-&lt;div id=&#34;mapid&#34; style=&#34;width: 100%; height: 400px; border: solid 1px;&#34;&gt;&lt;/div&gt;
-
-&lt;script src=&#34;https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js&#34;&gt;&lt;/script&gt;
-&lt;script&gt;
-var mymap = L.map(&#39;mapid&#39;, {
-    center: [50.6695394, 4.6151262],
-    zoom: 16
-    });
-
-var mburl = &#39;https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw&#39;
-
-L.tileLayer(mburl, {
-    maxZoom: 18,
-    attribution: &#39;Map data &amp;copy; &lt;a href=&#34;http://openstreetmap.org&#34;&gt;OpenStreetMap&lt;/a&gt; contributors, &#39; +
-        &#39;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC-BY-SA&lt;/a&gt;, &#39; +
-        &#39;Imagery © &lt;a href=&#34;http://mapbox.com&#34;&gt;Mapbox&lt;/a&gt;&#39;,
-    id: &#39;mapbox.streets&#39;
-}).addTo(mymap);
-
-
-L.marker([50.66885, 4.61535]).addTo(mymap)
-    .bindPopup(&#34;&lt;b&gt;CORE&lt;/b&gt;&lt;br /&gt;BeNet 2016&lt;br/&gt;Voie du Roman Pays, 34&#34;).openPopup();
-
-var popup = L.popup();
-&lt;/script&gt;
-
-&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
-
-&lt;p&gt;For any question or request please contacti
-&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;
-or
-&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;../images/mush.jpg&#34; alt=&#34;Wild life at the location entrance&#34; width=&#34;100%&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Wild life at the location entrance
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Program</title>
-      <link>https://be-net.github.io/2016/program/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://be-net.github.io/2016/program/</guid>
-      <description>
-
-&lt;p&gt;You can download the book of abstract from
-&lt;a href=&#34;../files/boa-benet-2016.pdf&#34;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;8:30&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Welcome and Registration&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;9:00&lt;/dt&gt;
-&lt;dd&gt;&lt;div class=&#34;invited&#34;&gt;
-    &lt;a href=&#34;../abs/graham&#34;&gt;Econometric Models of Network Formation&lt;/a&gt;
-&lt;/div&gt;
-&lt;/dd&gt;
-&lt;dd&gt;&lt;div class=&#34;invited&#34;&gt;
-    &lt;strong&gt;&lt;a href=&#34;http://bryangraham.github.io/econometrics&#34; target=&#34;_blank&#34;&gt;Bryan S. Graham&lt;/a&gt;&lt;/strong&gt;
-&lt;/div&gt;
-&lt;/dd&gt;
-&lt;dd&gt;&lt;em&gt;Invited Speaker&lt;/em&gt;
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;10:00&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Coffee Break&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;10:30&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk02&#34;&gt;Compressing Over-The-Counter Markets&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Tarik Roukny
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;10:50&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk21&#34;&gt;Network Effect on Stock Market Participation&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Olga Balakina, Anastasia Parakhonyak
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;11:10&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk10&#34;&gt;Assessing Dynamic Changes of the US Financial Market: Insights from Network Science&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Yerali Gandica, Marco Geraci, Sophie Béreau, Jean-Yves Gnabo
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;11:30&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk13&#34;&gt;Sovereign Wealth Funds&amp;rsquo; Cross-border Investments: Assessing the Role of Country-level Drivers and Spatial Competition&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Malik Kerkour, Jean-Yves Gnabo, Nicolas Debarsy
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;11:50&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk31&#34;&gt;The Belgian Production Network&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Glenn Magerman, Emmanuel Dhyne
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;12:10&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Lunch + Poster session&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;13:10&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Mixing Event&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;14:00&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk09&#34;&gt;Causal Inference Using Multi-Channel Regime Switching Information Transfer Estimation&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Carl-Henrik Dahlqvist
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;14:20&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk17&#34;&gt;Learning Graph-structured Dictionaries for Sparse Representation of Diffusive Signals on Graphs&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Shuyu Dong
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;14:40&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk16&#34;&gt;Stochastic Model for Information Propagation in Complex Networks&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Dimitri Papadimitriou
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;15:00&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk32&#34;&gt;Deformed Laplacians on Graphs and Networks with Applications to Ranking, Visualization and Community Detection&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Michael Fanuel
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;15:20&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Coffee Break&lt;/strong&gt;&lt;/dd&gt;
-&lt;dt&gt;15:50&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk03&#34;&gt;The Impact of Business Location on University Contract Research: a Two-mode ERGM Analysis&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;André Spithoven, Jef Vlegels, Walter Ysebaert
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;16:10&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk28&#34;&gt;Emergent Features of Triadic Relations in Political Networks&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Jan Ryckebusch, Andres M. Belaza, Kevin Hoefman, Koen Schoors
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;16:30&lt;/dt&gt;
-&lt;dd&gt;&lt;a href=&#34;../abs/talk30&#34;&gt;SIS Epidemics and the Direction of Information Flow in Brain Networks&lt;/a&gt;&lt;/dd&gt;
-&lt;dd&gt;Jil Meier
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;16:50&lt;/dt&gt;
-&lt;dd&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h1 id=&#34;poster-contributions&#34;&gt;Poster contributions&lt;/h1&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster41&#34;&gt;Power Networks &amp;mdash; A Network Approach to Voting Theory&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Ádám Telek
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster31&#34;&gt;The Ground Truth About Metadata and Community Detection in Networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Leto Peel, Daniel B. Larremore, Aaron Clauset
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster40&#34;&gt;The Evolution of Networks During the Development Process: Evidence from Rural Gambia&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Simon Heß, Dany Jaimovich, Matthias Schündeln
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster11&#34;&gt;Stationarity of the Inter­Event Power­Law Distributions&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Yerali Gandica, Joao Carvalho, Fernando Sampaio Dos Aidos, Renaud Lambiotte, Timoteo Carletti
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster08&#34;&gt;Empirical Household Contact Networks and their Implication for Infectious Disease Spread&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Pietro Coletti, Niel Hens
-&lt;br /&gt;
-
-&lt;br /&gt;&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;../abs/poster05&#34;&gt;Do You Believe What You Know? Stereotype Learning in the Context of Social Networks&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;Julia Eberlen, Olivier Klein, Matteo Gagliolo
-&lt;br /&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;http://perso.uclouvain.be/sophie.bereau/presentation.html&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;CORE, UCLouvain&lt;/dd&gt;
-&lt;dd&gt;School of Management, UCLouvain&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://perso.uclouvain.be/jean-charles.delvenne/&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;CORE, UCLouvain&lt;/dd&gt;
-&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://maurofaccin.bitbucket.org/&#34; target=&#34;_blank&#34;&gt;Mauro Faccin&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://sites.google.com/site/ygandica/&#34; target=&#34;_blank&#34;&gt;Yerali Gandica&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;CeReFim, NaXys, UNamur&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://www.uclouvain.be/leonardo.gutierrez&#34; target=&#34;_blank&#34;&gt;Leonardo Gutierrez&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://piratepeel.github.io/&#34; target=&#34;_blank&#34;&gt;Leto Peel&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;ICTEAM, UCLouvain&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;http://michaelschaub.github.io/&#34; target=&#34;_blank&#34;&gt;Michael Schaub&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;MIT&lt;/dd&gt;
-&lt;/dl&gt;
-</description>
+Contacts For any question or request please contact Daniele Marinazzo or Julie Birkholz</description>
     </item>
     
     <item>
       <title>Registration</title>
-      <link>https://be-net.github.io/2016/registration/</link>
+      <link>https://be-net.github.io/2017/registration/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://be-net.github.io/2016/registration/</guid>
-      <description>
-
-&lt;h1 id=&#34;important-dates&#34;&gt;Important dates&lt;/h1&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;Abstract submission&lt;/dt&gt;
-&lt;dd&gt;                            
-Mon, Oct 31, 2016
-
- (both oral and poster contributions)&lt;/dd&gt;
-&lt;dt&gt;Notification of acceptance&lt;/dt&gt;
-&lt;dd&gt;                            
-Tue, Nov 15, 2016
-
-&lt;/dd&gt;
-&lt;dt&gt;Registration (extended)&lt;/dt&gt;
-&lt;dd&gt;
-Sun, Nov 20, 2016
-
- (for those who don&amp;rsquo;t want to submit a paper/poster)&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h1 id=&#34;call-for-abstracts&#34;&gt;Call for abstracts&lt;/h1&gt;
-
-&lt;p&gt;Oral and poster contribution are welcome, please refer to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; for
-submissions.&lt;/p&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;Oral contributions:&lt;/dt&gt;
-&lt;dd&gt;short talks abstracts (20 minutes including questions) should be submitted
-to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; in text format (no more than 300 words).&lt;/dd&gt;
-&lt;dt&gt;Poster contributions:&lt;/dt&gt;
-&lt;dd&gt;submit the abstract to &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt; (text only,
-no more than 300 words).
-Please append the word &lt;code&gt;[POSTER]&lt;/code&gt; to the title of your submission.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;If you submit an abstract for a talk or a poster you will be automatically
-registered.&lt;/p&gt;
-
-&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
-
-&lt;p&gt;Registration is &lt;strong&gt;free&lt;/strong&gt;: please register by &lt;strong&gt;
-Sun, Nov 20, 2016
-
-&lt;/strong&gt;.
-For those who haven&amp;rsquo;t submitted a oral/poster contribution,
-you can register by simply sending an &lt;em&gt;empty&lt;/em&gt; abstract with the
-word &lt;code&gt;[REGISTRATION]&lt;/code&gt; via &lt;a href=&#34;https://easychair.org/conferences/?conf=benet2016&#34; title=&#34;EasyChair&#34; target=&#34;_blank&#34;&gt;EasyChair&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
-
-&lt;p&gt;For any question or request please contacti
-&lt;a href=&#34;mailto:sophie.bereau@gmail.com&#34; target=&#34;_blank&#34;&gt;Sophie Béreau&lt;/a&gt;
-or
-&lt;a href=&#34;mailto:jean-charles.delvenne@uclouvain.be&#34; target=&#34;_blank&#34;&gt;Jean-Charles Delvenne&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://be-net.github.io/2017/registration/</guid>
+      <description>Important dates  Abstract submission  Tue, Nov 21, 2017 (both oral and poster contributions) Notification of acceptance  Sat, Nov 25, 2017  Registration  Fri, Dec 1, 2017   Call for abstracts Oral and poster contribution are welcome, please refer to EasyChair for submissions.
+ Oral contributions: short talks abstracts (20 minutes including questions) should be submitted to EasyChair in text format (no more than 300 words).</description>
     </item>
     
   </channel>
