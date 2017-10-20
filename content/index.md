@@ -1,12 +1,12 @@
 +++
-date = "2016-05-05T21:48:51-07:00"
+date = "2017-10-20T13:48:51-07:00"
 title = "Home"
 
 +++
 
 # BeNet -- What?
 
-The 6th edition of the Belgian Network Research Meeting (BeNet) will be held at the University of Ghent (UGent) on December 6th, 2017.
+The 7th edition of the Belgian Network Research Meeting (BeNet) will be held at the University of Ghent (UGent) on December 6th, 2017.
 
 This annual meeting is a place for the Belgium-based researchers
 interested in the network paradigm to meet and communicate their
