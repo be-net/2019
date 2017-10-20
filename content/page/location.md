@@ -6,7 +6,7 @@ title = "Location and Contact"
 # Location
 
 
-The BeNet 2017 meeting will be held at Ghent University, in leslokaal Paddenhoek 1.0, Aula Complex (https://soleway.ugent.be/routes/2114l).
+The BeNet 2017 meeting will be held at Ghent University, in leslokaal Paddenhoek 1.0, Aula Complex (https://soleway.ugent.be/routes/2114).
 
 Address: Paddenhoek 1-3, 9000 Ghent.
 
