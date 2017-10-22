@@ -46,8 +46,8 @@ The scope of the meeting includes but is not restricted to:
 
 # Invited Speaker
 
-[TBA](TBA),
-TBA.
+[Yamir Moreno](Institute for Biocomputation and Physics of Complex Systems (BIFI), Vice-president of the Network Science Society, Elected President of the Complex Systems Society),
+Title TBA.
 
 # Where and when?
 
