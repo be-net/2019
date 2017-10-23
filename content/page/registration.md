@@ -29,13 +29,13 @@ Poster contributions:
 no more than 300 words).
 Please append the word `[POSTER]` to the title of your submission.
 
-If you submit an abstract for a talk or a poster you will be automatically
-registered.
+If you submit an abstract for a talk or a poster you will be automatically registered.
 
 # Registration
 
-Registration is **free**: please register by **{{< deadline "reg" >}}**.
-For those who haven't submitted a oral/poster contribution,
+Registration is **free**. Nonetheless the space is limited. Preference will be given to people presenting some work, and promotion of diversity will be a criterion of choice.
+Please register by **{{< deadline "reg" >}}**.
+For those who don't plan to submit a oral/poster contribution,
 you can register by simply sending an *empty* abstract with the
 word `[REGISTRATION]` via [EasyChair][1].
 
