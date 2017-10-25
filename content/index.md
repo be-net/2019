@@ -65,11 +65,11 @@ register for this event.
 
 # Program Committee
 
-Julie Birkholz (UGent)
-Matteo Gagliolo (ULB)
-Yerali Gandica (UNamur)
-Jelena Grujic (VUB)
-Daniele Marinazzo (UGent)
+- Julie Birkholz (UGent)
+- Matteo Gagliolo (ULB)
+- Yerali Gandica (UNamur)
+- Jelena Grujic (VUB)
+- Daniele Marinazzo (UGent)
 
 # Mailing list
 
