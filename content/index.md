@@ -63,6 +63,14 @@ BeNet 2017 will take place in the Aula Complex of Ghent University in the city c
 See [here](registration) for a more complete information on how to apply and
 register for this event.
 
+# Program Committee
+
+Julie Birkholz (UGent)
+Matteo Gagliolo (ULB)
+Yerali Gandica (UNamur)
+Jelena Grujic (VUB)
+Daniele Marinazzo (UGent)
+
 # Mailing list
 
 To receive further information about this meeting and the growing group of
