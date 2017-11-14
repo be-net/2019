@@ -22,12 +22,14 @@ submissions.
 
 Oral contributions:
 :   short talks abstracts (20 minutes including questions) should be submitted
-to [EasyChair][1] in text or pdf format (no more than 300 words).
+to [EasyChair][1] in text format (no more than 300 words).
 
 Poster contributions:
-:   submit the abstract to [EasyChair][1] (text or pdf,
+:   submit the abstract to [EasyChair][1] (text only,
 no more than 300 words).
 Please append the word `[POSTER]` to the title of your submission.
+
+**Please ignore the EasyChair message saying that you can submit pdf too, we need text only to automatically generate the abstract book.**
 
 If you submit an abstract for a talk or a poster you will be automatically registered.
 
