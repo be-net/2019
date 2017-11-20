@@ -31,9 +31,9 @@ ignoreFiles = [ "\\.bak$" ]
 [params]
   titleshort = "BeNet2017"
   description = "Belgian Network Research Meeting"
-  abs_deadline = "2017-11-26"
+  abs_deadline = "2017-11-21"
   reg_deadline = "2017-12-01"
-  not_deadline = "2017-11-30"
+  not_deadline = "2017-11-25"
 
   [params.logo]
     url = "logo.png"
