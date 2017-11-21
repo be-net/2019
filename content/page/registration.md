@@ -7,7 +7,7 @@ title = "Registration"
 # Important dates
 
 Abstract submission
-:   {{< **Extended** deadline "abs" >}} (both oral and poster contributions)
+:   {{< deadline "abs" >}} (both oral and poster contributions)
 
 Notification of acceptance
 :   {{< deadline "not" >}}
