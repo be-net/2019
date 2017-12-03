@@ -33,7 +33,7 @@ title = "Program"
 
 **16:20** - *Jef Vlegels* - [Exploring the impact of geographical distance on research contracted to universities: a social network approach] (/2017/files/abs01.txt)
 
-**16:40** - *Alexey Medvedev and Renaud Lambiotte* - [Predicting structure and dynamics of discussion threads in online boards using Hawkes processes] (/2017/files/abs01.txt)
+**16:40** - *Alexey Medvedev and Renaud Lambiotte* - [Predicting structure and dynamics of discussion threads in online boards using Hawkes processes] (/2017/files/BENET2017_paper_23.pdf)
 
 **17:00** - *Vsevolod Salnikov, Daniele Cassese and Renaud Lambiotte* - [Concepts co-occurrence for the identification of higher order concepts in Mathematics articles] (/2017/files/BENET2017_paper_33.pdf)
 
