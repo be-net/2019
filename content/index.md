@@ -5,7 +5,7 @@ title = "Home"
 
 # BeNet -- What?
 
-The 7th edition of the Belgian Network Research Meeting (BeNet) will be held at the University of Ghent (UGent) on December 6th, 2017.
+The 7th edition of the Belgian Network Research Meeting (BeNet) will be held in Ghent, at the language school wzw Roeland, Kijgslaan 18, on December 6th, 2017.
 
 This annual meeting is a place for the Belgium-based researchers
 interested in the network paradigm to meet and communicate their
