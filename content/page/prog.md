@@ -25,7 +25,7 @@ title = "Program"
 
 **12:20** - *lunch - posters*
 
-**14:00** - **Keynote speaker - Yamir Moreno** - [Multilayer networks: from disease spreading to ecosystems] (/2017/files/abs01.txt)
+**14:00** - **Keynote speaker - Yamir Moreno** - [Multilayer networks: from disease spreading to ecosystems] (/2017/files/abstract_ymoreno.pdf)
 
 **15:00** - *Pietro Coletti, Giancarlo De Luca, Kim Van Kerckhove, Chiara Poletto, Niel Hens and Vittoria Colizza* - [Regular school closure & influenza epidemics: a data-driven spatial transmission model for Belgium] (/2017/files/BENET2017_paper_5.pdf)
 
