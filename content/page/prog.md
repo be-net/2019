@@ -5,7 +5,7 @@ title = "Program"
 
 # Schedule 
 
-**09:30** - *Jérôme Kunegis, Pawan Kumar, Jun Sun and Giuseppe Pirrò* - [SynGraphy: Succinct Summarisation of Large Networks via Small Synthetic Representative Graphs](/2017/files/abs01.txt)
+**09:30** - *Jérôme Kunegis, Pawan Kumar, Jun Sun and Giuseppe Pirrò* - [SynGraphy: Succinct Summarisation of Large Networks via Small Synthetic Representative Graphs](/2017/files/BENET2017_paper_1.pdf)
 
 **09:50** - *Malbor Asllani and Timoteo Carletti* - [Topological resilience in non-normal networked systems] (/2017/files/BENET2017_paper_15.pdf)
 
@@ -27,7 +27,7 @@ title = "Program"
 
 **14:00** - **Keynote speaker - Yamir Moreno** - [Multilayer networks: from disease spreading to ecosystems] (/2017/files/abs01.txt)
 
-**15:00** - *Pietro Coletti, Giancarlo De Luca, Kim Van Kerckhove, Chiara Poletto, Niel Hens and Vittoria Colizza* - [Regular school closure & influenza epidemics: a data-driven spatial transmission model for Belgium] (/2017/files/abs01.txt)
+**15:00** - *Pietro Coletti, Giancarlo De Luca, Kim Van Kerckhove, Chiara Poletto, Niel Hens and Vittoria Colizza* - [Regular school closure & influenza epidemics: a data-driven spatial transmission model for Belgium] (/2017/files/BENET2017_paper_5.pdf)
 
 **15:20** - *coffee - posters*
 
