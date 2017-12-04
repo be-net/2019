@@ -57,7 +57,7 @@ title = "Program"
 
 *Julie Birkholz* - [Agents of change: women editors and socio-cultural transformation in Europe, 1710-1920] (/2017/files/BENET2017_paper_18.pdf)
 
-*Aaron Bramson and Benjamin Vandermarliere* - [Benchmarking measures of network influence] (/2017/files/abs01.txt)
+*Aaron Bramson and Benjamin Vandermarliere* - [Benchmarking measures of network influence] (/2017/files/BENET2017_paper_24.pdf)
 
 *Simona Paraschiv, Leontina Banica, Ionelia Nicolae, Iulia Niculescu, Adrian Abagiu, Raluca Jipa, Andrea-Clemencia Pineda-Peña, Marta Pingarilho, Emil Neaga, Kristof Theys, Pieter Libin, Dan Otelea and Ana Abecasis* - [Epidemic dispersion of HIV and HCV in a population of co-infected Romanian injecting drug users] (/2017/files/BENET2017_paper_25.pdf)
 
