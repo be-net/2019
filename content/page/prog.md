@@ -16,7 +16,7 @@ title = "Program"
 
 **11:00** - *Yerali Gandica, Marco Valerio Geraci, Sophie Béreau and Jean-Yves Gnabo* - [Financial institutions’ vulnerability: assessing the role of intra and inter-community dependences] (/2017/files/BENET2017_paper_32.pdf)
 
-**11:20** - *Viviana Marcela Vina Cervantes, Renaud Lambiotte and Michele Coscia* - [The Struggle for Existence in the World Market Ecosystem] (/2017/files/abs01.txt)
+**11:20** - *Viviana Marcela Vina Cervantes, Renaud Lambiotte and Michele Coscia* - [The Struggle for Existence in the World Market Ecosystem] (/2017/files/BENET2017_paper_21.pdf)
 
 **11:40** - *Benjamin Chiêm, Frédéric Crevecoeur and Jean-Charles Delvenne* - [Kernel methods for supervised classification of structural brain networks] (/2017/files/BENET2017_paper_30.pdf)
 
