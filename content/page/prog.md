@@ -53,7 +53,7 @@ title = "Program"
 
 *Timoteo Carletti, Malbor Asslani, Francesca Di Patti, Duccio Fanelli and Francesco Piazza* - [Crawling in crowed conditions. Application to network reconstruction] (/2017/files/BENET2017_paper_14.pdf)
 
-*Leonardo Gutierrez Gomez, Benjamin Chiêm and Jean-Charles Delvenne* - [Dynamics Based Features For Network Classification ] (/2017/files/abs01.txt)
+*Leonardo Gutierrez Gomez, Benjamin Chiêm and Jean-Charles Delvenne* - [Dynamics Based Features For Network Classification ] (/2017/files/BENET2017_paper_16.pdf)
 
 *Julie Birkholz* - [Agents of change: women editors and socio-cultural transformation in Europe, 1710-1920] (/2017/files/BENET2017_paper_18.pdf)
 
