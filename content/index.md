@@ -50,7 +50,7 @@ The scope of the meeting includes but is not restricted to:
 
 # Where and when?
 
-BeNet 2017 will take place in the Aula Complex of Ghent University in the city center of Ghent on the 6th of December
+BeNet 2017 will take place in the vzw Roeland, Krijgslaan 18, 10 minutes walk from Sint-Pieters station, on the 6th of December
 (see [here](location-and-contact)).
 
 
