@@ -22,14 +22,13 @@ submissions.
 
 Oral contributions:
 :   short talks abstracts (20 minutes including questions) should be submitted
-to [EasyChair][1] in text format (no more than 300 words).
+to [EasyChair][1].
 
 Poster contributions:
-:   submit the abstract to [EasyChair][1] (text only,
-no more than 300 words).
+:   submit the abstract to [EasyChair][1]
+
 Please append the word `[POSTER]` to the title of your submission.
 
-**Please ignore the EasyChair message saying that you can submit pdf too, we need text only to automatically generate the abstract book.**
 
 **If you submit an abstract for a talk or a poster you will be automatically registered. This is not automatic for the co-authors, so they should register separately. Also, if you submitted something, but for any reason you don't plan to attend anymore, please send us an email with subject `[BeNet2017 cancellation]`** 
 
