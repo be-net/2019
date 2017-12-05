@@ -31,7 +31,7 @@ title = "Program"
 
 **15:20** - *coffee - posters*
 
-**16:20** - *Jef Vlegels* - [Exploring the impact of geographical distance on research contracted to universities: a social network approach] (/2017/files/abs01.txt)
+**16:20** - *Jef Vlegels* - [Exploring the impact of geographical distance on research contracted to universities: a social network approach] (/2017/files/BENET2017_paper_19.pdf)
 
 **16:40** - *Alexey Medvedev and Renaud Lambiotte* - [Predicting structure and dynamics of discussion threads in online boards using Hawkes processes] (/2017/files/BENET2017_paper_23.pdf)
 
