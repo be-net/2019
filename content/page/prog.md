@@ -69,5 +69,5 @@ title = "Program"
 
 *Alexandre Bovet and Hernan Makse* - [	Dynamics of Twitter Opinion During the US 2016 Presidential Election] (/2017/files/BENET2017_paper_31.pdf)
 
-*Dimiter Prodanov* - [Fractional diffusion in the brain] (/2017/files/abs01.txt)
+*Dimiter Prodanov* - [Fractional diffusion in the brain] (/2017/files/BENET2017_paper_34.pdf)
 
