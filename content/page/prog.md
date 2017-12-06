@@ -9,7 +9,7 @@ title = "Program"
 
 **09:50** - *Malbor Asllani and Timoteo Carletti* - [Topological resilience in non-normal networked systems] (/2017/files/BENET2017_paper_15.pdf)
 
-**10:10** - *Leto Peel* - [Beyond networks: Incorporating node metadata into network analysis] (/2017/files/abs01.txt)
+**10:10** - *Leto Peel* - [Beyond networks: Incorporating node metadata into network analysis] (/2017/files/BENET2017_paper_22.pdf)
 
 
 **10:30** - *Coffee break*
