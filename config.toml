@@ -1,4 +1,4 @@
-baseurl = "https://be-net.github.io/2017/"
+baseurl = "https://be-net.github.io/2019/"
 languageCode = "en-us"
 title = "Belgian Network Research Meeting"
 theme = "lithium"
@@ -16,10 +16,6 @@ ignoreFiles = [ "\\.bak$" ]
     page = "/:title/"
 
 [[menu.main]]
-    name = "Program"
-    url = "/program/"
-    weight = -106
-[[menu.main]]
     name = "Registration"
     url = "/registration/"
     weight = -105
@@ -29,11 +25,11 @@ ignoreFiles = [ "\\.bak$" ]
     weight = -104
 
 [params]
-  titleshort = "BeNet2017"
+  titleshort = "BeNet2019"
   description = "Belgian Network Research Meeting"
-  abs_deadline = "2017-11-26"
-  reg_deadline = "2017-12-01"
-  not_deadline = "2017-11-30"
+  abs_deadline = "2019-02-10"
+  reg_deadline = "2019-02-15"
+  not_deadline = "2019-02-14"
 
   [params.logo]
     url = "logo.png"

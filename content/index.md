@@ -5,7 +5,7 @@ title = "Home"
 
 # BeNet -- What?
 
-The 7th edition of the Belgian Network Research Meeting (BeNet) will be held in Ghent, at the language school wzw Roeland, Kijgslaan 18, on December 6th, 2017.
+The 8th edition of the Belgian Network Research Meeting (BeNet) will be held in Hasselt, at Hasselt University (campus Diepenbeek), on February 22nd, 2019.
 
 This annual meeting is a place for the Belgium-based researchers
 interested in the network paradigm to meet and communicate their
@@ -23,7 +23,7 @@ sociology,
 statistics,
 etc.
 
-Previous editions were held in Louvain-La-Neuve (UCL 2016), Namur (UNamur 2015), Brussels (ULB 2014),
+Previous editions were held in Ghent (2017), Louvain-La-Neuve (UCL 2016), Namur (UNamur 2015), Brussels (ULB 2014),
 Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).
 See [here](https://be-net.github.io)
 for respective websites.
@@ -44,32 +44,24 @@ The scope of the meeting includes but is not restricted to:
 - Geography & Urban Dynamics
 
 
-# Invited Speaker
-
-[Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/), Institute for Biocomputation and Physics of Complex Systems (BIFI), Vice-president of the Network Science Society, Elected President of the Complex Systems Society.
 
 # Where and when?
 
-BeNet 2017 will take place in the vzw Roeland, Krijgslaan 18, 10 minutes walk from Sint-Pieters station, on the 6th of December
-(see [here](location-and-contact)).
+BeNet 2019 will take place at Hasselt University (campus Diepenbeek), 15 minutes bus from Hasselt station, on the 22nd of February (see [here](location-and-contact)).
 
 
 ### Important Dates
 
-- Abstract Deadline: **{{< deadline "abs" >}}**
-- Registration Deadline: **{{< deadline "reg" >}}**
-- Notification of acceptance: **{{< deadline "not" >}}**
+- Abstract Deadline: **10.02.2019**
+- Registration Deadline: **14.02.2019**
+- Notification of acceptance: **15.02.2019**
 
-See [here](registration) for a more complete information on how to apply and
-register for this event.
 
-# Program Committee
+<!-- See [here](registration) for a more complete information on how to apply and
+register for this event. -->
 
-- Julie Birkholz (UGent)
-- Matteo Gagliolo (ULB)
-- Yerali Gandica (UNamur)
-- Jelena Grujic (VUB)
-- Daniele Marinazzo (UGent)
+<!-- # Program Committee-->
+
 
 # Mailing list
 
@@ -81,5 +73,4 @@ created and administered by Matteo Gagliolo.
 # Contacts
  
 For any question or request please contact
-[Daniele Marinazzo](<mailto:daniele.marinazzo@gmail.com>) or
-[Julie Birkholz](<mailto:Julie.Birkholz@ugent.be >)
+[Pietro Coletti](<mailto:pietro.coletti@uhasselt.be>) 
