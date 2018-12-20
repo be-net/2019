@@ -1,4 +1,4 @@
-# BeNet 2017 Meeting in Hasselt
+# BeNet 2019 Meeting in Hasselt
 
 Here is the code to build the website of the 2019 BeNet Meeting, copied from the 2016 one.
 To run needs [Hugo](https://gohugo.io/) and `git` of course.
