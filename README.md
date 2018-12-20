@@ -1,6 +1,6 @@
-# BeNet 2017 Meeting in Ghent
+# BeNet 2017 Meeting in Hasselt
 
-Here is the code to build the website of the 2017 BeNet Meeting, copied from the 2016 one.
+Here is the code to build the website of the 2019 BeNet Meeting, copied from the 2016 one.
 To run needs [Hugo](https://gohugo.io/) and `git` of course.
 
 It uses the [Lithium](https://github.com/jrutheiser/hugo-lithium-theme) theme.
@@ -9,11 +9,11 @@ It uses the [Lithium](https://github.com/jrutheiser/hugo-lithium-theme) theme.
 
 Clone the repo:
 
-    > git clone https://github.com/be-net/2017
+    > git clone https://github.com/be-net/2019
 
 To see locally your changes (after installing hugo):
 
-    > cd 2017
+    > cd 2019
     > hugo serve
 
 to build the site in the `docs` folder:
