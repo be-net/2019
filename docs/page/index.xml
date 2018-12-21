@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Belgian Network Research Meeting</title>
-    <link>https://be-net.github.io/2019/</link>
-    <description>Recent content in Home on Belgian Network Research Meeting</description>
+    <title>Pages on Belgian Network Research Meeting</title>
+    <link>https://be-net.github.io/2019/page/</link>
+    <description>Recent content in Pages on Belgian Network Research Meeting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
     
-	<atom:link href="https://be-net.github.io/2019/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://be-net.github.io/2019/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Location and Contact</title>
-      <link>https://be-net.github.io/2019/location/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://be-net.github.io/2019/location/</guid>
-      <description>Location The BeNet 2019 meeting will be held at University of Hasselt, campus Diepenbeek building D.
-Address: Agoralaan gebouw D, 3590 Diepenbeek, Belgium
- Directions From Hasselt station you can take buses 45, 36 and 20A and get off at the second stop inside the campus (Directions)
-Contacts For any question or request please contact Pietro Coletti</description>
-    </item>
     
     <item>
       <title>Location and Contact</title>

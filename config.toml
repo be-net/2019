@@ -6,6 +6,8 @@ googleAnalytics = ""
 disqusShortname = ""
 publishdir = "docs"
 ignoreFiles = [ "\\.bak$" ]
+disableKinds = ["taxonomy", "taxonomyTerm", "tags", "sitemap"]
+enableMissingTranslationPlaceholders = "true"
 
 [blackfriday]
    plainIDAnchors = true
