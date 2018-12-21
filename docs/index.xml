@@ -2,68 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Belgian Network Research Meeting</title>
-    <link>https://be-net.github.io/2017/</link>
+    <link>https://be-net.github.io/2019/</link>
     <description>Recent content on Belgian Network Research Meeting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://be-net.github.io/2017/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://be-net.github.io/2019/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>https://be-net.github.io/2017/</link>
+      <link>https://be-net.github.io/2019/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://be-net.github.io/2017/</guid>
-      <description>BeNet &amp;ndash; What? The 7th edition of the Belgian Network Research Meeting (BeNet) will be held in Ghent, at the language school wzw Roeland, Kijgslaan 18, on December 6th, 2017.
+      <guid>https://be-net.github.io/2019/</guid>
+      <description>BeNet &amp;ndash; What? The 8th edition of the Belgian Network Research Meeting (BeNet) will be held in Hasselt, at Hasselt University (campus Diepenbeek), on February 22nd, 2019.
 This annual meeting is a place for the Belgium-based researchers interested in the network paradigm to meet and communicate their results, regardless of the discipline: biology, communication, economics, geography, history, informatics, mathematics, medicine, physics, sociology, statistics, etc.
-Previous editions were held in Louvain-La-Neuve (UCL 2016), Namur (UNamur 2015), Brussels (ULB 2014), Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).</description>
-    </item>
-    
-    <item>
-      <title>Location and Contact</title>
-      <link>https://be-net.github.io/2017/location-and-contact/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://be-net.github.io/2017/location-and-contact/</guid>
-      <description>Location The BeNet 2017 meeting will be held in the language school Vzw Roeland.
-Address: Krijgslaan 18, 9000 Ghent.
-
-Contacts For any question or request please contact Daniele Marinazzo or Julie Birkholz</description>
-    </item>
-    
-    <item>
-      <title>Program</title>
-      <link>https://be-net.github.io/2017/program/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://be-net.github.io/2017/program/</guid>
-      <description>Schedule 09:30 - Jérôme Kunegis, Pawan Kumar, Jun Sun and Giuseppe Pirrò - SynGraphy: Succinct Summarisation of Large Networks via Small Synthetic Representative Graphs
-09:50 - Malbor Asllani and Timoteo Carletti - Topological resilience in non-normal networked systems
-10:10 - Leto Peel - Beyond networks: Incorporating node metadata into network analysis
-10:30 - Coffee break
-11:00 - Yerali Gandica, Marco Valerio Geraci, Sophie Béreau and Jean-Yves Gnabo - Financial institutions’ vulnerability: assessing the role of intra and inter-community dependences</description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://be-net.github.io/2017/registration/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://be-net.github.io/2017/registration/</guid>
-      <description>Important dates  Abstract submission  Sun, Nov 26, 2017(both oral and poster contributions) Notification of acceptance  Thu, Nov 30, 2017 Registration Fri, Dec 1, 2017  Call for abstracts Oral and poster contribution are welcome, please refer to EasyChair for submissions.
- Oral contributions: short talks abstracts (20 minutes including questions) should be submitted to EasyChair. Poster contributions: submit the abstract to EasyChair  Please append the word [POSTER] to the title of your submission.</description>
-    </item>
-    
-    <item>
-      <title>Talk 01</title>
-      <link>https://be-net.github.io/2017/talk-01/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://be-net.github.io/2017/talk-01/</guid>
-      <description>Test</description>
+Previous editions were held in Ghent (2017), Louvain-La-Neuve (UCL 2016), Namur (UNamur 2015), Brussels (ULB 2014), Leuven (IIS/KUL 2013), Antwerpen (UA 2012) and Brussels (VUB 2011).</description>
     </item>
     
   </channel>

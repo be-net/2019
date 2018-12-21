@@ -1,50 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://be-net.github.io/2017/</loc>
+    <loc>https://be-net.github.io/2019/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2017/location-and-contact/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2017/program/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2017/registration/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2017/talk-01/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2017/</loc>
+    <loc>https://be-net.github.io/2019/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2017/categories/</loc>
+    <loc>https://be-net.github.io/2019/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://be-net.github.io/2017/page/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://be-net.github.io/2017/tags/</loc>
+    <loc>https://be-net.github.io/2019/tags/</loc>
     <priority>0</priority>
   </url>
   
