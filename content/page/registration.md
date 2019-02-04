@@ -17,7 +17,15 @@ Registration
 
 # Call for abstracts
 
-Oral (20 minutes, including questions) and poster contribution are welcome.
+Oral and poster contribution are welcome, please refer to EasyChair for submissions.
+
+Oral contributions: : short talks abstracts (20 minutes including questions) should be submitted to EasyChair.
+
+Poster contributions: : submit the abstract to EasyChair
+
+Please append the word [POSTER] to the title of your submission.
+
+If you submit an abstract for a talk or a poster you will be automatically registered. This is not automatic for the co-authors, so they should register separately. Also, if you submitted something, but for any reason you don't plan to attend anymore, please send us an email with subject [BeNet2019 cancellation]
 
 # Registration
 

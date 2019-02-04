@@ -60,7 +60,16 @@ BeNet 2019 will take place at Hasselt University (campus Diepenbeek), 15 minutes
 <!-- See [here](registration) for a more complete information on how to apply and
 register for this event. -->
 
-<!-- # Program Committee-->
+# Program Committee
+
+- Alexandre Bovet (UC Louvain)
+- Pietro Coletti (UHasselt)
+- Mauro Faccin (UC Louvain)
+- Matteo Gagliolo (ULB)
+- Yerali Gandica (UC Louvain)
+- Daniele Marinazzo (UGhent)
+
+	
 
 
 # Mailing list
