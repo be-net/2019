@@ -52,9 +52,9 @@ BeNet 2019 will take place at Hasselt University (campus Diepenbeek), 15 minutes
 
 ### Important Dates
 
-- Abstract Deadline: **10.02.2019**
-- Registration Deadline: **14.02.2019**
-- Notification of acceptance: **15.02.2019**
+- Abstract Deadline: **16.02.2019 (Extended)**
+- Registration Deadline: **18.02.2019**
+- Notification of acceptance: **19.02.2019**
 
 
 <!-- See [here](registration) for a more complete information on how to apply and
