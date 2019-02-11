@@ -7,13 +7,13 @@ title = "Registration"
 # Important dates
 
 Abstract submission
-:   10.02.2019 (both oral and poster contributions)
+:   **Extended deadline 16.02.2019** (both oral and poster contributions)
 
 Notification of acceptance
-:   14.02.2019
+:   **18.02.2019**
 
 Registration 
-:   15.02.2019
+:   **19.02.2019**
 
 # Call for abstracts
 
@@ -32,7 +32,7 @@ If you submit an abstract for a talk or a poster you will be automatically regis
 # Registration
 
 Registration is **free**. Nonetheless the space is limited. Preference will be given to people presenting some work, and promotion of diversity will be a criterion of choice.
-Please register by **15.02.2019**.
+Please register by **19.02.2019**.
 For those who don't plan to submit a oral/poster contribution,
 you can register by simply sending an *empty* abstract with the
 word `[REGISTRATION].`  
