@@ -19,7 +19,7 @@ title = "Program"
 
 **11:50** - *Alexandre Bovet and Hernan Makse* - [Dynamics and influence of misinformation and traditional fact-based news in Twitter](/2019/files/BENET2017_paper_10.pdf) 
 
-**12:10** - *Leonardo Gutiérrez, Alexandre Bovet and Jean-Carles Delvenne* - [Spectral anomaly detection on attributed Networks] (/2019/files/BENET2017_paper_15.pdf) 
+**12:10** - *Leonardo Gutiérrez, Alexandre Bovet and Jean-Carles Delvenne* - [Spectral anomaly detection on attributed Networks] (/2019/docs/files/BENET2017_paper_15.pdf) 
 
 **12:30** - *Lunch*
 
