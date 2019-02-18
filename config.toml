@@ -18,6 +18,11 @@ enableMissingTranslationPlaceholders = "true"
     page = "/:title/"
 
 [[menu.main]]
+    name = "Program"
+    url = "/program/"
+    weight = -106
+
+[[menu.main]]
     name = "Registration"
     url = "/registration/"
     weight = -105

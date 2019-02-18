@@ -6,7 +6,7 @@ title = "Location and Contact"
 # Location
 
 
-The BeNet 2019 meeting will be held at University of Hasselt, campus Diepenbeek building D.
+The BeNet 2019 meeting will be held at University of Hasselt, campus Diepenbeek building D, **room c21**. Registration will take place at the entrance of building D.
 
 Address: Agoralaan gebouw D, 3590 Diepenbeek, Belgium
 
